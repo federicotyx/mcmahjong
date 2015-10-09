@@ -1,0 +1,7 @@
+binary file format:
+first 13 tiles are the initial tiles, then one 8bit unsigned integer indicate the times of draw and throw,
+then draw and throw, at the end of one event is 
+the status code, for different monte carlo, the status code may be different, but it is one unsigned 8bit
+integer.
+
+simple text file format

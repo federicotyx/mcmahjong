@@ -1,0 +1,10 @@
+standard for one tile:
+In text file format, all tiles are expressed by one number plus one lower case character:
+1m~9m,1p~9p,1s~9s,1z~7z,like tenhou style.
+But 1h~8h means the flowers, and for akadora, use upper case character instead: 5M,5P,5S.
+We do not use 0m 0p 0s as tenhou because we want to allow
+allow akadora other than 5.
+
+And in binary file format, a tile is expressed by one 8bit signed integer number:
+0~8 means 1m~9m, 9~17 means 1p~9p, 18~26 means 1s~9s, 27~33 means 1z~7z, 34~41 means 1h~8h.
+For akadora, negative number is used instead.
