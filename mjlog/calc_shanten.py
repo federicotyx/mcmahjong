@@ -40,7 +40,7 @@ class hai_tree:
 
     def add_child(self, new_part):
         flag = 0
-        new_left = self.hai_left.copy()
+        new_left = self.hai_left[:]
         for x in sorted(new_part, reverse=True):
             new_left.pop(x)
         for node in hai_tree.nodes:
@@ -66,7 +66,7 @@ class hai_tree:
             if node.hai_left != []:
                 node.search_candidates(depth + 1)
             else:
-                hai_tree.candidates.append(hai_tree.part.copy())
+                hai_tree.candidates.append(hai_tree.part[:])
                 if hai_tree.last_div:
                     hai_tree.part[hai_tree.last_div[-1]:] = []
         return hai_tree.candidates
