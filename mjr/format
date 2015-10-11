@@ -1,4 +1,4 @@
-start:
+binary file format:
 !mjr     as file header
 then information about the first person, ending by \0(such as name, rank)
 then second, third, last
@@ -30,4 +30,39 @@ information, ending by '\0'
 additional information, ending by '\0'
 10: special ending, followed by 8 bit ending style, then 4 int16_t indicate score change, then additional
 information, ending by '\0'
+11: end this match
+
+
+text file format(xml style)
+start with <mjr>
+then <info id=0>information about the first person(such as name, rank)</info>
+then second, third, last
+then <match>
+then some match information, including oya,honba,kyotaku
+then initial score:<score id=0></score> and so on
+then <init id=0>text format pai, sorted </init>
+then second, third, last
+then addition information ,such as <dora>
+then is the game play sequence:
+game indicator:
+<D> draw a new pai, followed by a pai name(optional id)
+<B> draw a new pai from the end(optional id)
+<GH> give the pai from hand, followed by a pai name(optional id)
+<GJ> give the pai just get, followed by a pai name(optional id)
+<C> chi, followed by two pai name
+<P id=?> peng, followed by two pai name
+<HUA> followed by a pai name(optional id)
+<ANGANG> followed by a pai name(optional id)
+<JIAGANG> followed by a pai name(optional id)
+<DAMINGGANG id=> followed by three pai name
+<REACH1> followed by a pai name(optional id)
+<REACH2/> za bang!(optional id)
+<YON id=?/>
+<TSUMO/>(optional id)
+<END/>
+
+then ending conclusion:
+<TSUMO id= score= ><change id=></change></TSUMO>
+<YON from= to= score= ><change .....>
+<SPECIAL name=><change .....>
 11: end this match
