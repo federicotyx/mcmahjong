@@ -2,12 +2,13 @@
 
 std::string b2t(int8_t a)
 {
-	int8_t t = abs(a);
+	int8_t t = abs(a) % 64;
+	bool r = abs(a) >= 64;
 	std::string res;
 	if (t < 9)
 	{
 		res += char(t) + '1';
-		if (a >= 0)
+		if (!r)
 		{
 			res += 'm';
 		}
@@ -19,7 +20,7 @@ std::string b2t(int8_t a)
 	else if (t < 18)
 	{
 		res += char(t) - 9 + '1';
-		if (a > 0)
+		if (!r)
 		{
 			res += 'p';
 		}
@@ -31,7 +32,7 @@ std::string b2t(int8_t a)
 	else if (t < 27)
 	{
 		res += char(t) - 18 + '1';
-		if (a > 0)
+		if (!r)
 		{
 			res += 's';
 		}
@@ -43,7 +44,7 @@ std::string b2t(int8_t a)
 	else if (t < 34)
 	{
 		res += char(t) - 27 + '1';
-		if (a > 0)
+		if (!r)
 		{
 			res += 'z';
 		}

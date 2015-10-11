@@ -1,0 +1,33 @@
+start:
+!mjr     as file header
+then information about the first person, ending by \0(such as name, rank)
+then second, third, last
+then match information, ending by \0
+then initial score:4 int16_t
+then 13 int8_t, indicate the initial pai of the first person
+then second, third, last
+then additional indicate, ending by \0(such as dora)
+then is the game play sequence:
+game indicator:
+0 : get a new pai or give the pai from hand, followed by a 7bit pai
+10 : give a pai just get
+11001: chi1, chi a using a+1 a+2, followed by two bit indicating a+1(a+2) is akadora or not, respectively
+11010: chi2, chi a+1 using a, a+2, followed by akadora indicator
+11011: chi3, chi a+2 using a, a+1, ......
+11100: peng, followed by two bit indicate who peng, then akadora indicator
+111010: angang or hua, followed by a 6bit pai(since we do not care akadora or not), if it is hua pai, then it means hua, otherwise it means angang
+1110110: jiagang, followed by a 7bit pai
+1110111: daminggang, followed by two bit indicate who gang, then 6bit pai
+111100: riichi1, followed by riichi pai
+111101: riichi2, means previous riichi1 is successful
+11000:hu, followed by two bit indicate who hu
+11111:ending flag
+
+then ending conclusion:
+00: tsumo, followed by two bit indicate who tsumo, then 4 int16_t indicate score change, then additional
+information, ending by '\0'
+01: yon, followed by two bit indicate who yon, then who is yoned, then 4 int16_t indicate score change, then
+additional information, ending by '\0'
+10: special ending, followed by 8 bit ending style, then 4 int16_t indicate score change, then additional
+information, ending by '\0'
+11: end this match

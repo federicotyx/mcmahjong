@@ -7,4 +7,4 @@ allow akadora other than 5.
 
 And in binary file format, a tile is expressed by one 8bit signed integer number:
 0~8 means 1m~9m, 9~17 means 1p~9p, 18~26 means 1s~9s, 27~33 means 1z~7z, 34~41 means 1h~8h.
-For akadora, negative number is used instead.
+For akadora, the second bit is set to be 1, i.e. 1M is 64
