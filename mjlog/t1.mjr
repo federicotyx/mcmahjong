@@ -1,0 +1,1680 @@
+<mjr>
+  <info id="0" name="%E6%B4%A5%E7%94%B0%E6%B2%BC%E3%81%A3%E5%AD%90" dan="16" rate="2074.15"/>
+  <info id="1" name="%61%74%79%61%6E" dan="17" rate="2189.48"/>
+  <info id="2" name="%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB" dan="16" rate="2136.99"/>
+  <info id="3" name="%73%75%6E%61%62%61%6B%75" dan="16" rate="2072.25"/>
+  <game kyoku="0" honba="0" kyotaku="0" oya="0">
+    <score>25000 25000 25000 25000</score>
+    <init id="0">2p4p5p5m7m2s3s4s5s1z2z7z7z</init>
+    <init id="1">1p3p5P6p8p1m2m7m3s6s7s8s7z</init>
+    <init id="2">1p2p4p6p9p2m9m2s4s9s5z6z7z</init>
+    <init id="3">5p7p7p2m4m6m9m9m3s2z3z4z5z</init>
+    <indicator>3p</indicator>
+    <draw>3m</draw>
+    <discard1>2z</discard1>
+    <draw>9p</draw>
+    <discard1>7z</discard1>
+    <peng>7z7z</peng>
+    <NAKU junme="2" naku_hai="132,133,135" hai="132"/>
+    <discard1>2p</discard1>
+    <draw>1m</draw>
+    <discard1>2m</discard1>
+    <draw>8p</draw>
+    <discard1>7z</discard1>
+    <draw>4m</draw>
+    <discard1>3z</discard1>
+    <draw>7s</draw>
+    <discard1>1z</discard1>
+    <draw>3z</draw>
+    <discard2>3z</discard2>
+    <draw>5z</draw>
+    <discard1>9m</discard1>
+    <draw>6p</draw>
+    <discard1>2z</discard1>
+    <draw>1z</draw>
+    <discard2>1z</discard2>
+    <draw>7p</draw>
+    <discard1>3s</discard1>
+    <chi>2s4s</chi>
+    <NAKU junme="3" naku_hai="79,80,85" hai="80"/>
+    <discard1>9s</discard1>
+    <draw>6m</draw>
+    <discard1>4z</discard1>
+    <draw>9s</draw>
+    <discard2>9s</discard2>
+    <draw>8p</draw>
+    <discard1>7m</discard1>
+    <draw>4z</draw>
+    <discard1>2m</discard1>
+    <draw>9p</draw>
+    <discard1>2m</discard1>
+    <draw>1m</draw>
+    <discard2>1m</discard2>
+    <draw>4m</draw>
+    <discard2>4m</discard2>
+    <draw>3m</draw>
+    <discard2>3m</discard2>
+    <draw>3z</draw>
+    <discard2>3z</discard2>
+    <draw>2s</draw>
+    <discard1>7s</discard1>
+    <draw>5s</draw>
+    <discard1>8p</discard1>
+    <draw>1s</draw>
+    <discard2>1s</discard2>
+    <draw>9s</draw>
+    <discard2>9s</discard2>
+    <draw>1s</draw>
+    <discard2>1s</discard2>
+    <draw>8p</draw>
+    <discard1>8p</discard1>
+    <draw>5m</draw>
+    <discard1>4z</discard1>
+    <draw>4s</draw>
+    <discard2>4s</discard2>
+    <draw>5p</draw>
+    <discard2>5p</discard2>
+    <draw>2z</draw>
+    <discard2>2z</discard2>
+    <draw>3p</draw>
+    <discard1>5m</discard1>
+    <draw>5M</draw>
+    <discard1>3s</discard1>
+    <draw>8s</draw>
+    <discard2>8s</discard2>
+    <draw>6s</draw>
+    <discard1>1p</discard1>
+    <draw>5S</draw>
+    <discard1>9p</discard1>
+    <draw>3m</draw>
+    <discard1>5z</discard1>
+    <draw>1z</draw>
+    <discard2>1z</discard2>
+    <draw>6z</draw>
+    <discard1>3p</discard1>
+    <draw>4p</draw>
+    <discard1>6z</discard1>
+    <draw>7p</draw>
+    <discard1>9p</discard1>
+    <draw>8s</draw>
+    <discard2>8s</discard2>
+    <draw>9p</draw>
+    <discard1>6z</discard1>
+    <draw>5m</draw>
+    <discard2>5m</discard2>
+    <draw>6z</draw>
+    <discard2>6z</discard2>
+    <draw>1s</draw>
+    <discard2>1s</discard2>
+    <draw>3s</draw>
+    <discard1>9p</discard1>
+    <draw>6z</draw>
+    <discard2>6z</discard2>
+    <draw>4m</draw>
+    <discard1>9m</discard1>
+    <draw>2p</draw>
+    <discard2>2p</discard2>
+    <draw>8m</draw>
+    <discard1>8p</discard1>
+    <draw>2s</draw>
+    <discard1>8p</discard1>
+    <draw>1p</draw>
+    <discard1>9m</discard1>
+    <draw>6m</draw>
+    <discard1>3m</discard1>
+    <TENPAI junme="15" who="0" machi_hai="2,5"/>
+    <draw>9s</draw>
+    <discard1>9p</discard1>
+    <draw>4z</draw>
+    <discard2>4z</discard2>
+    <draw>1z</draw>
+    <discard2>1z</discard2>
+    <draw>7m</draw>
+    <discard2>7m</discard2>
+    <draw>3m</draw>
+    <discard2>3m</discard2>
+    <draw>8m</draw>
+    <discard1>5z</discard1>
+    <draw>4s</draw>
+    <discard1>1p</discard1>
+    <draw>8m</draw>
+    <discard1>5m</discard1>
+    <draw>9m</draw>
+    <discard1>1m</discard1>
+    <draw>5s</draw>
+    <discard1>1p</discard1>
+    <draw>6p</draw>
+    <discard1>3m</discard1>
+    <draw>2z</draw>
+    <discard2>2z</discard2>
+    <draw>7m</draw>
+    <discard1>1m</discard1>
+    <DAMA junme="18" who="1" machi_hai="21"/>
+    <draw>8s</draw>
+    <discard1>5z</discard1>
+    <draw>3p</draw>
+    <discard1>5M</discard1>
+    <draw>1s</draw>
+    <discard2>1s</discard2>
+    <draw>6m</draw>
+    <discard1>9m</discard1>
+    <GET hai="47,33,132,36,29,49,96,117,127,20,109,25,80,57,106,28,122,35,39,50,44,119,78,90,73,107,74,31,55,86,17,114,8,52,102,94,88,45,110,130,15,26,101,32,54,131,72,83,128,48,7,66,77,1,56,104,121,108,63,46,67,84,64,71,89,22,113,60,100,9,75,58" seq="T1,U1,T5,U1,V1,W1,T1,U1,V1,W1,T1,U1,V3,W1,T1,U1,V1,W1,T1,U1,V1,W1,T1,U1,V1,W1,T1,U1,V1,W1,T1,U1,V1,W1,T1,U1,V1,W1,T1,U1,V1,W1,T1,U1,V1,W1,T1,U1,V1,W1,T1,U1,V1,W1,T1,U1,V1,W1,T1,U1,V1,W1,T1,U1,V1,W1,T1,U1,V1,W1,T1,U1"/>
+    <PLAY hai="115,132,6,41,134,116,111,117,68,112,109,80,105,120,106,61,40,43,39,50,44,119,96,30,73,107,74,28,122,86,17,114,55,82,102,0,34,125,110,11,129,35,101,130,54,131,72,33,128,69,7,31,29,70,47,32,121,108,63,46,127,1,53,37,3,45,113,36,124,52,75,71" seq="D0,E0,D0,E0,F0,G0,D0,E2,F0,G0,D2,E0,F0,G0,D2,E0,F0,G0,D2,E2,F2,G2,D0,E0,F2,G2,D2,E0,F0,G2,D2,E2,F0,G0,D2,E0,F0,G0,D2,E0,F0,G0,D2,E0,F2,G2,D2,E0,F2,G0,D2,E0,F0,G0,D0,E0,F2,G2,D2,E2,F0,G0,D0,E0,F0,G0,D2,E0,F0,G0,D2,E0"/>
+    <RYUUKYOKU sc="15,15,-15,-15" ten="265,265,235,235"/>
+  </game>
+  <game kyoku="0" honba="1" kyotaku="0" oya="0">
+    <score>26500 26500 23500 23500</score>
+    <init id="0">5p1m1m2m7m6s7s1z2z3z3z4z5z</init>
+    <init id="1">2p3p4p7p5M8m2s3s4s6s2z2z6z</init>
+    <init id="2">1p1p7m7m8m8m9m2s6s8s5z7z7z</init>
+    <init id="3">2p4p5p8p1m8m9m1s8s9s2z4z7z</init>
+    <indicator>1s</indicator>
+    <draw>6z</draw>
+    <discard1>2z</discard1>
+    <peng>2z2z</peng>
+    <NAKU junme="1" naku_hai="112,113,114" hai="114"/>
+    <discard1>6z</discard1>
+    <draw>1p</draw>
+    <discard1>5z</discard1>
+    <draw>8s</draw>
+    <discard1>2z</discard1>
+    <draw>6z</draw>
+    <discard1>4z</discard1>
+    <draw>9m</draw>
+    <discard2>9m</discard2>
+    <draw>7s</draw>
+    <riichi1/>
+    <discard1>2s</discard1>
+    <REACH junme="2" who="2" machi_hai="14,17"/>
+    <riichi2/>
+    <change>26500 26500 22500 23500</change>
+    <draw>4s</draw>
+    <discard1>4z</discard1>
+    <draw>1m</draw>
+    <discard1>5z</discard1>
+    <draw>6p</draw>
+    <discard1>8m</discard1>
+    <draw>2s</draw>
+    <discard2>2s</discard2>
+    <draw>5P</draw>
+    <discard1>8m</discard1>
+    <draw>3p</draw>
+    <discard1>3z</discard1>
+    <draw>6m</draw>
+    <discard1>6s</discard1>
+    <draw>4p</draw>
+    <discard2>4p</discard2>
+    <draw>5z</draw>
+    <discard1>4p</discard1>
+    <chi>3p5p</chi>
+    <NAKU junme="5" naku_hai="9,13,19" hai="13"/>
+    <discard1>3z</discard1>
+    <draw>2m</draw>
+    <discard1>4p</discard1>
+    <draw>1s</draw>
+    <discard2>1s</discard2>
+    <draw>2p</draw>
+    <discard1>1s</discard1>
+    <draw>5m</draw>
+    <discard1>1z</discard1>
+    <draw>8s</draw>
+    <discard1>2s</discard1>
+    <draw>6z</draw>
+    <discard2>6z</discard2>
+    <peng>6z6z</peng>
+    <NAKU junme="7" naku_hai="128,129,130" hai="128"/>
+    <discard1>2m</discard1>
+    <draw>7z</draw>
+    <discard1>2m</discard1>
+    <draw>4m</draw>
+    <discard2>4m</discard2>
+    <draw>5S</draw>
+    <discard1>5z</discard1>
+    <draw>6m</draw>
+    <discard1>1m</discard1>
+    <TENPAI junme="8" who="0" machi_hai="22,25"/>
+    <draw>1z</draw>
+    <discard2>1z</discard2>
+    <draw>6m</draw>
+    <AGARI who="2" fwho="2" junme="8" hai="1,2,3,58,60,63,65,66,69,93,98,102,132,134" sc="-14,-8,40,-8" yaku="1,1,0,1,53,0" hora="40,2700,0" ten="251,257,265,227"/>
+  </game>
+  <game kyoku="1" honba="0" kyotaku="0" oya="1">
+    <score>25100 25700 26500 22700</score>
+    <init id="0">1p5m6m7m8m9m2s5s6s9s1z7z7z</init>
+    <init id="1">1p7p8p8p1m2m4m4m7m9m2s4s6z</init>
+    <init id="2">5p1m1m2m3m8m1s1s3s1z2z3z6z</init>
+    <init id="3">1p3p4p4p4p6p6p2m3m6m8m2s1z</init>
+    <indicator>4z</indicator>
+    <draw>8s</draw>
+    <discard1>1p</discard1>
+    <draw>9p</draw>
+    <discard1>3z</discard1>
+    <draw>1p</draw>
+    <discard1>2s</discard1>
+    <draw>7z</draw>
+    <discard1>9s</discard1>
+    <draw>5m</draw>
+    <discard1>6z</discard1>
+    <draw>3p</draw>
+    <discard1>6z</discard1>
+    <draw>8p</draw>
+    <discard1>8m</discard1>
+    <draw>3p</draw>
+    <discard1>2s</discard1>
+    <draw>8s</draw>
+    <discard1>1m</discard1>
+    <draw>2p</draw>
+    <discard1>2z</discard1>
+    <draw>9p</draw>
+    <discard1>6m</discard1>
+    <draw>4p</draw>
+    <discard1>1p</discard1>
+    <peng>1p1p</peng>
+    <NAKU junme="4" naku_hai="0,1,3" hai="3"/>
+    <discard1>3m</discard1>
+    <draw>1s</draw>
+    <discard2>1s</discard2>
+    <draw>2p</draw>
+    <discard2>2p</discard2>
+    <draw>7z</draw>
+    <discard1>8m</discard1>
+    <draw>1s</draw>
+    <discard1>2m</discard1>
+    <draw>7m</draw>
+    <discard1>4p</discard1>
+    <peng>4p4p</peng>
+    <NAKU junme="6" naku_hai="12,13,14" hai="14"/>
+    <discard1>1s</discard1>
+    <draw>6s</draw>
+    <discard1>3p</discard1>
+    <draw>6z</draw>
+    <discard2>6z</discard2>
+    <draw>8p</draw>
+    <discard1>1s</discard1>
+    <draw>6z</draw>
+    <discard2>6z</discard2>
+    <draw>2s</draw>
+    <discard2>2s</discard2>
+    <draw>5M</draw>
+    <discard1>9m</discard1>
+    <draw>7s</draw>
+    <discard2>7s</discard2>
+    <draw>3z</draw>
+    <discard1>1z</discard1>
+    <draw>4z</draw>
+    <discard2>4z</discard2>
+    <draw>3m</draw>
+    <discard1>7m</discard1>
+    <draw>7s</draw>
+    <discard1>1z</discard1>
+    <draw>4s</draw>
+    <discard2>4s</discard2>
+    <chi>5s6s</chi>
+    <NAKU junme="9" naku_hai="87,91,92" hai="87"/>
+    <discard1>6s</discard1>
+    <TENPAI junme="9" who="0" machi_hai="27"/>
+    <draw>6p</draw>
+    <discard1>8p</discard1>
+    <draw>5z</draw>
+    <discard1>7s</discard1>
+    <draw>7s</draw>
+    <discard2>7s</discard2>
+    <draw>7m</draw>
+    <discard2>7m</discard2>
+    <draw>2z</draw>
+    <discard2>2z</discard2>
+    <draw>3s</draw>
+    <discard1>1s</discard1>
+    <draw>5m</draw>
+    <discard2>5m</discard2>
+    <peng>5M5m</peng>
+    <NAKU junme="10" naku_hai="52,54,55" hai="54"/>
+    <discard1>4m</discard1>
+    <TENPAI junme="10" who="1" machi_hai="20"/>
+    <draw>5s</draw>
+    <discard1>1m</discard1>
+    <draw>5S</draw>
+    <discard2>5S</discard2>
+    <draw>5z</draw>
+    <discard2>5z</discard2>
+    <draw>2p</draw>
+    <discard2>2p</discard2>
+    <draw>2p</draw>
+    <discard1>5s</discard1>
+    <draw>9p</draw>
+    <discard1>3z</discard1>
+    <draw>9p</draw>
+    <discard2>9p</discard2>
+    <peng>9p9p</peng>
+    <NAKU junme="14" naku_hai="33,34,35" hai="34"/>
+    <discard1>8p</discard1>
+    <TENPAI junme="14" who="3" machi_hai="1,4"/>
+    <draw>4s</draw>
+    <discard2>4s</discard2>
+    <draw>3s</draw>
+    <AGARI who="1" fwho="1" junme="12" hai="21,24,28,40,44,51,79,82,86,100,103" naku="52,54,55" sc="-10,30,-10,-10" yaku="8,1,54,1" hora="30,3000,0" ten="241,287,255,217"/>
+  </game>
+  <game kyoku="1" honba="1" kyotaku="0" oya="1">
+    <score>24100 28700 25500 21700</score>
+    <init id="0">2p6p7p1m1m3m1s4s4z4z5z6z7z</init>
+    <init id="1">3p4p5p5p8p8p9p2m4m9m9m2s6z</init>
+    <init id="2">5p7p2m2m5M6m7m1s3s5s5s6s3z</init>
+    <init id="3">3p3p4p6p9p3m6m8m3s9s1z2z7z</init>
+    <indicator>8m</indicator>
+    <draw>7p</draw>
+    <discard1>6z</discard1>
+    <draw>3s</draw>
+    <discard1>3z</discard1>
+    <draw>3z</draw>
+    <discard1>2z</discard1>
+    <draw>4s</draw>
+    <discard1>1s</discard1>
+    <draw>7m</draw>
+    <discard1>2s</discard1>
+    <draw>3z</draw>
+    <discard2>3z</discard2>
+    <draw>4s</draw>
+    <discard1>9p</discard1>
+    <draw>4p</draw>
+    <discard1>6z</discard1>
+    <draw>7p</draw>
+    <discard1>5p</discard1>
+    <draw>1p</draw>
+    <discard2>1p</discard2>
+    <draw>5m</draw>
+    <discard1>3z</discard1>
+    <draw>9s</draw>
+    <discard2>9s</discard2>
+    <draw>6s</draw>
+    <discard1>7m</discard1>
+    <draw>4z</draw>
+    <discard2>4z</discard2>
+    <draw>2s</draw>
+    <discard1>9s</discard1>
+    <draw>6m</draw>
+    <discard1>7z</discard1>
+    <draw>8m</draw>
+    <discard2>8m</discard2>
+    <draw>2p</draw>
+    <discard2>2p</discard2>
+    <draw>6m</draw>
+    <discard1>7z</discard1>
+    <draw>8m</draw>
+    <discard1>5z</discard1>
+    <draw>8s</draw>
+    <discard1>2m</discard1>
+    <peng>2m2m</peng>
+    <NAKU junme="6" naku_hai="40,41,42" hai="41"/>
+    <discard1>5s</discard1>
+    <draw>1p</draw>
+    <discard2>1p</discard2>
+    <draw>1m</draw>
+    <discard1>3m</discard1>
+    <draw>4m</draw>
+    <discard2>4m</discard2>
+    <draw>2p</draw>
+    <discard2>2p</discard2>
+    <draw>7s</draw>
+    <discard1>1z</discard1>
+    <draw>6p</draw>
+    <discard1>8m</discard1>
+    <draw>5m</draw>
+    <discard1>8s</discard1>
+    <draw>8s</draw>
+    <discard2>8s</discard2>
+    <draw>1m</draw>
+    <discard1>7s</discard1>
+    <draw>5P</draw>
+    <discard1>6m</discard1>
+    <draw>9p</draw>
+    <discard1>6s</discard1>
+    <DAMA junme="9" who="1" machi_hai="11,14"/>
+    <draw>6p</draw>
+    <discard1>1s</discard1>
+    <TENPAI junme="9" who="2" machi_hai="21,24"/>
+    <draw>7s</draw>
+    <discard1>1m</discard1>
+    <draw>1s</draw>
+    <discard2>1s</discard2>
+    <draw>2z</draw>
+    <discard2>2z</discard2>
+    <draw>5z</draw>
+    <discard2>5z</discard2>
+    <draw>9s</draw>
+    <discard2>9s</discard2>
+    <draw>5s</draw>
+    <discard1>2p</discard1>
+    <draw>9m</draw>
+    <discard2>9m</discard2>
+    <draw>6z</draw>
+    <discard2>6z</discard2>
+    <draw>6s</draw>
+    <discard1>6p</discard1>
+    <draw>3p</draw>
+    <discard2>3p</discard2>
+    <draw>4z</draw>
+    <discard2>4z</discard2>
+    <peng>4z4z</peng>
+    <NAKU junme="12" naku_hai="120,121,122" hai="121"/>
+    <discard1>5s</discard1>
+    <TENPAI junme="12" who="0" machi_hai="4,7"/>
+    <draw>5z</draw>
+    <discard2>5z</discard2>
+    <draw>8s</draw>
+    <discard2>8s</discard2>
+    <draw>4s</draw>
+    <discard1>8m</discard1>
+    <draw>6s</draw>
+    <discard2>6s</discard2>
+    <draw>8p</draw>
+    <discard1>8p</discard1>
+    <AGARI who="0" fwho="1" junme="13" hai="15,16,21,22,27,29,36,37,38,84,86" naku="120,121,122" sc="29,-29,0,0" yaku="13,1,54,1" hora="40,2600,0" ten="270,258,255,217"/>
+  </game>
+  <game kyoku="2" honba="0" kyotaku="0" oya="2">
+    <score>27000 25800 25500 21700</score>
+    <init id="0">3p7p9p9p3m2s3s4s6s8s9s1z2z</init>
+    <init id="1">3p4p7p8p2m4m6m8m9m4s8s4z6z</init>
+    <init id="2">1p1p1p2p5p6p7p3m8m5s5s2z2z</init>
+    <init id="3">3p7p8p8p1m5m1s3z3z3z3z4z7z</init>
+    <indicator>5m</indicator>
+    <draw>6z</draw>
+    <discard1>2p</discard1>
+    <draw>5m</draw>
+    <discard1>4z</discard1>
+    <draw>3m</draw>
+    <discard1>2z</discard1>
+    <draw>8m</draw>
+    <discard1>9m</discard1>
+    <draw>5z</draw>
+    <discard1>6z</discard1>
+    <draw>1z</draw>
+    <discard1>1s</discard1>
+    <draw>2m</draw>
+    <discard1>9s</discard1>
+    <draw>8p</draw>
+    <discard1>6z</discard1>
+    <draw>7s</draw>
+    <discard1>5z</discard1>
+    <draw>6z</draw>
+    <discard1>1m</discard1>
+    <draw>5P</draw>
+    <discard1>1z</discard1>
+    <draw>7z</draw>
+    <discard2>7z</discard2>
+    <draw>2p</draw>
+    <discard2>2p</discard2>
+    <draw>7m</draw>
+    <discard1>6z</discard1>
+    <draw>7z</draw>
+    <discard2>7z</discard2>
+    <draw>5p</draw>
+    <discard1>4z</discard1>
+    <draw>4m</draw>
+    <discard1>8m</discard1>
+    <peng>8m8m</peng>
+    <NAKU junme="5" naku_hai="64,65,66" hai="64"/>
+    <discard1>8s</discard1>
+    <draw>7s</draw>
+    <discard1>2z</discard1>
+    <draw>2z</draw>
+    <discard2>2z</discard2>
+    <draw>4s</draw>
+    <discard1>3m</discard1>
+    <chi>2m4m</chi>
+    <NAKU junme="6" naku_hai="41,45,50" hai="45"/>
+    <discard1>7p</discard1>
+    <draw>4p</draw>
+    <discard1>7p</discard1>
+    <draw>4z</draw>
+    <discard2>4z</discard2>
+    <draw>5M</draw>
+    <discard1>2m</discard1>
+    <draw>9s</draw>
+    <discard2>9s</discard2>
+    <draw>1s</draw>
+    <discard2>1s</discard2>
+    <draw>2s</draw>
+    <discard1>7z</discard1>
+    <draw>1p</draw>
+    <discard2>1p</discard2>
+    <draw>6s</draw>
+    <discard1>6m</discard1>
+    <TENPAI junme="8" who="1" machi_hai="22"/>
+    <draw>6p</draw>
+    <discard1>2z</discard1>
+    <draw>7z</draw>
+    <discard1>1z</discard1>
+    <draw>4p</draw>
+    <discard1>7p</discard1>
+    <draw>9p</draw>
+    <discard2>9p</discard2>
+    <draw>1s</draw>
+    <discard2>1s</discard2>
+    <draw>6s</draw>
+    <discard1>7z</discard1>
+    <draw>6m</draw>
+    <discard1>3m</discard1>
+    <draw>5p</draw>
+    <discard2>5p</discard2>
+    <chi>4p6p</chi>
+    <NAKU junme="11" naku_hai="15,18,20" hai="18"/>
+    <discard1>1p</discard1>
+    <draw>6p</draw>
+    <discard1>3z</discard1>
+    <draw>3m</draw>
+    <discard2>3m</discard2>
+    <draw>8m</draw>
+    <discard2>8m</discard2>
+    <draw>6p</draw>
+    <discard1>5p</discard1>
+    <draw>5z</draw>
+    <discard2>5z</discard2>
+    <draw>5s</draw>
+    <discard1>8s</discard1>
+    <DAMA junme="11" who="0" machi_hai="12,15"/>
+    <draw>9m</draw>
+    <discard2>9m</discard2>
+    <draw>1m</draw>
+    <discard2>1m</discard2>
+    <draw>6z</draw>
+    <discard2>6z</discard2>
+    <draw>5z</draw>
+    <discard2>5z</discard2>
+    <draw>4p</draw>
+    <discard2>4p</discard2>
+    <draw>9m</draw>
+    <discard2>9m</discard2>
+    <draw>5z</draw>
+    <discard2>5z</discard2>
+    <draw>3p</draw>
+    <discard2>3p</discard2>
+    <draw>2s</draw>
+    <discard2>2s</discard2>
+    <draw>9p</draw>
+    <discard2>9p</discard2>
+    <draw>7m</draw>
+    <discard1>3z</discard1>
+    <draw>6s</draw>
+    <discard2>6s</discard2>
+    <draw>8s</draw>
+    <discard1>4s</discard1>
+    <draw>9s</draw>
+    <discard2>9s</discard2>
+    <draw>1z</draw>
+    <discard2>1z</discard2>
+    <draw>1s</draw>
+    <riichi1/>
+    <discard2>1s</discard2>
+    <REACH junme="15" who="0" machi_hai="2,5,6,19,23"/>
+    <riichi2/>
+    <change>26000 25800 25500 21700</change>
+    <draw>2s</draw>
+    <discard1>8s</discard1>
+    <draw>2p</draw>
+    <discard1>1p</discard1>
+    <draw>1m</draw>
+    <discard1>3z</discard1>
+    <draw>3s</draw>
+    <discard2>3s</discard2>
+    <draw>2m</draw>
+    <discard2>2m</discard2>
+    <draw>7s</draw>
+    <discard1>1p</discard1>
+    <draw>4z</draw>
+    <discard1>3z</discard1>
+    <draw>7m</draw>
+    <AGARI who="0" fwho="0" junme="17" hai="9,14,16,32,35,52,58,62,76,80,84,85,89,94" sc="170,-40,-80,-40" yaku="1,1,0,1,7,1,52,1,54,2,53,2" hora="20,16000,3" ten="430,218,175,177"/>
+  </game>
+  <game kyoku="3" honba="0" kyotaku="0" oya="3">
+    <score>43000 21800 17500 17700</score>
+    <init id="0">2p3p4p5P6p7p3m4m8m9m3s6z6z</init>
+    <init id="1">3p8p9m1s1s2s5s7s7s8s1z2z4z</init>
+    <init id="2">1p5p7p7p8p2m5m6m2s5S7s3z5z</init>
+    <init id="3">1p7p3m6m6m7m8m4s4s8s9s4z4z</init>
+    <indicator>6p</indicator>
+    <draw>2p</draw>
+    <discard1>1p</discard1>
+    <draw>7m</draw>
+    <riichi1/>
+    <discard1>3s</discard1>
+    <REACH junme="1" who="0" machi_hai="10,13"/>
+    <riichi2/>
+    <change>42000 21800 17500 17700</change>
+    <chi>1s2s</chi>
+    <NAKU junme="1" naku_hai="72,79,80" hai="80"/>
+    <discard1>9m</discard1>
+    <draw>6p</draw>
+    <discard1>3z</discard1>
+    <draw>3s</draw>
+    <discard1>4z</discard1>
+    <draw>5p</draw>
+    <discard2>5p</discard2>
+    <draw>5z</draw>
+    <discard1>4z</discard1>
+    <draw>7z</draw>
+    <discard1>1p</discard1>
+    <draw>5m</draw>
+    <discard1>3s</discard1>
+    <draw>5m</draw>
+    <AGARI who="0" fwho="0" junme="3" hai="4,10,14,16,20,25,47,50,54,60,67,71,129,130" sc="90,-20,-20,-40" yaku="21,2,0,1,52,1,54,1,53,0" hora="30,8000,1" ten="510,198,155,137"/>
+  </game>
+  <game kyoku="4" honba="0" kyotaku="0" oya="0">
+    <score>51000 19800 15500 13700</score>
+    <init id="0">2p2p2p6p1s2s3s8s8s9s1z6z7z</init>
+    <init id="1">1p2p3p3p4p1m1m2s4s5s9s2z5z</init>
+    <init id="2">4p4p7p9p1m2m4m9m3s4s1z6z7z</init>
+    <init id="3">1p5P5p7p2m2m3m5m9m4s8s2z3z</init>
+    <indicator>6p</indicator>
+    <draw>4m</draw>
+    <discard1>6z</discard1>
+    <draw>6s</draw>
+    <discard1>9s</discard1>
+    <draw>8p</draw>
+    <discard1>6z</discard1>
+    <draw>6m</draw>
+    <discard1>3z</discard1>
+    <draw>5m</draw>
+    <discard1>7z</discard1>
+    <draw>7p</draw>
+    <discard1>5z</discard1>
+    <draw>1p</draw>
+    <discard2>1p</discard2>
+    <draw>6m</draw>
+    <discard1>9m</discard1>
+    <draw>6m</draw>
+    <discard1>1z</discard1>
+    <draw>3m</draw>
+    <discard1>2z</discard1>
+    <draw>4z</draw>
+    <discard2>4z</discard2>
+    <draw>5p</draw>
+    <discard1>1p</discard1>
+    <draw>9s</draw>
+    <riichi1/>
+    <discard1>6p</discard1>
+    <REACH junme="4" who="0" machi_hai="25,26"/>
+    <riichi2/>
+    <change>50000 19800 15500 13700</change>
+    <draw>6z</draw>
+    <discard2>6z</discard2>
+    <draw>9s</draw>
+    <discard1>7z</discard1>
+    <draw>6p</draw>
+    <discard1>2z</discard1>
+    <draw>6s</draw>
+    <discard2>6s</discard2>
+    <draw>8m</draw>
+    <discard1>6s</discard1>
+    <draw>2z</draw>
+    <discard1>1z</discard1>
+    <draw>8p</draw>
+    <discard1>8s</discard1>
+    <AGARI who="0" fwho="3" junme="5" hai="5,6,7,48,55,57,73,77,82,100,101,102,106,107" sc="30,0,0,-20" yaku="1,1,53,0" hora="40,2000,0" ten="530,198,155,117"/>
+  </game>
+  <game kyoku="4" honba="1" kyotaku="0" oya="0">
+    <score>53000 19800 15500 11700</score>
+    <init id="0">1p1p7p2m7m8m9m3s4s9s1z2z3z</init>
+    <init id="1">2p3m3m6m7m9m1s5s7s7s7z7z7z</init>
+    <init id="2">4p5p6p1m1m2m4m7m2s5s1z2z6z</init>
+    <init id="3">2p4p4p7p9p5m9m2s8s8s8s9s5z</init>
+    <indicator>5z</indicator>
+    <draw>2z</draw>
+    <discard1>9s</discard1>
+    <draw>1s</draw>
+    <discard1>9m</discard1>
+    <draw>1z</draw>
+    <discard1>2s</discard1>
+    <draw>4z</draw>
+    <discard1>5z</discard1>
+    <draw>3p</draw>
+    <discard1>3z</discard1>
+    <draw>4z</draw>
+    <discard1>2p</discard1>
+    <draw>8p</draw>
+    <discard2>8p</discard2>
+    <draw>4s</draw>
+    <discard1>9m</discard1>
+    <draw>2m</draw>
+    <discard1>1z</discard1>
+    <draw>3z</draw>
+    <discard2>3z</discard2>
+    <draw>5m</draw>
+    <discard1>2z</discard1>
+    <peng>2z2z</peng>
+    <NAKU junme="4" naku_hai="113,114,115" hai="115"/>
+    <discard1>7p</discard1>
+    <draw>1m</draw>
+    <discard1>4z</discard1>
+    <draw>2s</draw>
+    <discard2>2s</discard2>
+    <draw>8p</draw>
+    <discard1>4z</discard1>
+    <draw>5p</draw>
+    <discard2>5p</discard2>
+    <draw>3m</draw>
+    <discard1>1m</discard1>
+    <draw>7s</draw>
+    <discard1>1m</discard1>
+    <draw>2s</draw>
+    <discard1>9s</discard1>
+    <draw>1p</draw>
+    <discard1>3p</discard1>
+    <TENPAI junme="6" who="0" machi_hai="19,22"/>
+    <draw>3p</draw>
+    <discard2>3p</discard2>
+    <draw>1z</draw>
+    <discard1>2m</discard1>
+    <draw>3p</draw>
+    <discard1>4p</discard1>
+    <draw>8p</draw>
+    <discard2>8p</discard2>
+    <draw>1p</draw>
+    <discard2>1p</discard2>
+    <draw>7m</draw>
+    <discard1>1m</discard1>
+    <draw>2p</draw>
+    <discard2>2p</discard2>
+    <draw>8m</draw>
+    <discard2>8m</discard2>
+    <chi>6m7m</chi>
+    <NAKU junme="8" naku_hai="59,62,64" hai="64"/>
+    <discard1>5s</discard1>
+    <TENPAI junme="8" who="1" machi_hai="18,24"/>
+    <AGARI who="0" fwho="1" junme="8" hai="0,1,2,42,43,60,65,70,82,84,91" naku="113,114,115" sc="23,-23,0,0" yaku="15,1" hora="40,2000,0" ten="553,175,155,117"/>
+  </game>
+  <game kyoku="4" honba="2" kyotaku="0" oya="0">
+    <score>55300 17500 15500 11700</score>
+    <init id="0">1p2p3p7p3m6m8m4s6s9s3z6z7z</init>
+    <init id="1">4p8p3m4m4m7m2s2s4s5s6s7s3z</init>
+    <init id="2">5p6p7p9p1m2m5M6m5S6s1z1z4z</init>
+    <init id="3">3p4p1m4m8m9m3s5s8s2z3z4z6z</init>
+    <indicator>7p</indicator>
+    <draw>6m</draw>
+    <discard1>3z</discard1>
+    <draw>1s</draw>
+    <discard1>3z</discard1>
+    <draw>4p</draw>
+    <discard1>4z</discard1>
+    <draw>1m</draw>
+    <discard1>3z</discard1>
+    <draw>7z</draw>
+    <discard1>9s</discard1>
+    <draw>2p</draw>
+    <discard1>1s</discard1>
+    <draw>1z</draw>
+    <discard1>2m</discard1>
+    <draw>2z</draw>
+    <discard1>4z</discard1>
+    <draw>1p</draw>
+    <discard2>1p</discard2>
+    <draw>5z</draw>
+    <discard2>5z</discard2>
+    <draw>6z</draw>
+    <discard1>1m</discard1>
+    <draw>2s</draw>
+    <discard1>6z</discard1>
+    <draw>7z</draw>
+    <discard1>6z</discard1>
+    <draw>1m</draw>
+    <discard2>1m</discard2>
+    <draw>3s</draw>
+    <discard2>3s</discard2>
+    <draw>8s</draw>
+    <discard1>9m</discard1>
+    <draw>2m</draw>
+    <discard1>7p</discard1>
+    <draw>5p</draw>
+    <discard1>2p</discard1>
+    <draw>8m</draw>
+    <discard2>8m</discard2>
+    <draw>8p</draw>
+    <discard1>8m</discard1>
+    <draw>8s</draw>
+    <discard1>8m</discard1>
+    <draw>2z</draw>
+    <discard1>7m</discard1>
+    <draw>2z</draw>
+    <discard2>2z</discard2>
+    <draw>3s</draw>
+    <discard1>1m</discard1>
+    <chi>2m3m</chi>
+    <NAKU junme="7" naku_hai="39,40,46" hai="39"/>
+    <discard1>8s</discard1>
+    <TENPAI junme="7" who="0" machi_hai="22"/>
+    <draw>9m</draw>
+    <discard1>2z</discard1>
+    <peng>2z2z</peng>
+    <NAKU junme="7" naku_hai="112,113,115" hai="112"/>
+    <discard1>1m</discard1>
+    <draw>9s</draw>
+    <discard2>9s</discard2>
+    <draw>7z</draw>
+    <discard2>7z</discard2>
+    <draw>9p</draw>
+    <discard1>6z</discard1>
+    <draw>7m</draw>
+    <discard2>7m</discard2>
+    <draw>5p</draw>
+    <discard2>5p</discard2>
+    <draw>3p</draw>
+    <discard1>9m</discard1>
+    <draw>4s</draw>
+    <riichi1/>
+    <discard1>7p</discard1>
+    <REACH junme="8" who="2" machi_hai="12,15"/>
+    <riichi2/>
+    <change>55300 17500 14500 11700</change>
+    <draw>2p</draw>
+    <discard1>3s</discard1>
+    <draw>2m</draw>
+    <discard2>2m</discard2>
+    <chi>3m4m</chi>
+    <NAKU junme="10" naku_hai="43,47,50" hai="43"/>
+    <discard1>2s</discard1>
+    <draw>1s</draw>
+    <discard2>1s</discard2>
+    <draw>1z</draw>
+    <discard1>2s</discard1>
+    <draw>4p</draw>
+    <discard1>1p</discard1>
+    <draw>6p</draw>
+    <discard1>2s</discard1>
+    <draw>4s</draw>
+    <discard2>4s</discard2>
+    <draw>9s</draw>
+    <discard1>3s</discard1>
+    <draw>9p</draw>
+    <discard2>9p</discard2>
+    <draw>9p</draw>
+    <discard2>9p</discard2>
+    <draw>8p</draw>
+    <discard2>8p</discard2>
+    <draw>2m</draw>
+    <discard1>8p</discard1>
+    <draw>6m</draw>
+    <discard1>4s</discard1>
+    <draw>4z</draw>
+    <discard2>4z</discard2>
+    <draw>4z</draw>
+    <discard2>4z</discard2>
+    <draw>5m</draw>
+    <discard1>9s</discard1>
+    <draw>9m</draw>
+    <discard1>6s</discard1>
+    <draw>1p</draw>
+    <discard2>1p</discard2>
+    <draw>5m</draw>
+    <discard2>5m</discard2>
+    <draw>8s</draw>
+    <discard1>2m</discard1>
+    <draw>5P</draw>
+    <discard1>9m</discard1>
+    <draw>6p</draw>
+    <discard1>8p</discard1>
+    <draw>5z</draw>
+    <discard2>5z</discard2>
+    <draw>7p</draw>
+    <discard2>7p</discard2>
+    <draw>7s</draw>
+    <discard2>7s</discard2>
+    <draw>1s</draw>
+    <discard2>1s</discard2>
+    <draw>1s</draw>
+    <discard2>1s</discard2>
+    <draw>8m</draw>
+    <discard2>8m</discard2>
+    <draw>1p</draw>
+    <discard2>1p</discard2>
+    <draw>6p</draw>
+    <discard1>4s</discard1>
+    <TENPAI junme="17" who="1" machi_hai="12"/>
+    <draw>7s</draw>
+    <discard2>7s</discard2>
+    <draw>3m</draw>
+    <discard1>1z</discard1>
+    <TENPAI junme="17" who="3" machi_hai="22"/>
+    <draw>8p</draw>
+    <discard2>8p</discard2>
+    <draw>2p</draw>
+    <discard1>7s</discard1>
+    <draw>6z</draw>
+    <discard2>6z</discard2>
+    <draw>3p</draw>
+    <discard1>5m</discard1>
+    <draw>5m</draw>
+    <discard2>5m</discard2>
+    <draw>5z</draw>
+    <discard2>5z</discard2>
+    <GET hai="57,74,13,37,132,5,109,115,1,126,129,79,134,38,80,102,40,19,66,28,103,112,114,83,39,71,112,105,133,33,62,17,9,87,7,43,43,72,110,12,20,85,106,35,34,31,42,56,120,123,54,69,0,53,101,16,21,125,26,99,73,75,64,3,22,96,45,29,6,131,8,55,127" seq="T1,U1,V1,W1,T1,U1,V1,W1,T1,U1,V1,W1,T1,U1,V1,W1,T1,U1,V1,W1,T1,U1,V1,W1,T3,U1,W5,T1,U1,V1,W1,T1,U1,V1,W1,T1,U3,V1,W1,T1,U1,V1,W1,T1,U1,V1,W1,T1,U1,V1,W1,T1,U1,V1,W1,T1,U1,V1,W1,T1,U1,V1,W1,T1,U1,V1,W1,T1,U1,V1,W1,T1,U1"/>
+    <PLAY hai="116,119,122,118,107,74,41,121,1,126,36,130,128,38,80,70,24,5,66,65,67,61,114,39,103,112,37,105,133,129,62,17,71,25,83,43,76,72,79,2,77,85,82,35,34,31,28,84,120,123,106,92,0,53,42,69,30,125,26,99,73,75,64,3,86,96,110,29,98,131,54,55,127" seq="D0,E0,F0,G0,D0,E0,F0,G0,D2,E2,F0,G0,D0,E2,F2,G0,D0,E0,F2,G0,D0,E0,F2,G0,D0,E0,G0,D2,E2,F0,G2,D2,E0,F0,G0,D2,E0,F2,G0,D0,E0,F2,G0,D2,E2,F2,G0,D0,E2,F2,G0,D0,E2,F2,G0,D0,E0,F2,G2,D2,E2,F2,G2,D2,E0,F2,G0,D2,E0,F2,G0,D2,E2"/>
+    <RYUUKYOKU sc="15,-15,15,-15" ten="568,160,160,102"/>
+  </game>
+  <game kyoku="4" honba="3" kyotaku="1" oya="0">
+    <score>56800 16000 16000 10200</score>
+    <init id="0">3p5p5p8p1m7m8m2s4s7s8s9s7z</init>
+    <init id="1">1p2p6p7p1m1s5s7s1z1z6z7z7z</init>
+    <init id="2">1p2p2m7m7m8m2s4s5S6s6s3z3z</init>
+    <init id="3">3p7p9p3m3m4m5s8s2z3z4z5z6z</init>
+    <indicator>4z</indicator>
+    <draw>3m</draw>
+    <discard1>7z</discard1>
+    <peng>7z7z</peng>
+    <NAKU junme="1" naku_hai="132,133,134" hai="132"/>
+    <discard1>1m</discard1>
+    <draw>3p</draw>
+    <discard1>2m</discard1>
+    <draw>3s</draw>
+    <discard1>3z</discard1>
+    <peng>3z3z</peng>
+    <NAKU junme="2" naku_hai="116,117,118" hai="118"/>
+    <discard1>2s</discard1>
+    <draw>3p</draw>
+    <discard1>4z</discard1>
+    <draw>7p</draw>
+    <discard1>3p</discard1>
+    <chi>1p2p</chi>
+    <NAKU junme="2" naku_hai="3,7,10" hai="10"/>
+    <discard1>1s</discard1>
+    <draw>2z</draw>
+    <discard2>2z</discard2>
+    <draw>9p</draw>
+    <discard1>2z</discard1>
+    <draw>5z</draw>
+    <discard2>5z</discard2>
+    <draw>4z</draw>
+    <discard2>4z</discard2>
+    <draw>3s</draw>
+    <discard1>7m</discard1>
+    <TENPAI junme="4" who="2" machi_hai="14,17"/>
+    <draw>4m</draw>
+    <discard1>5z</discard1>
+    <draw>6p</draw>
+    <discard1>1m</discard1>
+    <draw>1s</draw>
+    <discard2>1s</discard2>
+    <draw>4p</draw>
+    <discard1>1p</discard1>
+    <draw>5m</draw>
+    <discard1>6z</discard1>
+    <draw>4m</draw>
+    <discard1>2s</discard1>
+    <draw>4s</draw>
+    <discard1>7s</discard1>
+    <draw>3s</draw>
+    <discard2>3s</discard2>
+    <draw>1z</draw>
+    <discard2>1z</discard2>
+    <peng>1z1z</peng>
+    <NAKU junme="6" naku_hai="108,110,111" hai="108"/>
+    <discard1>6z</discard1>
+    <draw>6m</draw>
+    <AGARI who="2" fwho="2" junme="7" hai="5,11,13,59,60,67,82,84,88,92,95" naku="116,117,118" sc="-13,-8,39,-8" yaku="12,1,54,1" hora="30,2000,0" ten="555,152,199,94"/>
+  </game>
+  <game kyoku="5" honba="0" kyotaku="0" oya="1">
+    <score>55500 15200 19900 9400</score>
+    <init id="0">2p6p6p8p3m3m4m5M8m1s3s3s7z</init>
+    <init id="1">1p3p5P4m6m8m5s7s7s1z1z5z6z</init>
+    <init id="2">2p5p8p9p2m5m8m2s3s6s6s6s4z</init>
+    <init id="3">1p7p1m2m3m6m7m8m3s4s3z4z7z</init>
+    <indicator>3m</indicator>
+    <draw>9s</draw>
+    <discard1>6z</discard1>
+    <draw>5s</draw>
+    <discard1>4z</discard1>
+    <draw>5p</draw>
+    <discard1>4z</discard1>
+    <draw>2s</draw>
+    <discard1>7z</discard1>
+    <draw>1m</draw>
+    <discard2>1m</discard2>
+    <draw>4p</draw>
+    <discard1>8m</discard1>
+    <draw>7p</draw>
+    <discard1>1p</discard1>
+    <draw>8p</draw>
+    <discard1>8m</discard1>
+    <draw>2z</draw>
+    <discard2>2z</discard2>
+    <draw>6m</draw>
+    <discard1>2m</discard1>
+    <draw>2m</draw>
+    <discard1>7z</discard1>
+    <draw>2s</draw>
+    <discard1>2p</discard1>
+    <chi>1p3p</chi>
+    <NAKU junme="4" naku_hai="0,6,11" hai="6"/>
+    <discard1>9s</discard1>
+    <draw>9s</draw>
+    <discard1>2p</discard1>
+    <draw>6p</draw>
+    <discard1>3z</discard1>
+    <draw>2z</draw>
+    <discard2>2z</discard2>
+    <draw>9p</draw>
+    <discard2>9p</discard2>
+    <draw>7z</draw>
+    <discard1>9s</discard1>
+    <draw>7p</draw>
+    <riichi1/>
+    <discard1>2m</discard1>
+    <REACH junme="5" who="3" machi_hai="19,22"/>
+    <riichi2/>
+    <change>55500 15200 19900 8400</change>
+    <draw>6s</draw>
+    <discard2>6s</discard2>
+    <chi>5s7s</chi>
+    <NAKU junme="6" naku_hai="90,93,96" hai="93"/>
+    <discard1>5z</discard1>
+    <draw>7s</draw>
+    <discard1>7z</discard1>
+    <draw>3z</draw>
+    <discard2>3z</discard2>
+    <draw>4s</draw>
+    <discard1>8p</discard1>
+    <draw>7z</draw>
+    <discard2>7z</discard2>
+    <draw>5z</draw>
+    <discard1>8p</discard1>
+    <draw>8p</draw>
+    <discard2>8p</discard2>
+    <draw>3p</draw>
+    <discard1>8p</discard1>
+    <draw>3p</draw>
+    <discard1>1z</discard1>
+    <draw>9p</draw>
+    <discard1>5z</discard1>
+    <draw>4m</draw>
+    <discard2>4m</discard2>
+    <draw>9m</draw>
+    <discard2>9m</discard2>
+    <draw>2p</draw>
+    <discard1>4m</discard1>
+    <draw>7p</draw>
+    <discard1>9p</discard1>
+    <draw>3z</draw>
+    <discard2>3z</discard2>
+    <draw>5m</draw>
+    <discard1>3p</discard1>
+    <DAMA junme="9" who="0" machi_hai="12"/>
+    <draw>2m</draw>
+    <discard2>2m</discard2>
+    <draw>8s</draw>
+    <discard1>9p</discard1>
+    <draw>2z</draw>
+    <discard2>2z</discard2>
+    <draw>9m</draw>
+    <discard2>9m</discard2>
+    <draw>4p</draw>
+    <discard1>1z</discard1>
+    <draw>3z</draw>
+    <discard2>3z</discard2>
+    <draw>8s</draw>
+    <discard2>8s</discard2>
+    <draw>1p</draw>
+    <discard2>1p</discard2>
+    <draw>2z</draw>
+    <discard2>2z</discard2>
+    <draw>4p</draw>
+    <discard1>8s</discard1>
+    <draw>5s</draw>
+    <AGARI who="3" fwho="3" junme="12" hai="19,20,24,26,27,37,42,44,57,61,65,81,84,89" sc="-7,-13,-7,37" yaku="1,1,0,1,7,1,53,0" hora="20,2700,0" ten="548,139,192,121"/>
+  </game>
+  <game kyoku="6" honba="0" kyotaku="0" oya="2">
+    <score>54800 13900 19200 12100</score>
+    <init id="0">1p3p6p8p9p1m5M7m1s1s6s7s8s</init>
+    <init id="1">3p6p9p9p1m3m5m6m7s8s9s7z7z</init>
+    <init id="2">2p4p3m4m2s4s5s8s9s2z3z5z5z</init>
+    <init id="3">2p7p1m2m2m2m5m7m3s6s6z6z7z</init>
+    <indicator>6z</indicator>
+    <draw>2z</draw>
+    <discard1>3z</discard1>
+    <draw>4s</draw>
+    <discard1>1m</discard1>
+    <draw>3z</draw>
+    <discard1>1m</discard1>
+    <draw>3s</draw>
+    <discard1>6p</discard1>
+    <draw>6m</draw>
+    <discard2>6m</discard2>
+    <chi>5m7m</chi>
+    <NAKU junme="2" naku_hai="55,56,61" hai="56"/>
+    <discard1>2p</discard1>
+    <draw>1z</draw>
+    <discard2>1z</discard2>
+    <draw>3m</draw>
+    <discard1>3s</discard1>
+    <draw>5p</draw>
+    <discard1>2p</discard1>
+    <draw>7s</draw>
+    <discard1>7p</discard1>
+    <draw>9m</draw>
+    <discard1>3z</discard1>
+    <draw>5m</draw>
+    <discard1>3p</discard1>
+    <draw>5P</draw>
+    <discard1>2s</discard1>
+    <draw>9m</draw>
+    <discard2>9m</discard2>
+    <draw>5p</draw>
+    <discard1>8p</discard1>
+    <draw>1z</draw>
+    <discard2>1z</discard2>
+    <draw>3p</draw>
+    <discard1>5p</discard1>
+    <draw>2z</draw>
+    <discard2>2z</discard2>
+    <peng>2z2z</peng>
+    <NAKU junme="6" naku_hai="113,114,115" hai="113"/>
+    <discard1>8s</discard1>
+    <draw>7s</draw>
+    <discard1>6s</discard1>
+    <draw>5z</draw>
+    <discard1>9p</discard1>
+    <peng>9p9p</peng>
+    <NAKU junme="5" naku_hai="32,34,35" hai="35"/>
+    <discard1>1m</discard1>
+    <draw>6s</draw>
+    <discard1>9s</discard1>
+    <TENPAI junme="7" who="2" machi_hai="10,13"/>
+    <draw>6m</draw>
+    <discard2>6m</discard2>
+    <draw>7p</draw>
+    <discard1>5z</discard1>
+    <draw>1s</draw>
+    <discard2>1s</discard2>
+    <draw>3z</draw>
+    <discard2>3z</discard2>
+    <draw>4z</draw>
+    <discard2>4z</discard2>
+    <draw>8p</draw>
+    <discard1>9m</discard1>
+    <draw>6m</draw>
+    <discard2>6m</discard2>
+    <draw>2m</draw>
+    <AGARI who="2" fwho="2" junme="9" hai="9,15,16,41,47,50,86,89,93,125,127" naku="113,114,115" sc="-10,-10,30,-10" yaku="15,1,54,1" hora="30,3000,0" ten="538,129,222,111"/>
+  </game>
+  <game kyoku="6" honba="1" kyotaku="0" oya="2">
+    <score>53800 12900 22200 11100</score>
+    <init id="0">5P6p6p7p8p9p3m5m3s5s5s8s9s</init>
+    <init id="1">7p9p4m1s3s4s6s7s8s1z1z2z5z</init>
+    <init id="2">2p4p8p9p1m5m8m8m4z5z6z6z7z</init>
+    <init id="3">3p5p8p8p2m8m9m2s3s5S7s3z3z</init>
+    <indicator>7m</indicator>
+    <draw>4s</draw>
+    <discard1>1m</discard1>
+    <draw>1z</draw>
+    <discard2>1z</discard2>
+    <draw>3z</draw>
+    <discard2>3z</discard2>
+    <draw>9m</draw>
+    <discard2>9m</discard2>
+    <draw>7s</draw>
+    <discard1>4z</discard1>
+    <draw>6s</draw>
+    <discard1>3z</discard1>
+    <draw>9s</draw>
+    <discard1>9p</discard1>
+    <draw>2m</draw>
+    <discard1>2z</discard1>
+    <draw>2s</draw>
+    <discard1>5z</discard1>
+    <draw>1s</draw>
+    <discard1>3z</discard1>
+    <draw>2p</draw>
+    <discard2>2p</discard2>
+    <draw>6p</draw>
+    <discard1>9p</discard1>
+    <draw>4s</draw>
+    <discard1>7s</discard1>
+    <draw>6z</draw>
+    <discard2>6z</discard2>
+    <peng>6z6z</peng>
+    <NAKU junme="5" naku_hai="128,129,131" hai="131"/>
+    <discard1>7z</discard1>
+    <draw>6s</draw>
+    <discard1>2m</discard1>
+    <draw>3m</draw>
+    <discard1>8s</discard1>
+    <draw>2z</draw>
+    <discard2>2z</discard2>
+    <draw>7z</draw>
+    <discard2>7z</discard2>
+    <draw>1m</draw>
+    <discard2>1m</discard2>
+    <draw>3p</draw>
+    <discard2>3p</discard2>
+    <draw>1z</draw>
+    <discard1>1s</discard1>
+    <draw>6m</draw>
+    <discard1>8p</discard1>
+    <draw>4z</draw>
+    <discard2>4z</discard2>
+    <draw>2p</draw>
+    <discard2>2p</discard2>
+    <draw>3p</draw>
+    <discard2>3p</discard2>
+    <chi>2p4p</chi>
+    <NAKU junme="8" naku_hai="5,8,13" hai="8"/>
+    <discard1>9p</discard1>
+    <draw>4m</draw>
+    <discard2>4m</discard2>
+    <draw>7z</draw>
+    <discard2>7z</discard2>
+    <draw>3m</draw>
+    <discard1>5z</discard1>
+    <draw>8s</draw>
+    <discard2>8s</discard2>
+    <draw>4p</draw>
+    <riichi1/>
+    <discard1>6s</discard1>
+    <REACH junme="9" who="3" machi_hai="15"/>
+    <riichi2/>
+    <change>53800 12900 22200 10100</change>
+    <draw>4p</draw>
+    <discard1>9s</discard1>
+    <draw>7p</draw>
+    <riichi1/>
+    <discard1>6p</discard1>
+    <REACH junme="8" who="1" machi_hai="19,22"/>
+    <riichi2/>
+    <change>53800 11900 22200 10100</change>
+    <draw>6m</draw>
+    <discard1>2s</discard1>
+    <AGARI who="1" fwho="2" junme="8" hai="24,25,43,45,48,78,83,87,95,96,100,108,109,111" sc="0,49,-29,0" yaku="1,1,2,1,53,0" hora="40,2600,0" ten="538,168,193,101"/>
+  </game>
+  <game kyoku="7" honba="0" kyotaku="0" oya="3">
+    <score>53800 16800 19300 10100</score>
+    <init id="0">3p5p9p5m6m1s1s5S8s1z2z5z7z</init>
+    <init id="1">1m4m6m9m2s5s6s6s7s7s9s3z4z</init>
+    <init id="2">2p5P6p7p9p1m9m1s2s2s4s9s7z</init>
+    <init id="3">1p3p3p1m2m3m4m5m8m9m4s4s5s</init>
+    <indicator>8p</indicator>
+    <draw>7m</draw>
+    <discard1>1p</discard1>
+    <draw>1p</draw>
+    <discard1>1z</discard1>
+    <draw>4p</draw>
+    <discard1>9m</discard1>
+    <draw>4p</draw>
+    <discard1>9s</discard1>
+    <draw>7s</draw>
+    <discard2>7s</discard2>
+    <draw>1z</draw>
+    <discard1>9p</discard1>
+    <draw>8s</draw>
+    <discard1>1m</discard1>
+    <draw>2p</draw>
+    <discard1>9m</discard1>
+    <draw>4z</draw>
+    <discard2>4z</discard2>
+    <draw>3p</draw>
+    <discard1>8s</discard1>
+    <draw>8s</draw>
+    <discard1>4z</discard1>
+    <draw>2z</draw>
+    <discard1>1m</discard1>
+    <draw>5M</draw>
+    <discard1>5m</discard1>
+    <draw>8m</draw>
+    <discard2>8m</discard2>
+    <draw>1p</draw>
+    <discard2>1p</discard2>
+    <draw>1z</draw>
+    <discard1>1s</discard1>
+    <draw>9m</draw>
+    <discard2>9m</discard2>
+    <draw>4p</draw>
+    <discard1>5S</discard1>
+    <draw>5p</draw>
+    <discard1>2s</discard1>
+    <draw>1z</draw>
+    <discard1>2s</discard1>
+    <draw>2z</draw>
+    <discard2>2z</discard2>
+    <draw>3z</draw>
+    <discard2>3z</discard2>
+    <draw>4z</draw>
+    <discard2>4z</discard2>
+    <draw>6z</draw>
+    <discard1>2z</discard1>
+    <draw>8p</draw>
+    <discard2>8p</discard2>
+    <draw>2p</draw>
+    <discard1>1z</discard1>
+    <draw>2p</draw>
+    <discard2>2p</discard2>
+    <draw>6z</draw>
+    <discard1>1z</discard1>
+    <draw>3m</draw>
+    <riichi1/>
+    <discard1>4s</discard1>
+    <REACH junme="8" who="3" machi_hai="20,23"/>
+    <riichi2/>
+    <change>53800 16800 19300 9100</change>
+    <draw>7m</draw>
+    <discard1>2z</discard1>
+    <draw>3s</draw>
+    <discard1>3z</discard1>
+    <draw>7m</draw>
+    <discard1>1z</discard1>
+    <draw>7m</draw>
+    <discard2>7m</discard2>
+    <draw>8s</draw>
+    <discard1>7z</discard1>
+    <draw>2m</draw>
+    <discard1>9s</discard1>
+    <draw>1p</draw>
+    <discard1>7m</discard1>
+    <draw>7z</draw>
+    <discard2>7z</discard2>
+    <draw>6s</draw>
+    <discard1>5z</discard1>
+    <DAMA junme="10" who="0" machi_hai="24"/>
+    <draw>9p</draw>
+    <discard1>7s</discard1>
+    <draw>7p</draw>
+    <discard1>7z</discard1>
+    <draw>8p</draw>
+    <discard2>8p</discard2>
+    <draw>3s</draw>
+    <discard1>1s</discard1>
+    <draw>6p</draw>
+    <discard1>7s</discard1>
+    <draw>8p</draw>
+    <discard1>1p</discard1>
+    <draw>5z</draw>
+    <discard2>5z</discard2>
+    <draw>6m</draw>
+    <discard1>1s</discard1>
+    <draw>4m</draw>
+    <discard1>8s</discard1>
+    <draw>5m</draw>
+    <discard2>5m</discard2>
+    <draw>6z</draw>
+    <discard2>6z</discard2>
+    <draw>7z</draw>
+    <discard2>7z</discard2>
+    <draw>6p</draw>
+    <discard1>8s</discard1>
+    <draw>3s</draw>
+    <discard1>6z</discard1>
+    <draw>3z</draw>
+    <discard2>3z</discard2>
+    <draw>5z</draw>
+    <discard2>5z</discard2>
+    <draw>2s</draw>
+    <discard1>2m</discard1>
+    <draw>7s</draw>
+    <discard2>7s</discard2>
+    <draw>8m</draw>
+    <discard2>8m</discard2>
+    <draw>1m</draw>
+    <discard1>8s</discard1>
+    <draw>9p</draw>
+    <discard1>6m</discard1>
+    <draw>6s</draw>
+    <discard1>6z</discard1>
+    <draw>5s</draw>
+    <discard2>5s</discard2>
+    <draw>1s</draw>
+    <discard1>6m</discard1>
+    <draw>4s</draw>
+    <discard1>5s</discard1>
+    <draw>4p</draw>
+    <discard1>4s</discard1>
+    <draw>2m</draw>
+    <discard2>2m</discard2>
+    <draw>9s</draw>
+    <discard2>9s</discard2>
+    <draw>7p</draw>
+    <discard1>4s</discard1>
+    <draw>5p</draw>
+    <discard1>8p</discard1>
+    <draw>3z</draw>
+    <discard2>3z</discard2>
+    <draw>9s</draw>
+    <discard2>9s</discard2>
+    <GET hai="62,0,14,13,99,110,100,4,123,11,103,113,52,66,1,108,71,15,17,109,114,118,122,130,29,6,5,128,47,63,82,61,60,102,40,2,135,92,34,24,31,80,20,30,125,57,48,53,131,133,23,83,119,124,79,98,64,39,33,95,89,74,87,12,43,105,25,18,116,106" seq="W1,T1,U1,V1,W1,T1,U1,V1,W1,T1,U1,V1,W1,T1,U1,V1,W1,T1,U1,V1,W1,T1,U1,V1,W1,T1,U1,V1,W1,T1,U1,V1,W1,T1,U1,V1,W1,T1,U1,V1,W1,T1,U1,V1,W1,T1,U1,V1,W1,T1,U1,V1,W1,T1,U1,V1,W1,T1,U1,V1,W1,T1,U1,V1,W1,T1,U1,V1,W1,T1"/>
+    <PLAY hai="3,111,69,107,99,35,36,70,123,101,120,37,55,66,1,72,71,88,77,78,114,118,122,113,29,110,5,109,85,115,117,108,60,132,104,61,135,127,97,134,31,75,96,2,125,73,100,53,131,133,103,130,119,124,40,98,64,102,59,128,89,57,90,86,43,105,87,30,116,106" seq="G0,D0,E0,F0,G2,D0,E0,F0,G2,D0,E0,F0,G0,D2,E2,F0,G2,D0,E0,F0,G2,D2,E2,F0,G2,D0,E2,F0,G0,D0,E0,F0,G2,D0,E0,F0,G2,D0,E0,F0,G2,D0,E0,F0,G2,D0,E0,F2,G2,D2,E0,F0,G2,D2,E0,F2,G2,D0,E0,F0,G2,D0,E0,F0,G2,D2,E0,F0,G2,D2"/>
+    <RYUUKYOKU sc="-10,-10,-10,30" ten="528,158,183,121"/>
+  </game>
+  <game kyoku="7" honba="1" kyotaku="1" oya="3">
+    <score>52800 15800 18300 12100</score>
+    <init id="0">1p1p2p6p2m6m8m9m9m1s6s2z5z</init>
+    <init id="1">3p4p5p5p3m7m8m9m1s3s5s7s1z</init>
+    <init id="2">1p4p5P6p7m3s3s6s8s2z3z4z4z</init>
+    <init id="3">4p5p1m2m5m5m7m1s2s6s1z4z7z</init>
+    <indicator>7p</indicator>
+    <draw>3s</draw>
+    <discard1>4z</discard1>
+    <peng>4z4z</peng>
+    <NAKU junme="1" naku_hai="121,122,123" hai="121"/>
+    <discard1>1p</discard1>
+    <draw>6z</draw>
+    <discard1>1m</discard1>
+    <draw>2s</draw>
+    <discard1>1s</discard1>
+    <draw>6m</draw>
+    <discard1>1z</discard1>
+    <draw>3p</draw>
+    <discard1>2z</discard1>
+    <draw>8s</draw>
+    <discard1>2m</discard1>
+    <draw>7p</draw>
+    <discard1>2s</discard1>
+    <draw>9s</draw>
+    <discard1>5p</discard1>
+    <draw>9p</draw>
+    <discard2>9p</discard2>
+    <draw>3m</draw>
+    <discard1>1z</discard1>
+    <draw>3p</draw>
+    <discard1>2z</discard1>
+    <draw>4s</draw>
+    <discard1>3m</discard1>
+    <draw>7z</draw>
+    <discard2>7z</discard2>
+    <draw>2p</draw>
+    <discard1>7z</discard1>
+    <draw>4s</draw>
+    <discard1>1p</discard1>
+    <draw>8m</draw>
+    <discard1>1s</discard1>
+    <draw>3p</draw>
+    <discard1>7m</discard1>
+    <draw>5m</draw>
+    <discard1>2p</discard1>
+    <draw>9s</draw>
+    <discard2>9s</discard2>
+    <draw>4p</draw>
+    <discard2>4p</discard2>
+    <draw>6p</draw>
+    <discard1>3z</discard1>
+    <draw>6z</draw>
+    <discard1>3m</discard1>
+    <draw>8s</draw>
+    <discard1>5z</discard1>
+    <draw>7z</draw>
+    <discard2>7z</discard2>
+    <draw>3z</draw>
+    <discard2>3z</discard2>
+    <draw>4s</draw>
+    <discard1>7m</discard1>
+    <draw>6z</draw>
+    <discard2>6z</discard2>
+    <peng>6z6z</peng>
+    <NAKU junme="9" naku_hai="128,129,130" hai="128"/>
+    <discard1>8s</discard1>
+    <draw>2p</draw>
+    <discard2>2p</discard2>
+    <draw>7s</draw>
+    <discard1>9s</discard1>
+    <DAMA junme="7" who="1" machi_hai="15"/>
+    <draw>7m</draw>
+    <discard2>7m</discard2>
+    <draw>8p</draw>
+    <discard2>8p</discard2>
+    <draw>1m</draw>
+    <discard2>1m</discard2>
+    <draw>4m</draw>
+    <discard1>8m</discard1>
+    <draw>8m</draw>
+    <discard2>8m</discard2>
+    <draw>6z</draw>
+    <jiagang>1p</jiagang>
+    <NAKU junme="11" naku_hai="131" hai="131" dora="77"/>
+    <draw>9p</draw>
+    <indicator>2s</indicator>
+    <discard2>9p</discard2>
+    <draw>6m</draw>
+    <discard1>2m</discard1>
+    <draw>9m</draw>
+    <riichi1/>
+    <discard1>4m</discard1>
+    <REACH junme="9" who="1" machi_hai="4,7,14,15,17,22,24"/>
+    <riichi2/>
+    <change>52800 14800 18300 12100</change>
+    <draw>4s</draw>
+    <discard1>3p</discard1>
+    <chi>4p5p</chi>
+    <NAKU junme="13" naku_hai="10,13,18" hai="10"/>
+    <discard1>6s</discard1>
+    <TENPAI junme="13" who="3" machi_hai="18,21"/>
+    <draw>5z</draw>
+    <discard1>6s</discard1>
+    <draw>8p</draw>
+    <discard2>8p</discard2>
+    <draw>9p</draw>
+    <discard1>6s</discard1>
+    <draw>1s</draw>
+    <AGARI who="3" fwho="3" junme="14" hai="53,54,55,74,75,79,83,87" naku="128,129,130,131;10,13,18" sc="-17,-17,-17,71" yaku="19,1,52,1" hora="50,4800,0" ten="511,131,166,192"/>
+  </game>
+  <game kyoku="7" honba="2" kyotaku="0" oya="3">
+    <score>51100 13100 16600 19200</score>
+    <init id="0">1p4p6p6p6p9p7m8m9m3s5s9s6z</init>
+    <init id="1">1p2p3p1m3m6m7m8m1s4s7s9s2z</init>
+    <init id="2">1p3p9p2m4m4m7m2s3s4s3z5z6z</init>
+    <init id="3">3p4p4p5p7p8p2m6m3s5s6s1z3z</init>
+    <indicator>4p</indicator>
+    <draw>2z</draw>
+    <discard1>3z</discard1>
+    <draw>5z</draw>
+    <discard1>9p</discard1>
+    <draw>7z</draw>
+    <discard1>2z</discard1>
+    <draw>5P</draw>
+    <discard1>3z</discard1>
+    <draw>1s</draw>
+    <discard1>2z</discard1>
+    <draw>2p</draw>
+    <discard1>9s</discard1>
+    <draw>6z</draw>
+    <discard2>6z</discard2>
+    <draw>8m</draw>
+    <discard1>6z</discard1>
+    <draw>1m</draw>
+    <discard1>1z</discard1>
+    <draw>4m</draw>
+    <discard1>6z</discard1>
+    <draw>4z</draw>
+    <discard2>4z</discard2>
+    <draw>7p</draw>
+    <discard1>5z</discard1>
+    <draw>2p</draw>
+    <discard1>1m</discard1>
+    <draw>5m</draw>
+    <discard1>5z</discard1>
+    <draw>9p</draw>
+    <discard1>7z</discard1>
+    <draw>5p</draw>
+    <discard1>2m</discard1>
+    <draw>1m</draw>
+    <discard2>1m</discard2>
+    <draw>7s</draw>
+    <discard1>1p</discard1>
+    <draw>4z</draw>
+    <discard2>4z</discard2>
+    <draw>7z</draw>
+    <discard2>7z</discard2>
+    <draw>2z</draw>
+    <discard2>2z</discard2>
+    <draw>8s</draw>
+    <discard1>2p</discard1>
+    <draw>5m</draw>
+    <discard1>9p</discard1>
+    <draw>9p</draw>
+    <discard2>9p</discard2>
+    <draw>8p</draw>
+    <discard1>2m</discard1>
+    <draw>2m</draw>
+    <discard2>2m</discard2>
+    <draw>5z</draw>
+    <discard2>5z</discard2>
+    <draw>5s</draw>
+    <discard1>2s</discard1>
+    <draw>3m</draw>
+    <discard2>3m</discard2>
+    <draw>6m</draw>
+    <discard1>8s</discard1>
+    <draw>5S</draw>
+    <discard1>1s</discard1>
+    <draw>2s</draw>
+    <discard2>2s</discard2>
+    <draw>3z</draw>
+    <discard2>3z</discard2>
+    <draw>3s</draw>
+    <discard1>4p</discard1>
+    <DAMA junme="9" who="0" machi_hai="23"/>
+    <draw>6m</draw>
+    <discard1>1m</discard1>
+    <draw>1s</draw>
+    <discard2>1s</discard2>
+    <draw>4z</draw>
+    <discard2>4z</discard2>
+    <draw>4z</draw>
+    <discard2>4z</discard2>
+    <draw>1z</draw>
+    <discard2>1z</discard2>
+    <draw>9m</draw>
+    <discard1>1p</discard1>
+    <draw>6s</draw>
+    <discard1>1s</discard1>
+    <draw>1m</draw>
+    <discard2>1m</discard2>
+    <draw>8s</draw>
+    <discard1>3m</discard1>
+    <draw>6p</draw>
+    <discard1>9p</discard1>
+    <DAMA junme="11" who="2" machi_hai="3"/>
+    <draw>9s</draw>
+    <discard2>9s</discard2>
+    <draw>3p</draw>
+    <discard2>3p</discard2>
+    <draw>7z</draw>
+    <discard2>7z</discard2>
+    <draw>3m</draw>
+    <discard2>3m</discard2>
+    <draw>9m</draw>
+    <discard2>9m</discard2>
+    <draw>8m</draw>
+    <discard2>8m</discard2>
+    <draw>5M</draw>
+    <discard1>6m</discard1>
+    <DAMA junme="13" who="1" machi_hai="20,23"/>
+    <draw>1z</draw>
+    <discard2>1z</discard2>
+    <draw>7s</draw>
+    <discard1>6m</discard1>
+    <chi>4m5m</chi>
+    <NAKU junme="14" naku_hai="48,55,59" hai="59"/>
+    <discard1>9m</discard1>
+    <draw>7m</draw>
+    <discard2>7m</discard2>
+    <draw>9s</draw>
+    <discard2>9s</discard2>
+    <draw>2p</draw>
+    <discard1>3s</discard1>
+    <AGARI who="1" fwho="3" junme="14" hai="2,7,10,52,53,56,61,65,83,86,88,98,100,107" sc="0,45,0,-45" yaku="7,1,54,2" hora="30,3900,0" ten="511,176,166,147"/>
+  </game>
+</mjr>
+</mjlog>

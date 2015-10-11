@@ -37,32 +37,30 @@ text file format(xml style)
 start with <mjr>
 then <info id=0>information about the first person(such as name, rank)</info>
 then second, third, last
-then <match>
+then <game>
 then some match information, including oya,honba,kyotaku
-then initial score:<score id=0></score> and so on
+then initial score:<score></score>
 then <init id=0>text format pai, sorted </init>
 then second, third, last
-then addition information ,such as <dora>
 then is the game play sequence:
 game indicator:
-<D> draw a new pai, followed by a pai name(optional id)
-<B> draw a new pai from the end(optional id)
-<GH> give the pai from hand, followed by a pai name(optional id)
-<GJ> give the pai just get, followed by a pai name(optional id)
-<C> chi, followed by two pai name
-<P id=?> peng, followed by two pai name
-<HUA> followed by a pai name(optional id)
-<ANGANG> followed by a pai name(optional id)
-<JIAGANG> followed by a pai name(optional id)
-<DAMINGGANG id=> followed by three pai name
-<REACH1> followed by a pai name(optional id)
-<REACH2/> za bang!(optional id)
-<YON id=?/>
-<TSUMO/>(optional id)
-<END/>
+<indicator> followed by indicator
+<draw> draw a new pai, followed by a pai name(optional id), if with back, means draw from back
+<discard1> discard the pai from hand, followed by a pai name(optional id), ad
+<discard2> give the pai just get, (optionla followed by a pai name)(optional id)
+<chi> chi, followed by two pai name
+<peng id=?> peng, followed by two pai name
+<hua> followed by a pai name(optional id)
+<angang> followed by a pai name(optional id)
+<jiagang> followed by a pai name(optional id)
+<daminggang id=> (optional:followed by a pai name)
+<riichi1> (optional id)
+<riichi2> (optional id)
+<hu> type=0 or 1, 0 means zimo, 1 means rong, for zimo, id is optional, and for rong, from and to is required
+<end/>
 
 then ending conclusion:
-<TSUMO id= score= ><change id=></change></TSUMO>
-<YON from= to= score= ><change .....>
+<zimo id= score= ><change id=></change></TSUMO>
+<fangchong from= to= score= ><change .....>
 <SPECIAL name=><change .....>
 11: end this match
