@@ -4,8 +4,8 @@ from xml.etree import ElementTree as ET
 import os
 from calc_shanten import calc_shanten
 
-path = './mjlogdb'
-c=40000
+path = './mjlogdb_test'
+c=400
 
 kyoku_all=0
 get=['T','U','V','W']
@@ -13,9 +13,7 @@ give=['D','E','F','G']
 cvtlog = open('convertedlog_1', 'w')
 
 root=ET.Element('mjlog')
-root.set('start',os.listdir(path)[c+1])
-root.set('end',os.listdir(path)[2*c])
-cvtlog.writelines(ET.tostring(root,encoding="unicode")[0:-2] + '>')
+cvtlog.writelines(ET.tostring(root,encoding="utf-8")[0:-2] + '>')
 for file in os.listdir(path):
     if file != '.DS_Store':
         print(file)
@@ -495,7 +493,7 @@ for file in os.listdir(path):
                             nodes.set("who",str(w))
                             nodes.set("machi_hai",','.join([str(x) for x in machi[1]]))
                 continue
-        cvtlog.writelines(ET.tostringlist(games,encoding="unicode"))
+        cvtlog.writelines(ET.tostringlist(games,encoding="utf-8"))
         # print(ET.tostringlist(games,encoding="unicode"))
         root.remove(games)
 cvtlog.writelines('</mjlog>')

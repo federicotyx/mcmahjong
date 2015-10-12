@@ -28,7 +28,8 @@ then ending conclusion:
 information, ending by '\0'
 01: yon, followed by two bit indicate who yon, then who is yoned, then 4 int16_t indicate score change, then
 additional information, ending by '\0'
-10: special ending, followed by 8 bit ending style, then 4 int16_t indicate score change, then additional
+100: liuju, then 4 int16_t indicate score change, then additional information, ending by '\0'
+101: special ending, followed by 8 bit ending style, then 4 int16_t indicate score change, then additional
 information, ending by '\0'
 11: end this match
 
@@ -56,11 +57,10 @@ game indicator:
 <daminggang id=> (optional:followed by a pai name)
 <riichi1> (optional id)
 <riichi2> (optional id)
-<hu> type=0 or 1, 0 means zimo, 1 means rong, for zimo, id is optional, and for rong, from and to is required
+<hu> from=? id=?
 <end/>
 
 then ending conclusion:
-<zimo id= score= ><change id=></change></TSUMO>
-<fangchong from= to= score= ><change .....>
-<SPECIAL name=><change .....>
-11: end this match
+<hu from=? id=? score= ><change id=></change></hu>
+<liuju><change....></change></liuju>
+<special name=><change .....>
