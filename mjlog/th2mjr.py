@@ -219,7 +219,7 @@ for item in xmllog.getroot():
 				hai0 = (m - (fwho - w) % 4) // 256
 				hai1 = [hai0 - hai0 % 4 + x for x in [0, 1, 2 ,3]]
 
-				daminggang=ET.SubElement(game, "angang")
+				daminggang=ET.SubElement(game, "daminggang")
 				daminggang.set("id", str(w))
 
 			elif (m - (fwho - w) % 4) % 32 == 8:
@@ -237,6 +237,7 @@ for item in xmllog.getroot():
 				ph.remove(p)
 				peng=ET.SubElement(game, "peng")
 				peng.text=''.join(ph)
+				peng.set("id", str(w))
 
 		elif (m - (fwho - w) % 4) % 8 == 1 or (m - (fwho - w) % 4) % 8 == 2 or (m - (fwho - w) % 4) % 8 == 3:
 			## 加槓 ##
@@ -311,6 +312,5 @@ for item in xmllog.getroot():
 			lasthai = int(item.tag[1:])
 		continue
 mjr.writelines(ET.tostringlist(root,encoding="utf-8",pretty_print=True))
-mjr.writelines('</mjlog>')
 mjr.close
 

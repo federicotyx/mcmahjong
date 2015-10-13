@@ -2,9 +2,9 @@ binary file format:
 !mjr     as file header
 then information about the first person, ending by \0(such as name, rank)
 then second, third, last
-then match information, ending by \0
+then game information, ending by \0
 then initial score:4 int16_t
-then 13 int8_t, indicate the initial pai of the first person
+then 13 int8_t(7bit), indicate the initial pai of the first person
 then second, third, last
 then additional indicate, ending by \0(such as dora)
 then is the game play sequence:
@@ -17,8 +17,8 @@ game indicator:
 11100: peng, followed by two bit indicate who peng, then akadora indicator
 111010: angang or hua, followed by a 6bit pai(since we do not care akadora or not), if it is hua pai, then it means hua, otherwise it means angang
 1110110: jiagang, followed by a 7bit pai
-1110111: daminggang, followed by two bit indicate who gang, then 6bit pai
-111100: riichi1, followed by riichi pai
+1110111: daminggang, followed by two bit indicate who gang
+111100: riichi1
 111101: riichi2, means previous riichi1 is successful
 11000:hu, followed by two bit indicate who hu
 11111:ending flag
@@ -61,6 +61,6 @@ game indicator:
 <end/>
 
 then ending conclusion:
-<hu from=? id=? score= ><change id=></change></hu>
-<liuju><change....></change></liuju>
+<hu from=? id=? score= ></hu>
+<liuju></liuju>
 <special name=><change .....>

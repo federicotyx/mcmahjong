@@ -62,8 +62,13 @@ std::string bin2text(uint8_t a)
 }
 uint8_t txt2bin(const std::string& str)
 {
+	return txt2bin(str[0], str[1]);
+}
+
+uint8_t txt2bin(char a, char b)
+{
 	uint8_t idx = 0;
-	switch (str[1])
+	switch (b)
 	{
 	case 'm':
 		idx = 0;
@@ -96,6 +101,15 @@ uint8_t txt2bin(const std::string& str)
 		idx = 34 + 64;
 		break;
 	}
-	uint8_t res = str[0] - '0';
+	uint8_t res = a - '0';
 	return res + idx;
+}
+
+void txt2bin(const std::string& str, std::vector<uint8_t>& v)
+{
+	v.clear();
+	for (uint32_t i = 0; 2 * i < str.size(); ++i)
+	{
+		v.push_back(txt2bin(str[2 * i], str[2 * i + 1]));
+	}
 }

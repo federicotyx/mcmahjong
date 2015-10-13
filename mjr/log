@@ -1,0 +1,11406 @@
+
+Node name = mjr
+     line = 1
+
+
+  Node name = info
+       line = 2
+    Attribute id = 0
+    Attribute name = %E6%B4%A5%E7%94%B0%E6%B2%BC%E3%81%A3%E5%AD%90
+    Attribute dan = 16
+    Attribute rate = 2074.15
+
+
+  Node name = info
+       line = 3
+    Attribute id = 1
+    Attribute name = %61%74%79%61%6E
+    Attribute dan = 17
+    Attribute rate = 2189.48
+
+
+  Node name = info
+       line = 4
+    Attribute id = 2
+    Attribute name = %E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB
+    Attribute dan = 16
+    Attribute rate = 2136.99
+
+
+  Node name = info
+       line = 5
+    Attribute id = 3
+    Attribute name = %73%75%6E%61%62%61%6B%75
+    Attribute dan = 16
+    Attribute rate = 2072.25
+
+
+  Node name = game
+       line = 6
+    Attribute kyoku = 0
+    Attribute honba = 0
+    Attribute kyotaku = 0
+    Attribute oya = 0
+
+
+    Node name = score
+         line = 7
+
+      Text Node
+      text = "250 250 250 250"
+
+
+    Node name = init
+         line = 8
+      Attribute id = 0
+
+      Text Node
+      text = "2p4p5p5m7m2s3s4s5s1z2z7z7z"
+
+
+    Node name = init
+         line = 9
+      Attribute id = 1
+
+      Text Node
+      text = "1p3p5P6p8p1m2m7m3s6s7s8s7z"
+
+
+    Node name = init
+         line = 10
+      Attribute id = 2
+
+      Text Node
+      text = "1p2p4p6p9p2m9m2s4s9s5z6z7z"
+
+
+    Node name = init
+         line = 11
+      Attribute id = 3
+
+      Text Node
+      text = "5p7p7p2m4m6m9m9m3s2z3z4z5z"
+
+
+    Node name = indicator
+         line = 12
+
+      Text Node
+      text = "3p"
+
+
+    Node name = draw
+         line = 13
+
+      Text Node
+      text = "3m"
+
+
+    Node name = discard1
+         line = 14
+
+      Text Node
+      text = "2z"
+
+
+    Node name = draw
+         line = 15
+
+      Text Node
+      text = "9p"
+
+
+    Node name = discard1
+         line = 16
+
+      Text Node
+      text = "7z"
+
+
+    Node name = peng
+         line = 17
+      Attribute id = 0
+
+      Text Node
+      text = "7z7z"
+
+
+    Node name = discard1
+         line = 18
+
+      Text Node
+      text = "2p"
+
+
+    Node name = draw
+         line = 19
+
+      Text Node
+      text = "1m"
+
+
+    Node name = discard1
+         line = 20
+
+      Text Node
+      text = "2m"
+
+
+    Node name = draw
+         line = 21
+
+      Text Node
+      text = "8p"
+
+
+    Node name = discard1
+         line = 22
+
+      Text Node
+      text = "7z"
+
+
+    Node name = draw
+         line = 23
+
+      Text Node
+      text = "4m"
+
+
+    Node name = discard1
+         line = 24
+
+      Text Node
+      text = "3z"
+
+
+    Node name = draw
+         line = 25
+
+      Text Node
+      text = "7s"
+
+
+    Node name = discard1
+         line = 26
+
+      Text Node
+      text = "1z"
+
+
+    Node name = draw
+         line = 27
+
+      Text Node
+      text = "3z"
+
+
+    Node name = discard2
+         line = 28
+
+      Text Node
+      text = "3z"
+
+
+    Node name = draw
+         line = 29
+
+      Text Node
+      text = "5z"
+
+
+    Node name = discard1
+         line = 30
+
+      Text Node
+      text = "9m"
+
+
+    Node name = draw
+         line = 31
+
+      Text Node
+      text = "6p"
+
+
+    Node name = discard1
+         line = 32
+
+      Text Node
+      text = "2z"
+
+
+    Node name = draw
+         line = 33
+
+      Text Node
+      text = "1z"
+
+
+    Node name = discard2
+         line = 34
+
+      Text Node
+      text = "1z"
+
+
+    Node name = draw
+         line = 35
+
+      Text Node
+      text = "7p"
+
+
+    Node name = discard1
+         line = 36
+
+      Text Node
+      text = "3s"
+
+
+    Node name = chi
+         line = 37
+
+      Text Node
+      text = "2s4s"
+
+
+    Node name = discard1
+         line = 38
+
+      Text Node
+      text = "9s"
+
+
+    Node name = draw
+         line = 39
+
+      Text Node
+      text = "6m"
+
+
+    Node name = discard1
+         line = 40
+
+      Text Node
+      text = "4z"
+
+
+    Node name = draw
+         line = 41
+
+      Text Node
+      text = "9s"
+
+
+    Node name = discard2
+         line = 42
+
+      Text Node
+      text = "9s"
+
+
+    Node name = draw
+         line = 43
+
+      Text Node
+      text = "8p"
+
+
+    Node name = discard1
+         line = 44
+
+      Text Node
+      text = "7m"
+
+
+    Node name = draw
+         line = 45
+
+      Text Node
+      text = "4z"
+
+
+    Node name = discard1
+         line = 46
+
+      Text Node
+      text = "2m"
+
+
+    Node name = draw
+         line = 47
+
+      Text Node
+      text = "9p"
+
+
+    Node name = discard1
+         line = 48
+
+      Text Node
+      text = "2m"
+
+
+    Node name = draw
+         line = 49
+
+      Text Node
+      text = "1m"
+
+
+    Node name = discard2
+         line = 50
+
+      Text Node
+      text = "1m"
+
+
+    Node name = draw
+         line = 51
+
+      Text Node
+      text = "4m"
+
+
+    Node name = discard2
+         line = 52
+
+      Text Node
+      text = "4m"
+
+
+    Node name = draw
+         line = 53
+
+      Text Node
+      text = "3m"
+
+
+    Node name = discard2
+         line = 54
+
+      Text Node
+      text = "3m"
+
+
+    Node name = draw
+         line = 55
+
+      Text Node
+      text = "3z"
+
+
+    Node name = discard2
+         line = 56
+
+      Text Node
+      text = "3z"
+
+
+    Node name = draw
+         line = 57
+
+      Text Node
+      text = "2s"
+
+
+    Node name = discard1
+         line = 58
+
+      Text Node
+      text = "7s"
+
+
+    Node name = draw
+         line = 59
+
+      Text Node
+      text = "5s"
+
+
+    Node name = discard1
+         line = 60
+
+      Text Node
+      text = "8p"
+
+
+    Node name = draw
+         line = 61
+
+      Text Node
+      text = "1s"
+
+
+    Node name = discard2
+         line = 62
+
+      Text Node
+      text = "1s"
+
+
+    Node name = draw
+         line = 63
+
+      Text Node
+      text = "9s"
+
+
+    Node name = discard2
+         line = 64
+
+      Text Node
+      text = "9s"
+
+
+    Node name = draw
+         line = 65
+
+      Text Node
+      text = "1s"
+
+
+    Node name = discard2
+         line = 66
+
+      Text Node
+      text = "1s"
+
+
+    Node name = draw
+         line = 67
+
+      Text Node
+      text = "8p"
+
+
+    Node name = discard1
+         line = 68
+
+      Text Node
+      text = "8p"
+
+
+    Node name = draw
+         line = 69
+
+      Text Node
+      text = "5m"
+
+
+    Node name = discard1
+         line = 70
+
+      Text Node
+      text = "4z"
+
+
+    Node name = draw
+         line = 71
+
+      Text Node
+      text = "4s"
+
+
+    Node name = discard2
+         line = 72
+
+      Text Node
+      text = "4s"
+
+
+    Node name = draw
+         line = 73
+
+      Text Node
+      text = "5p"
+
+
+    Node name = discard2
+         line = 74
+
+      Text Node
+      text = "5p"
+
+
+    Node name = draw
+         line = 75
+
+      Text Node
+      text = "2z"
+
+
+    Node name = discard2
+         line = 76
+
+      Text Node
+      text = "2z"
+
+
+    Node name = draw
+         line = 77
+
+      Text Node
+      text = "3p"
+
+
+    Node name = discard1
+         line = 78
+
+      Text Node
+      text = "5m"
+
+
+    Node name = draw
+         line = 79
+
+      Text Node
+      text = "5M"
+
+
+    Node name = discard1
+         line = 80
+
+      Text Node
+      text = "3s"
+
+
+    Node name = draw
+         line = 81
+
+      Text Node
+      text = "8s"
+
+
+    Node name = discard2
+         line = 82
+
+      Text Node
+      text = "8s"
+
+
+    Node name = draw
+         line = 83
+
+      Text Node
+      text = "6s"
+
+
+    Node name = discard1
+         line = 84
+
+      Text Node
+      text = "1p"
+
+
+    Node name = draw
+         line = 85
+
+      Text Node
+      text = "5S"
+
+
+    Node name = discard1
+         line = 86
+
+      Text Node
+      text = "9p"
+
+
+    Node name = draw
+         line = 87
+
+      Text Node
+      text = "3m"
+
+
+    Node name = discard1
+         line = 88
+
+      Text Node
+      text = "5z"
+
+
+    Node name = draw
+         line = 89
+
+      Text Node
+      text = "1z"
+
+
+    Node name = discard2
+         line = 90
+
+      Text Node
+      text = "1z"
+
+
+    Node name = draw
+         line = 91
+
+      Text Node
+      text = "6z"
+
+
+    Node name = discard1
+         line = 92
+
+      Text Node
+      text = "3p"
+
+
+    Node name = draw
+         line = 93
+
+      Text Node
+      text = "4p"
+
+
+    Node name = discard1
+         line = 94
+
+      Text Node
+      text = "6z"
+
+
+    Node name = draw
+         line = 95
+
+      Text Node
+      text = "7p"
+
+
+    Node name = discard1
+         line = 96
+
+      Text Node
+      text = "9p"
+
+
+    Node name = draw
+         line = 97
+
+      Text Node
+      text = "8s"
+
+
+    Node name = discard2
+         line = 98
+
+      Text Node
+      text = "8s"
+
+
+    Node name = draw
+         line = 99
+
+      Text Node
+      text = "9p"
+
+
+    Node name = discard1
+         line = 100
+
+      Text Node
+      text = "6z"
+
+
+    Node name = draw
+         line = 101
+
+      Text Node
+      text = "5m"
+
+
+    Node name = discard2
+         line = 102
+
+      Text Node
+      text = "5m"
+
+
+    Node name = draw
+         line = 103
+
+      Text Node
+      text = "6z"
+
+
+    Node name = discard2
+         line = 104
+
+      Text Node
+      text = "6z"
+
+
+    Node name = draw
+         line = 105
+
+      Text Node
+      text = "1s"
+
+
+    Node name = discard2
+         line = 106
+
+      Text Node
+      text = "1s"
+
+
+    Node name = draw
+         line = 107
+
+      Text Node
+      text = "3s"
+
+
+    Node name = discard1
+         line = 108
+
+      Text Node
+      text = "9p"
+
+
+    Node name = draw
+         line = 109
+
+      Text Node
+      text = "6z"
+
+
+    Node name = discard2
+         line = 110
+
+      Text Node
+      text = "6z"
+
+
+    Node name = draw
+         line = 111
+
+      Text Node
+      text = "4m"
+
+
+    Node name = discard1
+         line = 112
+
+      Text Node
+      text = "9m"
+
+
+    Node name = draw
+         line = 113
+
+      Text Node
+      text = "2p"
+
+
+    Node name = discard2
+         line = 114
+
+      Text Node
+      text = "2p"
+
+
+    Node name = draw
+         line = 115
+
+      Text Node
+      text = "8m"
+
+
+    Node name = discard1
+         line = 116
+
+      Text Node
+      text = "8p"
+
+
+    Node name = draw
+         line = 117
+
+      Text Node
+      text = "2s"
+
+
+    Node name = discard1
+         line = 118
+
+      Text Node
+      text = "8p"
+
+
+    Node name = draw
+         line = 119
+
+      Text Node
+      text = "1p"
+
+
+    Node name = discard1
+         line = 120
+
+      Text Node
+      text = "9m"
+
+
+    Node name = draw
+         line = 121
+
+      Text Node
+      text = "6m"
+
+
+    Node name = discard1
+         line = 122
+
+      Text Node
+      text = "3m"
+
+
+    Node name = draw
+         line = 123
+
+      Text Node
+      text = "9s"
+
+
+    Node name = discard1
+         line = 124
+
+      Text Node
+      text = "9p"
+
+
+    Node name = draw
+         line = 125
+
+      Text Node
+      text = "4z"
+
+
+    Node name = discard2
+         line = 126
+
+      Text Node
+      text = "4z"
+
+
+    Node name = draw
+         line = 127
+
+      Text Node
+      text = "1z"
+
+
+    Node name = discard2
+         line = 128
+
+      Text Node
+      text = "1z"
+
+
+    Node name = draw
+         line = 129
+
+      Text Node
+      text = "7m"
+
+
+    Node name = discard2
+         line = 130
+
+      Text Node
+      text = "7m"
+
+
+    Node name = draw
+         line = 131
+
+      Text Node
+      text = "3m"
+
+
+    Node name = discard2
+         line = 132
+
+      Text Node
+      text = "3m"
+
+
+    Node name = draw
+         line = 133
+
+      Text Node
+      text = "8m"
+
+
+    Node name = discard1
+         line = 134
+
+      Text Node
+      text = "5z"
+
+
+    Node name = draw
+         line = 135
+
+      Text Node
+      text = "4s"
+
+
+    Node name = discard1
+         line = 136
+
+      Text Node
+      text = "1p"
+
+
+    Node name = draw
+         line = 137
+
+      Text Node
+      text = "8m"
+
+
+    Node name = discard1
+         line = 138
+
+      Text Node
+      text = "5m"
+
+
+    Node name = draw
+         line = 139
+
+      Text Node
+      text = "9m"
+
+
+    Node name = discard1
+         line = 140
+
+      Text Node
+      text = "1m"
+
+
+    Node name = draw
+         line = 141
+
+      Text Node
+      text = "5s"
+
+
+    Node name = discard1
+         line = 142
+
+      Text Node
+      text = "1p"
+
+
+    Node name = draw
+         line = 143
+
+      Text Node
+      text = "6p"
+
+
+    Node name = discard1
+         line = 144
+
+      Text Node
+      text = "3m"
+
+
+    Node name = draw
+         line = 145
+
+      Text Node
+      text = "2z"
+
+
+    Node name = discard2
+         line = 146
+
+      Text Node
+      text = "2z"
+
+
+    Node name = draw
+         line = 147
+
+      Text Node
+      text = "7m"
+
+
+    Node name = discard1
+         line = 148
+
+      Text Node
+      text = "1m"
+
+
+    Node name = draw
+         line = 149
+
+      Text Node
+      text = "8s"
+
+
+    Node name = discard1
+         line = 150
+
+      Text Node
+      text = "5z"
+
+
+    Node name = draw
+         line = 151
+
+      Text Node
+      text = "3p"
+
+
+    Node name = discard1
+         line = 152
+
+      Text Node
+      text = "5M"
+
+
+    Node name = draw
+         line = 153
+
+      Text Node
+      text = "1s"
+
+
+    Node name = discard2
+         line = 154
+
+      Text Node
+      text = "1s"
+
+
+    Node name = draw
+         line = 155
+
+      Text Node
+      text = "6m"
+
+
+    Node name = discard1
+         line = 156
+
+      Text Node
+      text = "9m"
+
+
+    Node name = end
+         line = 157
+
+
+    Node name = ryuukyoku
+         line = 158
+
+
+      Node name = change
+           line = 159
+
+        Text Node
+        text = "15 15 -15 -15"
+
+
+
+
+  Node name = game
+       line = 162
+    Attribute kyoku = 0
+    Attribute honba = 1
+    Attribute kyotaku = 0
+    Attribute oya = 0
+
+
+    Node name = score
+         line = 163
+
+      Text Node
+      text = "265 265 235 235"
+
+
+    Node name = init
+         line = 164
+      Attribute id = 0
+
+      Text Node
+      text = "5p1m1m2m7m6s7s1z2z3z3z4z5z"
+
+
+    Node name = init
+         line = 165
+      Attribute id = 1
+
+      Text Node
+      text = "2p3p4p7p5M8m2s3s4s6s2z2z6z"
+
+
+    Node name = init
+         line = 166
+      Attribute id = 2
+
+      Text Node
+      text = "1p1p7m7m8m8m9m2s6s8s5z7z7z"
+
+
+    Node name = init
+         line = 167
+      Attribute id = 3
+
+      Text Node
+      text = "2p4p5p8p1m8m9m1s8s9s2z4z7z"
+
+
+    Node name = indicator
+         line = 168
+
+      Text Node
+      text = "1s"
+
+
+    Node name = draw
+         line = 169
+
+      Text Node
+      text = "6z"
+
+
+    Node name = discard1
+         line = 170
+
+      Text Node
+      text = "2z"
+
+
+    Node name = peng
+         line = 171
+      Attribute id = 1
+
+      Text Node
+      text = "2z2z"
+
+
+    Node name = discard1
+         line = 172
+
+      Text Node
+      text = "6z"
+
+
+    Node name = draw
+         line = 173
+
+      Text Node
+      text = "1p"
+
+
+    Node name = discard1
+         line = 174
+
+      Text Node
+      text = "5z"
+
+
+    Node name = draw
+         line = 175
+
+      Text Node
+      text = "8s"
+
+
+    Node name = discard1
+         line = 176
+
+      Text Node
+      text = "2z"
+
+
+    Node name = draw
+         line = 177
+
+      Text Node
+      text = "6z"
+
+
+    Node name = discard1
+         line = 178
+
+      Text Node
+      text = "4z"
+
+
+    Node name = draw
+         line = 179
+
+      Text Node
+      text = "9m"
+
+
+    Node name = discard2
+         line = 180
+
+      Text Node
+      text = "9m"
+
+
+    Node name = draw
+         line = 181
+
+      Text Node
+      text = "7s"
+
+
+    Node name = riichi1
+         line = 182
+
+
+    Node name = discard1
+         line = 183
+
+      Text Node
+      text = "2s"
+
+
+    Node name = riichi2
+         line = 184
+
+
+    Node name = change
+         line = 185
+
+      Text Node
+      text = "0 0 -10 0"
+
+
+    Node name = draw
+         line = 186
+
+      Text Node
+      text = "4s"
+
+
+    Node name = discard1
+         line = 187
+
+      Text Node
+      text = "4z"
+
+
+    Node name = draw
+         line = 188
+
+      Text Node
+      text = "1m"
+
+
+    Node name = discard1
+         line = 189
+
+      Text Node
+      text = "5z"
+
+
+    Node name = draw
+         line = 190
+
+      Text Node
+      text = "6p"
+
+
+    Node name = discard1
+         line = 191
+
+      Text Node
+      text = "8m"
+
+
+    Node name = draw
+         line = 192
+
+      Text Node
+      text = "2s"
+
+
+    Node name = discard2
+         line = 193
+
+      Text Node
+      text = "2s"
+
+
+    Node name = draw
+         line = 194
+
+      Text Node
+      text = "5P"
+
+
+    Node name = discard1
+         line = 195
+
+      Text Node
+      text = "8m"
+
+
+    Node name = draw
+         line = 196
+
+      Text Node
+      text = "3p"
+
+
+    Node name = discard1
+         line = 197
+
+      Text Node
+      text = "3z"
+
+
+    Node name = draw
+         line = 198
+
+      Text Node
+      text = "6m"
+
+
+    Node name = discard1
+         line = 199
+
+      Text Node
+      text = "6s"
+
+
+    Node name = draw
+         line = 200
+
+      Text Node
+      text = "4p"
+
+
+    Node name = discard2
+         line = 201
+
+      Text Node
+      text = "4p"
+
+
+    Node name = draw
+         line = 202
+
+      Text Node
+      text = "5z"
+
+
+    Node name = discard1
+         line = 203
+
+      Text Node
+      text = "4p"
+
+
+    Node name = chi
+         line = 204
+
+      Text Node
+      text = "3p5p"
+
+
+    Node name = discard1
+         line = 205
+
+      Text Node
+      text = "3z"
+
+
+    Node name = draw
+         line = 206
+
+      Text Node
+      text = "2m"
+
+
+    Node name = discard1
+         line = 207
+
+      Text Node
+      text = "4p"
+
+
+    Node name = draw
+         line = 208
+
+      Text Node
+      text = "1s"
+
+
+    Node name = discard2
+         line = 209
+
+      Text Node
+      text = "1s"
+
+
+    Node name = draw
+         line = 210
+
+      Text Node
+      text = "2p"
+
+
+    Node name = discard1
+         line = 211
+
+      Text Node
+      text = "1s"
+
+
+    Node name = draw
+         line = 212
+
+      Text Node
+      text = "5m"
+
+
+    Node name = discard1
+         line = 213
+
+      Text Node
+      text = "1z"
+
+
+    Node name = draw
+         line = 214
+
+      Text Node
+      text = "8s"
+
+
+    Node name = discard1
+         line = 215
+
+      Text Node
+      text = "2s"
+
+
+    Node name = draw
+         line = 216
+
+      Text Node
+      text = "6z"
+
+
+    Node name = discard2
+         line = 217
+
+      Text Node
+      text = "6z"
+
+
+    Node name = peng
+         line = 218
+      Attribute id = 0
+
+      Text Node
+      text = "6z6z"
+
+
+    Node name = discard1
+         line = 219
+
+      Text Node
+      text = "2m"
+
+
+    Node name = draw
+         line = 220
+
+      Text Node
+      text = "7z"
+
+
+    Node name = discard1
+         line = 221
+
+      Text Node
+      text = "2m"
+
+
+    Node name = draw
+         line = 222
+
+      Text Node
+      text = "4m"
+
+
+    Node name = discard2
+         line = 223
+
+      Text Node
+      text = "4m"
+
+
+    Node name = draw
+         line = 224
+
+      Text Node
+      text = "5S"
+
+
+    Node name = discard1
+         line = 225
+
+      Text Node
+      text = "5z"
+
+
+    Node name = draw
+         line = 226
+
+      Text Node
+      text = "6m"
+
+
+    Node name = discard1
+         line = 227
+
+      Text Node
+      text = "1m"
+
+
+    Node name = draw
+         line = 228
+
+      Text Node
+      text = "1z"
+
+
+    Node name = discard2
+         line = 229
+
+      Text Node
+      text = "1z"
+
+
+    Node name = draw
+         line = 230
+
+      Text Node
+      text = "6m"
+
+
+    Node name = hu
+         line = 231
+      Attribute from = 2
+      Attribute id = 2
+
+
+    Node name = end
+         line = 232
+
+
+    Node name = hu
+         line = 233
+      Attribute from = 2
+      Attribute id = 2
+      Attribute score = 2700
+
+
+      Node name = change
+           line = 234
+
+        Text Node
+        text = "-14 -8 40 -8"
+
+
+
+
+  Node name = game
+       line = 237
+    Attribute kyoku = 1
+    Attribute honba = 0
+    Attribute kyotaku = 0
+    Attribute oya = 1
+
+
+    Node name = score
+         line = 238
+
+      Text Node
+      text = "251 257 265 227"
+
+
+    Node name = init
+         line = 239
+      Attribute id = 0
+
+      Text Node
+      text = "1p5m6m7m8m9m2s5s6s9s1z7z7z"
+
+
+    Node name = init
+         line = 240
+      Attribute id = 1
+
+      Text Node
+      text = "1p7p8p8p1m2m4m4m7m9m2s4s6z"
+
+
+    Node name = init
+         line = 241
+      Attribute id = 2
+
+      Text Node
+      text = "5p1m1m2m3m8m1s1s3s1z2z3z6z"
+
+
+    Node name = init
+         line = 242
+      Attribute id = 3
+
+      Text Node
+      text = "1p3p4p4p4p6p6p2m3m6m8m2s1z"
+
+
+    Node name = indicator
+         line = 243
+
+      Text Node
+      text = "4z"
+
+
+    Node name = draw
+         line = 244
+
+      Text Node
+      text = "8s"
+
+
+    Node name = discard1
+         line = 245
+
+      Text Node
+      text = "1p"
+
+
+    Node name = draw
+         line = 246
+
+      Text Node
+      text = "9p"
+
+
+    Node name = discard1
+         line = 247
+
+      Text Node
+      text = "3z"
+
+
+    Node name = draw
+         line = 248
+
+      Text Node
+      text = "1p"
+
+
+    Node name = discard1
+         line = 249
+
+      Text Node
+      text = "2s"
+
+
+    Node name = draw
+         line = 250
+
+      Text Node
+      text = "7z"
+
+
+    Node name = discard1
+         line = 251
+
+      Text Node
+      text = "9s"
+
+
+    Node name = draw
+         line = 252
+
+      Text Node
+      text = "5m"
+
+
+    Node name = discard1
+         line = 253
+
+      Text Node
+      text = "6z"
+
+
+    Node name = draw
+         line = 254
+
+      Text Node
+      text = "3p"
+
+
+    Node name = discard1
+         line = 255
+
+      Text Node
+      text = "6z"
+
+
+    Node name = draw
+         line = 256
+
+      Text Node
+      text = "8p"
+
+
+    Node name = discard1
+         line = 257
+
+      Text Node
+      text = "8m"
+
+
+    Node name = draw
+         line = 258
+
+      Text Node
+      text = "3p"
+
+
+    Node name = discard1
+         line = 259
+
+      Text Node
+      text = "2s"
+
+
+    Node name = draw
+         line = 260
+
+      Text Node
+      text = "8s"
+
+
+    Node name = discard1
+         line = 261
+
+      Text Node
+      text = "1m"
+
+
+    Node name = draw
+         line = 262
+
+      Text Node
+      text = "2p"
+
+
+    Node name = discard1
+         line = 263
+
+      Text Node
+      text = "2z"
+
+
+    Node name = draw
+         line = 264
+
+      Text Node
+      text = "9p"
+
+
+    Node name = discard1
+         line = 265
+
+      Text Node
+      text = "6m"
+
+
+    Node name = draw
+         line = 266
+
+      Text Node
+      text = "4p"
+
+
+    Node name = discard1
+         line = 267
+
+      Text Node
+      text = "1p"
+
+
+    Node name = peng
+         line = 268
+      Attribute id = 3
+
+      Text Node
+      text = "1p1p"
+
+
+    Node name = discard1
+         line = 269
+
+      Text Node
+      text = "3m"
+
+
+    Node name = draw
+         line = 270
+
+      Text Node
+      text = "1s"
+
+
+    Node name = discard2
+         line = 271
+
+      Text Node
+      text = "1s"
+
+
+    Node name = draw
+         line = 272
+
+      Text Node
+      text = "2p"
+
+
+    Node name = discard2
+         line = 273
+
+      Text Node
+      text = "2p"
+
+
+    Node name = draw
+         line = 274
+
+      Text Node
+      text = "7z"
+
+
+    Node name = discard1
+         line = 275
+
+      Text Node
+      text = "8m"
+
+
+    Node name = draw
+         line = 276
+
+      Text Node
+      text = "1s"
+
+
+    Node name = discard1
+         line = 277
+
+      Text Node
+      text = "2m"
+
+
+    Node name = draw
+         line = 278
+
+      Text Node
+      text = "7m"
+
+
+    Node name = discard1
+         line = 279
+
+      Text Node
+      text = "4p"
+
+
+    Node name = peng
+         line = 280
+      Attribute id = 3
+
+      Text Node
+      text = "4p4p"
+
+
+    Node name = discard1
+         line = 281
+
+      Text Node
+      text = "1s"
+
+
+    Node name = draw
+         line = 282
+
+      Text Node
+      text = "6s"
+
+
+    Node name = discard1
+         line = 283
+
+      Text Node
+      text = "3p"
+
+
+    Node name = draw
+         line = 284
+
+      Text Node
+      text = "6z"
+
+
+    Node name = discard2
+         line = 285
+
+      Text Node
+      text = "6z"
+
+
+    Node name = draw
+         line = 286
+
+      Text Node
+      text = "8p"
+
+
+    Node name = discard1
+         line = 287
+
+      Text Node
+      text = "1s"
+
+
+    Node name = draw
+         line = 288
+
+      Text Node
+      text = "6z"
+
+
+    Node name = discard2
+         line = 289
+
+      Text Node
+      text = "6z"
+
+
+    Node name = draw
+         line = 290
+
+      Text Node
+      text = "2s"
+
+
+    Node name = discard2
+         line = 291
+
+      Text Node
+      text = "2s"
+
+
+    Node name = draw
+         line = 292
+
+      Text Node
+      text = "5M"
+
+
+    Node name = discard1
+         line = 293
+
+      Text Node
+      text = "9m"
+
+
+    Node name = draw
+         line = 294
+
+      Text Node
+      text = "7s"
+
+
+    Node name = discard2
+         line = 295
+
+      Text Node
+      text = "7s"
+
+
+    Node name = draw
+         line = 296
+
+      Text Node
+      text = "3z"
+
+
+    Node name = discard1
+         line = 297
+
+      Text Node
+      text = "1z"
+
+
+    Node name = draw
+         line = 298
+
+      Text Node
+      text = "4z"
+
+
+    Node name = discard2
+         line = 299
+
+      Text Node
+      text = "4z"
+
+
+    Node name = draw
+         line = 300
+
+      Text Node
+      text = "3m"
+
+
+    Node name = discard1
+         line = 301
+
+      Text Node
+      text = "7m"
+
+
+    Node name = draw
+         line = 302
+
+      Text Node
+      text = "7s"
+
+
+    Node name = discard1
+         line = 303
+
+      Text Node
+      text = "1z"
+
+
+    Node name = draw
+         line = 304
+
+      Text Node
+      text = "4s"
+
+
+    Node name = discard2
+         line = 305
+
+      Text Node
+      text = "4s"
+
+
+    Node name = chi
+         line = 306
+
+      Text Node
+      text = "5s6s"
+
+
+    Node name = discard1
+         line = 307
+
+      Text Node
+      text = "6s"
+
+
+    Node name = draw
+         line = 308
+
+      Text Node
+      text = "6p"
+
+
+    Node name = discard1
+         line = 309
+
+      Text Node
+      text = "8p"
+
+
+    Node name = draw
+         line = 310
+
+      Text Node
+      text = "5z"
+
+
+    Node name = discard1
+         line = 311
+
+      Text Node
+      text = "7s"
+
+
+    Node name = draw
+         line = 312
+
+      Text Node
+      text = "7s"
+
+
+    Node name = discard2
+         line = 313
+
+      Text Node
+      text = "7s"
+
+
+    Node name = draw
+         line = 314
+
+      Text Node
+      text = "7m"
+
+
+    Node name = discard2
+         line = 315
+
+      Text Node
+      text = "7m"
+
+
+    Node name = draw
+         line = 316
+
+      Text Node
+      text = "2z"
+
+
+    Node name = discard2
+         line = 317
+
+      Text Node
+      text = "2z"
+
+
+    Node name = draw
+         line = 318
+
+      Text Node
+      text = "3s"
+
+
+    Node name = discard1
+         line = 319
+
+      Text Node
+      text = "1s"
+
+
+    Node name = draw
+         line = 320
+
+      Text Node
+      text = "5m"
+
+
+    Node name = discard2
+         line = 321
+
+      Text Node
+      text = "5m"
+
+
+    Node name = peng
+         line = 322
+      Attribute id = 1
+
+      Text Node
+      text = "5M5m"
+
+
+    Node name = discard1
+         line = 323
+
+      Text Node
+      text = "4m"
+
+
+    Node name = draw
+         line = 324
+
+      Text Node
+      text = "5s"
+
+
+    Node name = discard1
+         line = 325
+
+      Text Node
+      text = "1m"
+
+
+    Node name = draw
+         line = 326
+
+      Text Node
+      text = "5S"
+
+
+    Node name = discard2
+         line = 327
+
+      Text Node
+      text = "5S"
+
+
+    Node name = draw
+         line = 328
+
+      Text Node
+      text = "5z"
+
+
+    Node name = discard2
+         line = 329
+
+      Text Node
+      text = "5z"
+
+
+    Node name = draw
+         line = 330
+
+      Text Node
+      text = "2p"
+
+
+    Node name = discard2
+         line = 331
+
+      Text Node
+      text = "2p"
+
+
+    Node name = draw
+         line = 332
+
+      Text Node
+      text = "2p"
+
+
+    Node name = discard1
+         line = 333
+
+      Text Node
+      text = "5s"
+
+
+    Node name = draw
+         line = 334
+
+      Text Node
+      text = "9p"
+
+
+    Node name = discard1
+         line = 335
+
+      Text Node
+      text = "3z"
+
+
+    Node name = draw
+         line = 336
+
+      Text Node
+      text = "9p"
+
+
+    Node name = discard2
+         line = 337
+
+      Text Node
+      text = "9p"
+
+
+    Node name = peng
+         line = 338
+      Attribute id = 3
+
+      Text Node
+      text = "9p9p"
+
+
+    Node name = discard1
+         line = 339
+
+      Text Node
+      text = "8p"
+
+
+    Node name = draw
+         line = 340
+
+      Text Node
+      text = "4s"
+
+
+    Node name = discard2
+         line = 341
+
+      Text Node
+      text = "4s"
+
+
+    Node name = draw
+         line = 342
+
+      Text Node
+      text = "3s"
+
+
+    Node name = hu
+         line = 343
+      Attribute from = 1
+      Attribute id = 1
+
+
+    Node name = end
+         line = 344
+
+
+    Node name = hu
+         line = 345
+      Attribute from = 1
+      Attribute id = 1
+      Attribute score = 3000
+
+
+      Node name = change
+           line = 346
+
+        Text Node
+        text = "-10 30 -10 -10"
+
+
+
+
+  Node name = game
+       line = 349
+    Attribute kyoku = 1
+    Attribute honba = 1
+    Attribute kyotaku = 0
+    Attribute oya = 1
+
+
+    Node name = score
+         line = 350
+
+      Text Node
+      text = "241 287 255 217"
+
+
+    Node name = init
+         line = 351
+      Attribute id = 0
+
+      Text Node
+      text = "2p6p7p1m1m3m1s4s4z4z5z6z7z"
+
+
+    Node name = init
+         line = 352
+      Attribute id = 1
+
+      Text Node
+      text = "3p4p5p5p8p8p9p2m4m9m9m2s6z"
+
+
+    Node name = init
+         line = 353
+      Attribute id = 2
+
+      Text Node
+      text = "5p7p2m2m5M6m7m1s3s5s5s6s3z"
+
+
+    Node name = init
+         line = 354
+      Attribute id = 3
+
+      Text Node
+      text = "3p3p4p6p9p3m6m8m3s9s1z2z7z"
+
+
+    Node name = indicator
+         line = 355
+
+      Text Node
+      text = "8m"
+
+
+    Node name = draw
+         line = 356
+
+      Text Node
+      text = "7p"
+
+
+    Node name = discard1
+         line = 357
+
+      Text Node
+      text = "6z"
+
+
+    Node name = draw
+         line = 358
+
+      Text Node
+      text = "3s"
+
+
+    Node name = discard1
+         line = 359
+
+      Text Node
+      text = "3z"
+
+
+    Node name = draw
+         line = 360
+
+      Text Node
+      text = "3z"
+
+
+    Node name = discard1
+         line = 361
+
+      Text Node
+      text = "2z"
+
+
+    Node name = draw
+         line = 362
+
+      Text Node
+      text = "4s"
+
+
+    Node name = discard1
+         line = 363
+
+      Text Node
+      text = "1s"
+
+
+    Node name = draw
+         line = 364
+
+      Text Node
+      text = "7m"
+
+
+    Node name = discard1
+         line = 365
+
+      Text Node
+      text = "2s"
+
+
+    Node name = draw
+         line = 366
+
+      Text Node
+      text = "3z"
+
+
+    Node name = discard2
+         line = 367
+
+      Text Node
+      text = "3z"
+
+
+    Node name = draw
+         line = 368
+
+      Text Node
+      text = "4s"
+
+
+    Node name = discard1
+         line = 369
+
+      Text Node
+      text = "9p"
+
+
+    Node name = draw
+         line = 370
+
+      Text Node
+      text = "4p"
+
+
+    Node name = discard1
+         line = 371
+
+      Text Node
+      text = "6z"
+
+
+    Node name = draw
+         line = 372
+
+      Text Node
+      text = "7p"
+
+
+    Node name = discard1
+         line = 373
+
+      Text Node
+      text = "5p"
+
+
+    Node name = draw
+         line = 374
+
+      Text Node
+      text = "1p"
+
+
+    Node name = discard2
+         line = 375
+
+      Text Node
+      text = "1p"
+
+
+    Node name = draw
+         line = 376
+
+      Text Node
+      text = "5m"
+
+
+    Node name = discard1
+         line = 377
+
+      Text Node
+      text = "3z"
+
+
+    Node name = draw
+         line = 378
+
+      Text Node
+      text = "9s"
+
+
+    Node name = discard2
+         line = 379
+
+      Text Node
+      text = "9s"
+
+
+    Node name = draw
+         line = 380
+
+      Text Node
+      text = "6s"
+
+
+    Node name = discard1
+         line = 381
+
+      Text Node
+      text = "7m"
+
+
+    Node name = draw
+         line = 382
+
+      Text Node
+      text = "4z"
+
+
+    Node name = discard2
+         line = 383
+
+      Text Node
+      text = "4z"
+
+
+    Node name = draw
+         line = 384
+
+      Text Node
+      text = "2s"
+
+
+    Node name = discard1
+         line = 385
+
+      Text Node
+      text = "9s"
+
+
+    Node name = draw
+         line = 386
+
+      Text Node
+      text = "6m"
+
+
+    Node name = discard1
+         line = 387
+
+      Text Node
+      text = "7z"
+
+
+    Node name = draw
+         line = 388
+
+      Text Node
+      text = "8m"
+
+
+    Node name = discard2
+         line = 389
+
+      Text Node
+      text = "8m"
+
+
+    Node name = draw
+         line = 390
+
+      Text Node
+      text = "2p"
+
+
+    Node name = discard2
+         line = 391
+
+      Text Node
+      text = "2p"
+
+
+    Node name = draw
+         line = 392
+
+      Text Node
+      text = "6m"
+
+
+    Node name = discard1
+         line = 393
+
+      Text Node
+      text = "7z"
+
+
+    Node name = draw
+         line = 394
+
+      Text Node
+      text = "8m"
+
+
+    Node name = discard1
+         line = 395
+
+      Text Node
+      text = "5z"
+
+
+    Node name = draw
+         line = 396
+
+      Text Node
+      text = "8s"
+
+
+    Node name = discard1
+         line = 397
+
+      Text Node
+      text = "2m"
+
+
+    Node name = peng
+         line = 398
+      Attribute id = 2
+
+      Text Node
+      text = "2m2m"
+
+
+    Node name = discard1
+         line = 399
+
+      Text Node
+      text = "5s"
+
+
+    Node name = draw
+         line = 400
+
+      Text Node
+      text = "1p"
+
+
+    Node name = discard2
+         line = 401
+
+      Text Node
+      text = "1p"
+
+
+    Node name = draw
+         line = 402
+
+      Text Node
+      text = "1m"
+
+
+    Node name = discard1
+         line = 403
+
+      Text Node
+      text = "3m"
+
+
+    Node name = draw
+         line = 404
+
+      Text Node
+      text = "4m"
+
+
+    Node name = discard2
+         line = 405
+
+      Text Node
+      text = "4m"
+
+
+    Node name = draw
+         line = 406
+
+      Text Node
+      text = "2p"
+
+
+    Node name = discard2
+         line = 407
+
+      Text Node
+      text = "2p"
+
+
+    Node name = draw
+         line = 408
+
+      Text Node
+      text = "7s"
+
+
+    Node name = discard1
+         line = 409
+
+      Text Node
+      text = "1z"
+
+
+    Node name = draw
+         line = 410
+
+      Text Node
+      text = "6p"
+
+
+    Node name = discard1
+         line = 411
+
+      Text Node
+      text = "8m"
+
+
+    Node name = draw
+         line = 412
+
+      Text Node
+      text = "5m"
+
+
+    Node name = discard1
+         line = 413
+
+      Text Node
+      text = "8s"
+
+
+    Node name = draw
+         line = 414
+
+      Text Node
+      text = "8s"
+
+
+    Node name = discard2
+         line = 415
+
+      Text Node
+      text = "8s"
+
+
+    Node name = draw
+         line = 416
+
+      Text Node
+      text = "1m"
+
+
+    Node name = discard1
+         line = 417
+
+      Text Node
+      text = "7s"
+
+
+    Node name = draw
+         line = 418
+
+      Text Node
+      text = "5P"
+
+
+    Node name = discard1
+         line = 419
+
+      Text Node
+      text = "6m"
+
+
+    Node name = draw
+         line = 420
+
+      Text Node
+      text = "9p"
+
+
+    Node name = discard1
+         line = 421
+
+      Text Node
+      text = "6s"
+
+
+    Node name = draw
+         line = 422
+
+      Text Node
+      text = "6p"
+
+
+    Node name = discard1
+         line = 423
+
+      Text Node
+      text = "1s"
+
+
+    Node name = draw
+         line = 424
+
+      Text Node
+      text = "7s"
+
+
+    Node name = discard1
+         line = 425
+
+      Text Node
+      text = "1m"
+
+
+    Node name = draw
+         line = 426
+
+      Text Node
+      text = "1s"
+
+
+    Node name = discard2
+         line = 427
+
+      Text Node
+      text = "1s"
+
+
+    Node name = draw
+         line = 428
+
+      Text Node
+      text = "2z"
+
+
+    Node name = discard2
+         line = 429
+
+      Text Node
+      text = "2z"
+
+
+    Node name = draw
+         line = 430
+
+      Text Node
+      text = "5z"
+
+
+    Node name = discard2
+         line = 431
+
+      Text Node
+      text = "5z"
+
+
+    Node name = draw
+         line = 432
+
+      Text Node
+      text = "9s"
+
+
+    Node name = discard2
+         line = 433
+
+      Text Node
+      text = "9s"
+
+
+    Node name = draw
+         line = 434
+
+      Text Node
+      text = "5s"
+
+
+    Node name = discard1
+         line = 435
+
+      Text Node
+      text = "2p"
+
+
+    Node name = draw
+         line = 436
+
+      Text Node
+      text = "9m"
+
+
+    Node name = discard2
+         line = 437
+
+      Text Node
+      text = "9m"
+
+
+    Node name = draw
+         line = 438
+
+      Text Node
+      text = "6z"
+
+
+    Node name = discard2
+         line = 439
+
+      Text Node
+      text = "6z"
+
+
+    Node name = draw
+         line = 440
+
+      Text Node
+      text = "6s"
+
+
+    Node name = discard1
+         line = 441
+
+      Text Node
+      text = "6p"
+
+
+    Node name = draw
+         line = 442
+
+      Text Node
+      text = "3p"
+
+
+    Node name = discard2
+         line = 443
+
+      Text Node
+      text = "3p"
+
+
+    Node name = draw
+         line = 444
+
+      Text Node
+      text = "4z"
+
+
+    Node name = discard2
+         line = 445
+
+      Text Node
+      text = "4z"
+
+
+    Node name = peng
+         line = 446
+      Attribute id = 0
+
+      Text Node
+      text = "4z4z"
+
+
+    Node name = discard1
+         line = 447
+
+      Text Node
+      text = "5s"
+
+
+    Node name = draw
+         line = 448
+
+      Text Node
+      text = "5z"
+
+
+    Node name = discard2
+         line = 449
+
+      Text Node
+      text = "5z"
+
+
+    Node name = draw
+         line = 450
+
+      Text Node
+      text = "8s"
+
+
+    Node name = discard2
+         line = 451
+
+      Text Node
+      text = "8s"
+
+
+    Node name = draw
+         line = 452
+
+      Text Node
+      text = "4s"
+
+
+    Node name = discard1
+         line = 453
+
+      Text Node
+      text = "8m"
+
+
+    Node name = draw
+         line = 454
+
+      Text Node
+      text = "6s"
+
+
+    Node name = discard2
+         line = 455
+
+      Text Node
+      text = "6s"
+
+
+    Node name = draw
+         line = 456
+
+      Text Node
+      text = "8p"
+
+
+    Node name = discard1
+         line = 457
+
+      Text Node
+      text = "8p"
+
+
+    Node name = hu
+         line = 458
+      Attribute from = 1
+      Attribute id = 0
+
+
+    Node name = end
+         line = 459
+
+
+    Node name = hu
+         line = 460
+      Attribute from = 1
+      Attribute id = 0
+      Attribute score = 2600
+
+
+      Node name = change
+           line = 461
+
+        Text Node
+        text = "29 -29 0 0"
+
+
+
+
+  Node name = game
+       line = 464
+    Attribute kyoku = 2
+    Attribute honba = 0
+    Attribute kyotaku = 0
+    Attribute oya = 2
+
+
+    Node name = score
+         line = 465
+
+      Text Node
+      text = "270 258 255 217"
+
+
+    Node name = init
+         line = 466
+      Attribute id = 0
+
+      Text Node
+      text = "3p7p9p9p3m2s3s4s6s8s9s1z2z"
+
+
+    Node name = init
+         line = 467
+      Attribute id = 1
+
+      Text Node
+      text = "3p4p7p8p2m4m6m8m9m4s8s4z6z"
+
+
+    Node name = init
+         line = 468
+      Attribute id = 2
+
+      Text Node
+      text = "1p1p1p2p5p6p7p3m8m5s5s2z2z"
+
+
+    Node name = init
+         line = 469
+      Attribute id = 3
+
+      Text Node
+      text = "3p7p8p8p1m5m1s3z3z3z3z4z7z"
+
+
+    Node name = indicator
+         line = 470
+
+      Text Node
+      text = "5m"
+
+
+    Node name = draw
+         line = 471
+
+      Text Node
+      text = "6z"
+
+
+    Node name = discard1
+         line = 472
+
+      Text Node
+      text = "2p"
+
+
+    Node name = draw
+         line = 473
+
+      Text Node
+      text = "5m"
+
+
+    Node name = discard1
+         line = 474
+
+      Text Node
+      text = "4z"
+
+
+    Node name = draw
+         line = 475
+
+      Text Node
+      text = "3m"
+
+
+    Node name = discard1
+         line = 476
+
+      Text Node
+      text = "2z"
+
+
+    Node name = draw
+         line = 477
+
+      Text Node
+      text = "8m"
+
+
+    Node name = discard1
+         line = 478
+
+      Text Node
+      text = "9m"
+
+
+    Node name = draw
+         line = 479
+
+      Text Node
+      text = "5z"
+
+
+    Node name = discard1
+         line = 480
+
+      Text Node
+      text = "6z"
+
+
+    Node name = draw
+         line = 481
+
+      Text Node
+      text = "1z"
+
+
+    Node name = discard1
+         line = 482
+
+      Text Node
+      text = "1s"
+
+
+    Node name = draw
+         line = 483
+
+      Text Node
+      text = "2m"
+
+
+    Node name = discard1
+         line = 484
+
+      Text Node
+      text = "9s"
+
+
+    Node name = draw
+         line = 485
+
+      Text Node
+      text = "8p"
+
+
+    Node name = discard1
+         line = 486
+
+      Text Node
+      text = "6z"
+
+
+    Node name = draw
+         line = 487
+
+      Text Node
+      text = "7s"
+
+
+    Node name = discard1
+         line = 488
+
+      Text Node
+      text = "5z"
+
+
+    Node name = draw
+         line = 489
+
+      Text Node
+      text = "6z"
+
+
+    Node name = discard1
+         line = 490
+
+      Text Node
+      text = "1m"
+
+
+    Node name = draw
+         line = 491
+
+      Text Node
+      text = "5P"
+
+
+    Node name = discard1
+         line = 492
+
+      Text Node
+      text = "1z"
+
+
+    Node name = draw
+         line = 493
+
+      Text Node
+      text = "7z"
+
+
+    Node name = discard2
+         line = 494
+
+      Text Node
+      text = "7z"
+
+
+    Node name = draw
+         line = 495
+
+      Text Node
+      text = "2p"
+
+
+    Node name = discard2
+         line = 496
+
+      Text Node
+      text = "2p"
+
+
+    Node name = draw
+         line = 497
+
+      Text Node
+      text = "7m"
+
+
+    Node name = discard1
+         line = 498
+
+      Text Node
+      text = "6z"
+
+
+    Node name = draw
+         line = 499
+
+      Text Node
+      text = "7z"
+
+
+    Node name = discard2
+         line = 500
+
+      Text Node
+      text = "7z"
+
+
+    Node name = draw
+         line = 501
+
+      Text Node
+      text = "5p"
+
+
+    Node name = discard1
+         line = 502
+
+      Text Node
+      text = "4z"
+
+
+    Node name = draw
+         line = 503
+
+      Text Node
+      text = "4m"
+
+
+    Node name = discard1
+         line = 504
+
+      Text Node
+      text = "8m"
+
+
+    Node name = peng
+         line = 505
+      Attribute id = 1
+
+      Text Node
+      text = "8m8m"
+
+
+    Node name = discard1
+         line = 506
+
+      Text Node
+      text = "8s"
+
+
+    Node name = draw
+         line = 507
+
+      Text Node
+      text = "7s"
+
+
+    Node name = discard1
+         line = 508
+
+      Text Node
+      text = "2z"
+
+
+    Node name = draw
+         line = 509
+
+      Text Node
+      text = "2z"
+
+
+    Node name = discard2
+         line = 510
+
+      Text Node
+      text = "2z"
+
+
+    Node name = draw
+         line = 511
+
+      Text Node
+      text = "4s"
+
+
+    Node name = discard1
+         line = 512
+
+      Text Node
+      text = "3m"
+
+
+    Node name = chi
+         line = 513
+
+      Text Node
+      text = "2m4m"
+
+
+    Node name = discard1
+         line = 514
+
+      Text Node
+      text = "7p"
+
+
+    Node name = draw
+         line = 515
+
+      Text Node
+      text = "4p"
+
+
+    Node name = discard1
+         line = 516
+
+      Text Node
+      text = "7p"
+
+
+    Node name = draw
+         line = 517
+
+      Text Node
+      text = "4z"
+
+
+    Node name = discard2
+         line = 518
+
+      Text Node
+      text = "4z"
+
+
+    Node name = draw
+         line = 519
+
+      Text Node
+      text = "5M"
+
+
+    Node name = discard1
+         line = 520
+
+      Text Node
+      text = "2m"
+
+
+    Node name = draw
+         line = 521
+
+      Text Node
+      text = "9s"
+
+
+    Node name = discard2
+         line = 522
+
+      Text Node
+      text = "9s"
+
+
+    Node name = draw
+         line = 523
+
+      Text Node
+      text = "1s"
+
+
+    Node name = discard2
+         line = 524
+
+      Text Node
+      text = "1s"
+
+
+    Node name = draw
+         line = 525
+
+      Text Node
+      text = "2s"
+
+
+    Node name = discard1
+         line = 526
+
+      Text Node
+      text = "7z"
+
+
+    Node name = draw
+         line = 527
+
+      Text Node
+      text = "1p"
+
+
+    Node name = discard2
+         line = 528
+
+      Text Node
+      text = "1p"
+
+
+    Node name = draw
+         line = 529
+
+      Text Node
+      text = "6s"
+
+
+    Node name = discard1
+         line = 530
+
+      Text Node
+      text = "6m"
+
+
+    Node name = draw
+         line = 531
+
+      Text Node
+      text = "6p"
+
+
+    Node name = discard1
+         line = 532
+
+      Text Node
+      text = "2z"
+
+
+    Node name = draw
+         line = 533
+
+      Text Node
+      text = "7z"
+
+
+    Node name = discard1
+         line = 534
+
+      Text Node
+      text = "1z"
+
+
+    Node name = draw
+         line = 535
+
+      Text Node
+      text = "4p"
+
+
+    Node name = discard1
+         line = 536
+
+      Text Node
+      text = "7p"
+
+
+    Node name = draw
+         line = 537
+
+      Text Node
+      text = "9p"
+
+
+    Node name = discard2
+         line = 538
+
+      Text Node
+      text = "9p"
+
+
+    Node name = draw
+         line = 539
+
+      Text Node
+      text = "1s"
+
+
+    Node name = discard2
+         line = 540
+
+      Text Node
+      text = "1s"
+
+
+    Node name = draw
+         line = 541
+
+      Text Node
+      text = "6s"
+
+
+    Node name = discard1
+         line = 542
+
+      Text Node
+      text = "7z"
+
+
+    Node name = draw
+         line = 543
+
+      Text Node
+      text = "6m"
+
+
+    Node name = discard1
+         line = 544
+
+      Text Node
+      text = "3m"
+
+
+    Node name = draw
+         line = 545
+
+      Text Node
+      text = "5p"
+
+
+    Node name = discard2
+         line = 546
+
+      Text Node
+      text = "5p"
+
+
+    Node name = chi
+         line = 547
+
+      Text Node
+      text = "4p6p"
+
+
+    Node name = discard1
+         line = 548
+
+      Text Node
+      text = "1p"
+
+
+    Node name = draw
+         line = 549
+
+      Text Node
+      text = "6p"
+
+
+    Node name = discard1
+         line = 550
+
+      Text Node
+      text = "3z"
+
+
+    Node name = draw
+         line = 551
+
+      Text Node
+      text = "3m"
+
+
+    Node name = discard2
+         line = 552
+
+      Text Node
+      text = "3m"
+
+
+    Node name = draw
+         line = 553
+
+      Text Node
+      text = "8m"
+
+
+    Node name = discard2
+         line = 554
+
+      Text Node
+      text = "8m"
+
+
+    Node name = draw
+         line = 555
+
+      Text Node
+      text = "6p"
+
+
+    Node name = discard1
+         line = 556
+
+      Text Node
+      text = "5p"
+
+
+    Node name = draw
+         line = 557
+
+      Text Node
+      text = "5z"
+
+
+    Node name = discard2
+         line = 558
+
+      Text Node
+      text = "5z"
+
+
+    Node name = draw
+         line = 559
+
+      Text Node
+      text = "5s"
+
+
+    Node name = discard1
+         line = 560
+
+      Text Node
+      text = "8s"
+
+
+    Node name = draw
+         line = 561
+
+      Text Node
+      text = "9m"
+
+
+    Node name = discard2
+         line = 562
+
+      Text Node
+      text = "9m"
+
+
+    Node name = draw
+         line = 563
+
+      Text Node
+      text = "1m"
+
+
+    Node name = discard2
+         line = 564
+
+      Text Node
+      text = "1m"
+
+
+    Node name = draw
+         line = 565
+
+      Text Node
+      text = "6z"
+
+
+    Node name = discard2
+         line = 566
+
+      Text Node
+      text = "6z"
+
+
+    Node name = draw
+         line = 567
+
+      Text Node
+      text = "5z"
+
+
+    Node name = discard2
+         line = 568
+
+      Text Node
+      text = "5z"
+
+
+    Node name = draw
+         line = 569
+
+      Text Node
+      text = "4p"
+
+
+    Node name = discard2
+         line = 570
+
+      Text Node
+      text = "4p"
+
+
+    Node name = draw
+         line = 571
+
+      Text Node
+      text = "9m"
+
+
+    Node name = discard2
+         line = 572
+
+      Text Node
+      text = "9m"
+
+
+    Node name = draw
+         line = 573
+
+      Text Node
+      text = "5z"
+
+
+    Node name = discard2
+         line = 574
+
+      Text Node
+      text = "5z"
+
+
+    Node name = draw
+         line = 575
+
+      Text Node
+      text = "3p"
+
+
+    Node name = discard2
+         line = 576
+
+      Text Node
+      text = "3p"
+
+
+    Node name = draw
+         line = 577
+
+      Text Node
+      text = "2s"
+
+
+    Node name = discard2
+         line = 578
+
+      Text Node
+      text = "2s"
+
+
+    Node name = draw
+         line = 579
+
+      Text Node
+      text = "9p"
+
+
+    Node name = discard2
+         line = 580
+
+      Text Node
+      text = "9p"
+
+
+    Node name = draw
+         line = 581
+
+      Text Node
+      text = "7m"
+
+
+    Node name = discard1
+         line = 582
+
+      Text Node
+      text = "3z"
+
+
+    Node name = draw
+         line = 583
+
+      Text Node
+      text = "6s"
+
+
+    Node name = discard2
+         line = 584
+
+      Text Node
+      text = "6s"
+
+
+    Node name = draw
+         line = 585
+
+      Text Node
+      text = "8s"
+
+
+    Node name = discard1
+         line = 586
+
+      Text Node
+      text = "4s"
+
+
+    Node name = draw
+         line = 587
+
+      Text Node
+      text = "9s"
+
+
+    Node name = discard2
+         line = 588
+
+      Text Node
+      text = "9s"
+
+
+    Node name = draw
+         line = 589
+
+      Text Node
+      text = "1z"
+
+
+    Node name = discard2
+         line = 590
+
+      Text Node
+      text = "1z"
+
+
+    Node name = draw
+         line = 591
+
+      Text Node
+      text = "1s"
+
+
+    Node name = riichi1
+         line = 592
+
+
+    Node name = discard2
+         line = 593
+
+      Text Node
+      text = "1s"
+
+
+    Node name = riichi2
+         line = 594
+
+
+    Node name = change
+         line = 595
+
+      Text Node
+      text = "-10 0 0 0"
+
+
+    Node name = draw
+         line = 596
+
+      Text Node
+      text = "2s"
+
+
+    Node name = discard1
+         line = 597
+
+      Text Node
+      text = "8s"
+
+
+    Node name = draw
+         line = 598
+
+      Text Node
+      text = "2p"
+
+
+    Node name = discard1
+         line = 599
+
+      Text Node
+      text = "1p"
+
+
+    Node name = draw
+         line = 600
+
+      Text Node
+      text = "1m"
+
+
+    Node name = discard1
+         line = 601
+
+      Text Node
+      text = "3z"
+
+
+    Node name = draw
+         line = 602
+
+      Text Node
+      text = "3s"
+
+
+    Node name = discard2
+         line = 603
+
+      Text Node
+      text = "3s"
+
+
+    Node name = draw
+         line = 604
+
+      Text Node
+      text = "2m"
+
+
+    Node name = discard2
+         line = 605
+
+      Text Node
+      text = "2m"
+
+
+    Node name = draw
+         line = 606
+
+      Text Node
+      text = "7s"
+
+
+    Node name = discard1
+         line = 607
+
+      Text Node
+      text = "1p"
+
+
+    Node name = draw
+         line = 608
+
+      Text Node
+      text = "4z"
+
+
+    Node name = discard1
+         line = 609
+
+      Text Node
+      text = "3z"
+
+
+    Node name = draw
+         line = 610
+
+      Text Node
+      text = "7m"
+
+
+    Node name = hu
+         line = 611
+      Attribute from = 0
+      Attribute id = 0
+
+
+    Node name = end
+         line = 612
+
+
+    Node name = hu
+         line = 613
+      Attribute from = 0
+      Attribute id = 0
+      Attribute score = 16000
+
+
+      Node name = change
+           line = 614
+
+        Text Node
+        text = "170 -40 -80 -40"
+
+
+
+
+  Node name = game
+       line = 617
+    Attribute kyoku = 3
+    Attribute honba = 0
+    Attribute kyotaku = 0
+    Attribute oya = 3
+
+
+    Node name = score
+         line = 618
+
+      Text Node
+      text = "430 218 175 177"
+
+
+    Node name = init
+         line = 619
+      Attribute id = 0
+
+      Text Node
+      text = "2p3p4p5P6p7p3m4m8m9m3s6z6z"
+
+
+    Node name = init
+         line = 620
+      Attribute id = 1
+
+      Text Node
+      text = "3p8p9m1s1s2s5s7s7s8s1z2z4z"
+
+
+    Node name = init
+         line = 621
+      Attribute id = 2
+
+      Text Node
+      text = "1p5p7p7p8p2m5m6m2s5S7s3z5z"
+
+
+    Node name = init
+         line = 622
+      Attribute id = 3
+
+      Text Node
+      text = "1p7p3m6m6m7m8m4s4s8s9s4z4z"
+
+
+    Node name = indicator
+         line = 623
+
+      Text Node
+      text = "6p"
+
+
+    Node name = draw
+         line = 624
+
+      Text Node
+      text = "2p"
+
+
+    Node name = discard1
+         line = 625
+
+      Text Node
+      text = "1p"
+
+
+    Node name = draw
+         line = 626
+
+      Text Node
+      text = "7m"
+
+
+    Node name = riichi1
+         line = 627
+
+
+    Node name = discard1
+         line = 628
+
+      Text Node
+      text = "3s"
+
+
+    Node name = riichi2
+         line = 629
+
+
+    Node name = change
+         line = 630
+
+      Text Node
+      text = "-10 0 0 0"
+
+
+    Node name = chi
+         line = 631
+
+      Text Node
+      text = "1s2s"
+
+
+    Node name = discard1
+         line = 632
+
+      Text Node
+      text = "9m"
+
+
+    Node name = draw
+         line = 633
+
+      Text Node
+      text = "6p"
+
+
+    Node name = discard1
+         line = 634
+
+      Text Node
+      text = "3z"
+
+
+    Node name = draw
+         line = 635
+
+      Text Node
+      text = "3s"
+
+
+    Node name = discard1
+         line = 636
+
+      Text Node
+      text = "4z"
+
+
+    Node name = draw
+         line = 637
+
+      Text Node
+      text = "5p"
+
+
+    Node name = discard2
+         line = 638
+
+      Text Node
+      text = "5p"
+
+
+    Node name = draw
+         line = 639
+
+      Text Node
+      text = "5z"
+
+
+    Node name = discard1
+         line = 640
+
+      Text Node
+      text = "4z"
+
+
+    Node name = draw
+         line = 641
+
+      Text Node
+      text = "7z"
+
+
+    Node name = discard1
+         line = 642
+
+      Text Node
+      text = "1p"
+
+
+    Node name = draw
+         line = 643
+
+      Text Node
+      text = "5m"
+
+
+    Node name = discard1
+         line = 644
+
+      Text Node
+      text = "3s"
+
+
+    Node name = draw
+         line = 645
+
+      Text Node
+      text = "5m"
+
+
+    Node name = hu
+         line = 646
+      Attribute from = 0
+      Attribute id = 0
+
+
+    Node name = end
+         line = 647
+
+
+    Node name = hu
+         line = 648
+      Attribute from = 0
+      Attribute id = 0
+      Attribute score = 8000
+
+
+      Node name = change
+           line = 649
+
+        Text Node
+        text = "90 -20 -20 -40"
+
+
+
+
+  Node name = game
+       line = 652
+    Attribute kyoku = 4
+    Attribute honba = 0
+    Attribute kyotaku = 0
+    Attribute oya = 0
+
+
+    Node name = score
+         line = 653
+
+      Text Node
+      text = "510 198 155 137"
+
+
+    Node name = init
+         line = 654
+      Attribute id = 0
+
+      Text Node
+      text = "2p2p2p6p1s2s3s8s8s9s1z6z7z"
+
+
+    Node name = init
+         line = 655
+      Attribute id = 1
+
+      Text Node
+      text = "1p2p3p3p4p1m1m2s4s5s9s2z5z"
+
+
+    Node name = init
+         line = 656
+      Attribute id = 2
+
+      Text Node
+      text = "4p4p7p9p1m2m4m9m3s4s1z6z7z"
+
+
+    Node name = init
+         line = 657
+      Attribute id = 3
+
+      Text Node
+      text = "1p5P5p7p2m2m3m5m9m4s8s2z3z"
+
+
+    Node name = indicator
+         line = 658
+
+      Text Node
+      text = "6p"
+
+
+    Node name = draw
+         line = 659
+
+      Text Node
+      text = "4m"
+
+
+    Node name = discard1
+         line = 660
+
+      Text Node
+      text = "6z"
+
+
+    Node name = draw
+         line = 661
+
+      Text Node
+      text = "6s"
+
+
+    Node name = discard1
+         line = 662
+
+      Text Node
+      text = "9s"
+
+
+    Node name = draw
+         line = 663
+
+      Text Node
+      text = "8p"
+
+
+    Node name = discard1
+         line = 664
+
+      Text Node
+      text = "6z"
+
+
+    Node name = draw
+         line = 665
+
+      Text Node
+      text = "6m"
+
+
+    Node name = discard1
+         line = 666
+
+      Text Node
+      text = "3z"
+
+
+    Node name = draw
+         line = 667
+
+      Text Node
+      text = "5m"
+
+
+    Node name = discard1
+         line = 668
+
+      Text Node
+      text = "7z"
+
+
+    Node name = draw
+         line = 669
+
+      Text Node
+      text = "7p"
+
+
+    Node name = discard1
+         line = 670
+
+      Text Node
+      text = "5z"
+
+
+    Node name = draw
+         line = 671
+
+      Text Node
+      text = "1p"
+
+
+    Node name = discard2
+         line = 672
+
+      Text Node
+      text = "1p"
+
+
+    Node name = draw
+         line = 673
+
+      Text Node
+      text = "6m"
+
+
+    Node name = discard1
+         line = 674
+
+      Text Node
+      text = "9m"
+
+
+    Node name = draw
+         line = 675
+
+      Text Node
+      text = "6m"
+
+
+    Node name = discard1
+         line = 676
+
+      Text Node
+      text = "1z"
+
+
+    Node name = draw
+         line = 677
+
+      Text Node
+      text = "3m"
+
+
+    Node name = discard1
+         line = 678
+
+      Text Node
+      text = "2z"
+
+
+    Node name = draw
+         line = 679
+
+      Text Node
+      text = "4z"
+
+
+    Node name = discard2
+         line = 680
+
+      Text Node
+      text = "4z"
+
+
+    Node name = draw
+         line = 681
+
+      Text Node
+      text = "5p"
+
+
+    Node name = discard1
+         line = 682
+
+      Text Node
+      text = "1p"
+
+
+    Node name = draw
+         line = 683
+
+      Text Node
+      text = "9s"
+
+
+    Node name = riichi1
+         line = 684
+
+
+    Node name = discard1
+         line = 685
+
+      Text Node
+      text = "6p"
+
+
+    Node name = riichi2
+         line = 686
+
+
+    Node name = change
+         line = 687
+
+      Text Node
+      text = "-10 0 0 0"
+
+
+    Node name = draw
+         line = 688
+
+      Text Node
+      text = "6z"
+
+
+    Node name = discard2
+         line = 689
+
+      Text Node
+      text = "6z"
+
+
+    Node name = draw
+         line = 690
+
+      Text Node
+      text = "9s"
+
+
+    Node name = discard1
+         line = 691
+
+      Text Node
+      text = "7z"
+
+
+    Node name = draw
+         line = 692
+
+      Text Node
+      text = "6p"
+
+
+    Node name = discard1
+         line = 693
+
+      Text Node
+      text = "2z"
+
+
+    Node name = draw
+         line = 694
+
+      Text Node
+      text = "6s"
+
+
+    Node name = discard2
+         line = 695
+
+      Text Node
+      text = "6s"
+
+
+    Node name = draw
+         line = 696
+
+      Text Node
+      text = "8m"
+
+
+    Node name = discard1
+         line = 697
+
+      Text Node
+      text = "6s"
+
+
+    Node name = draw
+         line = 698
+
+      Text Node
+      text = "2z"
+
+
+    Node name = discard1
+         line = 699
+
+      Text Node
+      text = "1z"
+
+
+    Node name = draw
+         line = 700
+
+      Text Node
+      text = "8p"
+
+
+    Node name = discard1
+         line = 701
+
+      Text Node
+      text = "8s"
+
+
+    Node name = hu
+         line = 702
+      Attribute from = 3
+      Attribute id = 0
+
+
+    Node name = end
+         line = 703
+
+
+    Node name = hu
+         line = 704
+      Attribute from = 3
+      Attribute id = 0
+      Attribute score = 2000
+
+
+      Node name = change
+           line = 705
+
+        Text Node
+        text = "30 0 0 -20"
+
+
+
+
+  Node name = game
+       line = 708
+    Attribute kyoku = 4
+    Attribute honba = 1
+    Attribute kyotaku = 0
+    Attribute oya = 0
+
+
+    Node name = score
+         line = 709
+
+      Text Node
+      text = "530 198 155 117"
+
+
+    Node name = init
+         line = 710
+      Attribute id = 0
+
+      Text Node
+      text = "1p1p7p2m7m8m9m3s4s9s1z2z3z"
+
+
+    Node name = init
+         line = 711
+      Attribute id = 1
+
+      Text Node
+      text = "2p3m3m6m7m9m1s5s7s7s7z7z7z"
+
+
+    Node name = init
+         line = 712
+      Attribute id = 2
+
+      Text Node
+      text = "4p5p6p1m1m2m4m7m2s5s1z2z6z"
+
+
+    Node name = init
+         line = 713
+      Attribute id = 3
+
+      Text Node
+      text = "2p4p4p7p9p5m9m2s8s8s8s9s5z"
+
+
+    Node name = indicator
+         line = 714
+
+      Text Node
+      text = "5z"
+
+
+    Node name = draw
+         line = 715
+
+      Text Node
+      text = "2z"
+
+
+    Node name = discard1
+         line = 716
+
+      Text Node
+      text = "9s"
+
+
+    Node name = draw
+         line = 717
+
+      Text Node
+      text = "1s"
+
+
+    Node name = discard1
+         line = 718
+
+      Text Node
+      text = "9m"
+
+
+    Node name = draw
+         line = 719
+
+      Text Node
+      text = "1z"
+
+
+    Node name = discard1
+         line = 720
+
+      Text Node
+      text = "2s"
+
+
+    Node name = draw
+         line = 721
+
+      Text Node
+      text = "4z"
+
+
+    Node name = discard1
+         line = 722
+
+      Text Node
+      text = "5z"
+
+
+    Node name = draw
+         line = 723
+
+      Text Node
+      text = "3p"
+
+
+    Node name = discard1
+         line = 724
+
+      Text Node
+      text = "3z"
+
+
+    Node name = draw
+         line = 725
+
+      Text Node
+      text = "4z"
+
+
+    Node name = discard1
+         line = 726
+
+      Text Node
+      text = "2p"
+
+
+    Node name = draw
+         line = 727
+
+      Text Node
+      text = "8p"
+
+
+    Node name = discard2
+         line = 728
+
+      Text Node
+      text = "8p"
+
+
+    Node name = draw
+         line = 729
+
+      Text Node
+      text = "4s"
+
+
+    Node name = discard1
+         line = 730
+
+      Text Node
+      text = "9m"
+
+
+    Node name = draw
+         line = 731
+
+      Text Node
+      text = "2m"
+
+
+    Node name = discard1
+         line = 732
+
+      Text Node
+      text = "1z"
+
+
+    Node name = draw
+         line = 733
+
+      Text Node
+      text = "3z"
+
+
+    Node name = discard2
+         line = 734
+
+      Text Node
+      text = "3z"
+
+
+    Node name = draw
+         line = 735
+
+      Text Node
+      text = "5m"
+
+
+    Node name = discard1
+         line = 736
+
+      Text Node
+      text = "2z"
+
+
+    Node name = peng
+         line = 737
+      Attribute id = 0
+
+      Text Node
+      text = "2z2z"
+
+
+    Node name = discard1
+         line = 738
+
+      Text Node
+      text = "7p"
+
+
+    Node name = draw
+         line = 739
+
+      Text Node
+      text = "1m"
+
+
+    Node name = discard1
+         line = 740
+
+      Text Node
+      text = "4z"
+
+
+    Node name = draw
+         line = 741
+
+      Text Node
+      text = "2s"
+
+
+    Node name = discard2
+         line = 742
+
+      Text Node
+      text = "2s"
+
+
+    Node name = draw
+         line = 743
+
+      Text Node
+      text = "8p"
+
+
+    Node name = discard1
+         line = 744
+
+      Text Node
+      text = "4z"
+
+
+    Node name = draw
+         line = 745
+
+      Text Node
+      text = "5p"
+
+
+    Node name = discard2
+         line = 746
+
+      Text Node
+      text = "5p"
+
+
+    Node name = draw
+         line = 747
+
+      Text Node
+      text = "3m"
+
+
+    Node name = discard1
+         line = 748
+
+      Text Node
+      text = "1m"
+
+
+    Node name = draw
+         line = 749
+
+      Text Node
+      text = "7s"
+
+
+    Node name = discard1
+         line = 750
+
+      Text Node
+      text = "1m"
+
+
+    Node name = draw
+         line = 751
+
+      Text Node
+      text = "2s"
+
+
+    Node name = discard1
+         line = 752
+
+      Text Node
+      text = "9s"
+
+
+    Node name = draw
+         line = 753
+
+      Text Node
+      text = "1p"
+
+
+    Node name = discard1
+         line = 754
+
+      Text Node
+      text = "3p"
+
+
+    Node name = draw
+         line = 755
+
+      Text Node
+      text = "3p"
+
+
+    Node name = discard2
+         line = 756
+
+      Text Node
+      text = "3p"
+
+
+    Node name = draw
+         line = 757
+
+      Text Node
+      text = "1z"
+
+
+    Node name = discard1
+         line = 758
+
+      Text Node
+      text = "2m"
+
+
+    Node name = draw
+         line = 759
+
+      Text Node
+      text = "3p"
+
+
+    Node name = discard1
+         line = 760
+
+      Text Node
+      text = "4p"
+
+
+    Node name = draw
+         line = 761
+
+      Text Node
+      text = "8p"
+
+
+    Node name = discard2
+         line = 762
+
+      Text Node
+      text = "8p"
+
+
+    Node name = draw
+         line = 763
+
+      Text Node
+      text = "1p"
+
+
+    Node name = discard2
+         line = 764
+
+      Text Node
+      text = "1p"
+
+
+    Node name = draw
+         line = 765
+
+      Text Node
+      text = "7m"
+
+
+    Node name = discard1
+         line = 766
+
+      Text Node
+      text = "1m"
+
+
+    Node name = draw
+         line = 767
+
+      Text Node
+      text = "2p"
+
+
+    Node name = discard2
+         line = 768
+
+      Text Node
+      text = "2p"
+
+
+    Node name = draw
+         line = 769
+
+      Text Node
+      text = "8m"
+
+
+    Node name = discard2
+         line = 770
+
+      Text Node
+      text = "8m"
+
+
+    Node name = chi
+         line = 771
+
+      Text Node
+      text = "6m7m"
+
+
+    Node name = discard1
+         line = 772
+
+      Text Node
+      text = "5s"
+
+
+    Node name = hu
+         line = 773
+      Attribute from = 1
+      Attribute id = 0
+
+
+    Node name = end
+         line = 774
+
+
+    Node name = hu
+         line = 775
+      Attribute from = 1
+      Attribute id = 0
+      Attribute score = 2000
+
+
+      Node name = change
+           line = 776
+
+        Text Node
+        text = "23 -23 0 0"
+
+
+
+
+  Node name = game
+       line = 779
+    Attribute kyoku = 4
+    Attribute honba = 2
+    Attribute kyotaku = 0
+    Attribute oya = 0
+
+
+    Node name = score
+         line = 780
+
+      Text Node
+      text = "553 175 155 117"
+
+
+    Node name = init
+         line = 781
+      Attribute id = 0
+
+      Text Node
+      text = "1p2p3p7p3m6m8m4s6s9s3z6z7z"
+
+
+    Node name = init
+         line = 782
+      Attribute id = 1
+
+      Text Node
+      text = "4p8p3m4m4m7m2s2s4s5s6s7s3z"
+
+
+    Node name = init
+         line = 783
+      Attribute id = 2
+
+      Text Node
+      text = "5p6p7p9p1m2m5M6m5S6s1z1z4z"
+
+
+    Node name = init
+         line = 784
+      Attribute id = 3
+
+      Text Node
+      text = "3p4p1m4m8m9m3s5s8s2z3z4z6z"
+
+
+    Node name = indicator
+         line = 785
+
+      Text Node
+      text = "7p"
+
+
+    Node name = draw
+         line = 786
+
+      Text Node
+      text = "6m"
+
+
+    Node name = discard1
+         line = 787
+
+      Text Node
+      text = "3z"
+
+
+    Node name = draw
+         line = 788
+
+      Text Node
+      text = "1s"
+
+
+    Node name = discard1
+         line = 789
+
+      Text Node
+      text = "3z"
+
+
+    Node name = draw
+         line = 790
+
+      Text Node
+      text = "4p"
+
+
+    Node name = discard1
+         line = 791
+
+      Text Node
+      text = "4z"
+
+
+    Node name = draw
+         line = 792
+
+      Text Node
+      text = "1m"
+
+
+    Node name = discard1
+         line = 793
+
+      Text Node
+      text = "3z"
+
+
+    Node name = draw
+         line = 794
+
+      Text Node
+      text = "7z"
+
+
+    Node name = discard1
+         line = 795
+
+      Text Node
+      text = "9s"
+
+
+    Node name = draw
+         line = 796
+
+      Text Node
+      text = "2p"
+
+
+    Node name = discard1
+         line = 797
+
+      Text Node
+      text = "1s"
+
+
+    Node name = draw
+         line = 798
+
+      Text Node
+      text = "1z"
+
+
+    Node name = discard1
+         line = 799
+
+      Text Node
+      text = "2m"
+
+
+    Node name = draw
+         line = 800
+
+      Text Node
+      text = "2z"
+
+
+    Node name = discard1
+         line = 801
+
+      Text Node
+      text = "4z"
+
+
+    Node name = draw
+         line = 802
+
+      Text Node
+      text = "1p"
+
+
+    Node name = discard2
+         line = 803
+
+      Text Node
+      text = "1p"
+
+
+    Node name = draw
+         line = 804
+
+      Text Node
+      text = "5z"
+
+
+    Node name = discard2
+         line = 805
+
+      Text Node
+      text = "5z"
+
+
+    Node name = draw
+         line = 806
+
+      Text Node
+      text = "6z"
+
+
+    Node name = discard1
+         line = 807
+
+      Text Node
+      text = "1m"
+
+
+    Node name = draw
+         line = 808
+
+      Text Node
+      text = "2s"
+
+
+    Node name = discard1
+         line = 809
+
+      Text Node
+      text = "6z"
+
+
+    Node name = draw
+         line = 810
+
+      Text Node
+      text = "7z"
+
+
+    Node name = discard1
+         line = 811
+
+      Text Node
+      text = "6z"
+
+
+    Node name = draw
+         line = 812
+
+      Text Node
+      text = "1m"
+
+
+    Node name = discard2
+         line = 813
+
+      Text Node
+      text = "1m"
+
+
+    Node name = draw
+         line = 814
+
+      Text Node
+      text = "3s"
+
+
+    Node name = discard2
+         line = 815
+
+      Text Node
+      text = "3s"
+
+
+    Node name = draw
+         line = 816
+
+      Text Node
+      text = "8s"
+
+
+    Node name = discard1
+         line = 817
+
+      Text Node
+      text = "9m"
+
+
+    Node name = draw
+         line = 818
+
+      Text Node
+      text = "2m"
+
+
+    Node name = discard1
+         line = 819
+
+      Text Node
+      text = "7p"
+
+
+    Node name = draw
+         line = 820
+
+      Text Node
+      text = "5p"
+
+
+    Node name = discard1
+         line = 821
+
+      Text Node
+      text = "2p"
+
+
+    Node name = draw
+         line = 822
+
+      Text Node
+      text = "8m"
+
+
+    Node name = discard2
+         line = 823
+
+      Text Node
+      text = "8m"
+
+
+    Node name = draw
+         line = 824
+
+      Text Node
+      text = "8p"
+
+
+    Node name = discard1
+         line = 825
+
+      Text Node
+      text = "8m"
+
+
+    Node name = draw
+         line = 826
+
+      Text Node
+      text = "8s"
+
+
+    Node name = discard1
+         line = 827
+
+      Text Node
+      text = "8m"
+
+
+    Node name = draw
+         line = 828
+
+      Text Node
+      text = "2z"
+
+
+    Node name = discard1
+         line = 829
+
+      Text Node
+      text = "7m"
+
+
+    Node name = draw
+         line = 830
+
+      Text Node
+      text = "2z"
+
+
+    Node name = discard2
+         line = 831
+
+      Text Node
+      text = "2z"
+
+
+    Node name = draw
+         line = 832
+
+      Text Node
+      text = "3s"
+
+
+    Node name = discard1
+         line = 833
+
+      Text Node
+      text = "1m"
+
+
+    Node name = chi
+         line = 834
+
+      Text Node
+      text = "2m3m"
+
+
+    Node name = discard1
+         line = 835
+
+      Text Node
+      text = "8s"
+
+
+    Node name = draw
+         line = 836
+
+      Text Node
+      text = "9m"
+
+
+    Node name = discard1
+         line = 837
+
+      Text Node
+      text = "2z"
+
+
+    Node name = peng
+         line = 838
+      Attribute id = 3
+
+      Text Node
+      text = "2z2z"
+
+
+    Node name = discard1
+         line = 839
+
+      Text Node
+      text = "1m"
+
+
+    Node name = draw
+         line = 840
+
+      Text Node
+      text = "9s"
+
+
+    Node name = discard2
+         line = 841
+
+      Text Node
+      text = "9s"
+
+
+    Node name = draw
+         line = 842
+
+      Text Node
+      text = "7z"
+
+
+    Node name = discard2
+         line = 843
+
+      Text Node
+      text = "7z"
+
+
+    Node name = draw
+         line = 844
+
+      Text Node
+      text = "9p"
+
+
+    Node name = discard1
+         line = 845
+
+      Text Node
+      text = "6z"
+
+
+    Node name = draw
+         line = 846
+
+      Text Node
+      text = "7m"
+
+
+    Node name = discard2
+         line = 847
+
+      Text Node
+      text = "7m"
+
+
+    Node name = draw
+         line = 848
+
+      Text Node
+      text = "5p"
+
+
+    Node name = discard2
+         line = 849
+
+      Text Node
+      text = "5p"
+
+
+    Node name = draw
+         line = 850
+
+      Text Node
+      text = "3p"
+
+
+    Node name = discard1
+         line = 851
+
+      Text Node
+      text = "9m"
+
+
+    Node name = draw
+         line = 852
+
+      Text Node
+      text = "4s"
+
+
+    Node name = riichi1
+         line = 853
+
+
+    Node name = discard1
+         line = 854
+
+      Text Node
+      text = "7p"
+
+
+    Node name = riichi2
+         line = 855
+
+
+    Node name = change
+         line = 856
+
+      Text Node
+      text = "0 0 -10 0"
+
+
+    Node name = draw
+         line = 857
+
+      Text Node
+      text = "2p"
+
+
+    Node name = discard1
+         line = 858
+
+      Text Node
+      text = "3s"
+
+
+    Node name = draw
+         line = 859
+
+      Text Node
+      text = "2m"
+
+
+    Node name = discard2
+         line = 860
+
+      Text Node
+      text = "2m"
+
+
+    Node name = chi
+         line = 861
+
+      Text Node
+      text = "3m4m"
+
+
+    Node name = discard1
+         line = 862
+
+      Text Node
+      text = "2s"
+
+
+    Node name = draw
+         line = 863
+
+      Text Node
+      text = "1s"
+
+
+    Node name = discard2
+         line = 864
+
+      Text Node
+      text = "1s"
+
+
+    Node name = draw
+         line = 865
+
+      Text Node
+      text = "1z"
+
+
+    Node name = discard1
+         line = 866
+
+      Text Node
+      text = "2s"
+
+
+    Node name = draw
+         line = 867
+
+      Text Node
+      text = "4p"
+
+
+    Node name = discard1
+         line = 868
+
+      Text Node
+      text = "1p"
+
+
+    Node name = draw
+         line = 869
+
+      Text Node
+      text = "6p"
+
+
+    Node name = discard1
+         line = 870
+
+      Text Node
+      text = "2s"
+
+
+    Node name = draw
+         line = 871
+
+      Text Node
+      text = "4s"
+
+
+    Node name = discard2
+         line = 872
+
+      Text Node
+      text = "4s"
+
+
+    Node name = draw
+         line = 873
+
+      Text Node
+      text = "9s"
+
+
+    Node name = discard1
+         line = 874
+
+      Text Node
+      text = "3s"
+
+
+    Node name = draw
+         line = 875
+
+      Text Node
+      text = "9p"
+
+
+    Node name = discard2
+         line = 876
+
+      Text Node
+      text = "9p"
+
+
+    Node name = draw
+         line = 877
+
+      Text Node
+      text = "9p"
+
+
+    Node name = discard2
+         line = 878
+
+      Text Node
+      text = "9p"
+
+
+    Node name = draw
+         line = 879
+
+      Text Node
+      text = "8p"
+
+
+    Node name = discard2
+         line = 880
+
+      Text Node
+      text = "8p"
+
+
+    Node name = draw
+         line = 881
+
+      Text Node
+      text = "2m"
+
+
+    Node name = discard1
+         line = 882
+
+      Text Node
+      text = "8p"
+
+
+    Node name = draw
+         line = 883
+
+      Text Node
+      text = "6m"
+
+
+    Node name = discard1
+         line = 884
+
+      Text Node
+      text = "4s"
+
+
+    Node name = draw
+         line = 885
+
+      Text Node
+      text = "4z"
+
+
+    Node name = discard2
+         line = 886
+
+      Text Node
+      text = "4z"
+
+
+    Node name = draw
+         line = 887
+
+      Text Node
+      text = "4z"
+
+
+    Node name = discard2
+         line = 888
+
+      Text Node
+      text = "4z"
+
+
+    Node name = draw
+         line = 889
+
+      Text Node
+      text = "5m"
+
+
+    Node name = discard1
+         line = 890
+
+      Text Node
+      text = "9s"
+
+
+    Node name = draw
+         line = 891
+
+      Text Node
+      text = "9m"
+
+
+    Node name = discard1
+         line = 892
+
+      Text Node
+      text = "6s"
+
+
+    Node name = draw
+         line = 893
+
+      Text Node
+      text = "1p"
+
+
+    Node name = discard2
+         line = 894
+
+      Text Node
+      text = "1p"
+
+
+    Node name = draw
+         line = 895
+
+      Text Node
+      text = "5m"
+
+
+    Node name = discard2
+         line = 896
+
+      Text Node
+      text = "5m"
+
+
+    Node name = draw
+         line = 897
+
+      Text Node
+      text = "8s"
+
+
+    Node name = discard1
+         line = 898
+
+      Text Node
+      text = "2m"
+
+
+    Node name = draw
+         line = 899
+
+      Text Node
+      text = "5P"
+
+
+    Node name = discard1
+         line = 900
+
+      Text Node
+      text = "9m"
+
+
+    Node name = draw
+         line = 901
+
+      Text Node
+      text = "6p"
+
+
+    Node name = discard1
+         line = 902
+
+      Text Node
+      text = "8p"
+
+
+    Node name = draw
+         line = 903
+
+      Text Node
+      text = "5z"
+
+
+    Node name = discard2
+         line = 904
+
+      Text Node
+      text = "5z"
+
+
+    Node name = draw
+         line = 905
+
+      Text Node
+      text = "7p"
+
+
+    Node name = discard2
+         line = 906
+
+      Text Node
+      text = "7p"
+
+
+    Node name = draw
+         line = 907
+
+      Text Node
+      text = "7s"
+
+
+    Node name = discard2
+         line = 908
+
+      Text Node
+      text = "7s"
+
+
+    Node name = draw
+         line = 909
+
+      Text Node
+      text = "1s"
+
+
+    Node name = discard2
+         line = 910
+
+      Text Node
+      text = "1s"
+
+
+    Node name = draw
+         line = 911
+
+      Text Node
+      text = "1s"
+
+
+    Node name = discard2
+         line = 912
+
+      Text Node
+      text = "1s"
+
+
+    Node name = draw
+         line = 913
+
+      Text Node
+      text = "8m"
+
+
+    Node name = discard2
+         line = 914
+
+      Text Node
+      text = "8m"
+
+
+    Node name = draw
+         line = 915
+
+      Text Node
+      text = "1p"
+
+
+    Node name = discard2
+         line = 916
+
+      Text Node
+      text = "1p"
+
+
+    Node name = draw
+         line = 917
+
+      Text Node
+      text = "6p"
+
+
+    Node name = discard1
+         line = 918
+
+      Text Node
+      text = "4s"
+
+
+    Node name = draw
+         line = 919
+
+      Text Node
+      text = "7s"
+
+
+    Node name = discard2
+         line = 920
+
+      Text Node
+      text = "7s"
+
+
+    Node name = draw
+         line = 921
+
+      Text Node
+      text = "3m"
+
+
+    Node name = discard1
+         line = 922
+
+      Text Node
+      text = "1z"
+
+
+    Node name = draw
+         line = 923
+
+      Text Node
+      text = "8p"
+
+
+    Node name = discard2
+         line = 924
+
+      Text Node
+      text = "8p"
+
+
+    Node name = draw
+         line = 925
+
+      Text Node
+      text = "2p"
+
+
+    Node name = discard1
+         line = 926
+
+      Text Node
+      text = "7s"
+
+
+    Node name = draw
+         line = 927
+
+      Text Node
+      text = "6z"
+
+
+    Node name = discard2
+         line = 928
+
+      Text Node
+      text = "6z"
+
+
+    Node name = draw
+         line = 929
+
+      Text Node
+      text = "3p"
+
+
+    Node name = discard1
+         line = 930
+
+      Text Node
+      text = "5m"
+
+
+    Node name = draw
+         line = 931
+
+      Text Node
+      text = "5m"
+
+
+    Node name = discard2
+         line = 932
+
+      Text Node
+      text = "5m"
+
+
+    Node name = draw
+         line = 933
+
+      Text Node
+      text = "5z"
+
+
+    Node name = discard2
+         line = 934
+
+      Text Node
+      text = "5z"
+
+
+    Node name = end
+         line = 935
+
+
+    Node name = ryuukyoku
+         line = 936
+
+
+      Node name = change
+           line = 937
+
+        Text Node
+        text = "15 -15 15 -15"
+
+
+
+
+  Node name = game
+       line = 940
+    Attribute kyoku = 4
+    Attribute honba = 3
+    Attribute kyotaku = 1
+    Attribute oya = 0
+
+
+    Node name = score
+         line = 941
+
+      Text Node
+      text = "568 160 160 102"
+
+
+    Node name = init
+         line = 942
+      Attribute id = 0
+
+      Text Node
+      text = "3p5p5p8p1m7m8m2s4s7s8s9s7z"
+
+
+    Node name = init
+         line = 943
+      Attribute id = 1
+
+      Text Node
+      text = "1p2p6p7p1m1s5s7s1z1z6z7z7z"
+
+
+    Node name = init
+         line = 944
+      Attribute id = 2
+
+      Text Node
+      text = "1p2p2m7m7m8m2s4s5S6s6s3z3z"
+
+
+    Node name = init
+         line = 945
+      Attribute id = 3
+
+      Text Node
+      text = "3p7p9p3m3m4m5s8s2z3z4z5z6z"
+
+
+    Node name = indicator
+         line = 946
+
+      Text Node
+      text = "4z"
+
+
+    Node name = draw
+         line = 947
+
+      Text Node
+      text = "3m"
+
+
+    Node name = discard1
+         line = 948
+
+      Text Node
+      text = "7z"
+
+
+    Node name = peng
+         line = 949
+      Attribute id = 1
+
+      Text Node
+      text = "7z7z"
+
+
+    Node name = discard1
+         line = 950
+
+      Text Node
+      text = "1m"
+
+
+    Node name = draw
+         line = 951
+
+      Text Node
+      text = "3p"
+
+
+    Node name = discard1
+         line = 952
+
+      Text Node
+      text = "2m"
+
+
+    Node name = draw
+         line = 953
+
+      Text Node
+      text = "3s"
+
+
+    Node name = discard1
+         line = 954
+
+      Text Node
+      text = "3z"
+
+
+    Node name = peng
+         line = 955
+      Attribute id = 2
+
+      Text Node
+      text = "3z3z"
+
+
+    Node name = discard1
+         line = 956
+
+      Text Node
+      text = "2s"
+
+
+    Node name = draw
+         line = 957
+
+      Text Node
+      text = "3p"
+
+
+    Node name = discard1
+         line = 958
+
+      Text Node
+      text = "4z"
+
+
+    Node name = draw
+         line = 959
+
+      Text Node
+      text = "7p"
+
+
+    Node name = discard1
+         line = 960
+
+      Text Node
+      text = "3p"
+
+
+    Node name = chi
+         line = 961
+
+      Text Node
+      text = "1p2p"
+
+
+    Node name = discard1
+         line = 962
+
+      Text Node
+      text = "1s"
+
+
+    Node name = draw
+         line = 963
+
+      Text Node
+      text = "2z"
+
+
+    Node name = discard2
+         line = 964
+
+      Text Node
+      text = "2z"
+
+
+    Node name = draw
+         line = 965
+
+      Text Node
+      text = "9p"
+
+
+    Node name = discard1
+         line = 966
+
+      Text Node
+      text = "2z"
+
+
+    Node name = draw
+         line = 967
+
+      Text Node
+      text = "5z"
+
+
+    Node name = discard2
+         line = 968
+
+      Text Node
+      text = "5z"
+
+
+    Node name = draw
+         line = 969
+
+      Text Node
+      text = "4z"
+
+
+    Node name = discard2
+         line = 970
+
+      Text Node
+      text = "4z"
+
+
+    Node name = draw
+         line = 971
+
+      Text Node
+      text = "3s"
+
+
+    Node name = discard1
+         line = 972
+
+      Text Node
+      text = "7m"
+
+
+    Node name = draw
+         line = 973
+
+      Text Node
+      text = "4m"
+
+
+    Node name = discard1
+         line = 974
+
+      Text Node
+      text = "5z"
+
+
+    Node name = draw
+         line = 975
+
+      Text Node
+      text = "6p"
+
+
+    Node name = discard1
+         line = 976
+
+      Text Node
+      text = "1m"
+
+
+    Node name = draw
+         line = 977
+
+      Text Node
+      text = "1s"
+
+
+    Node name = discard2
+         line = 978
+
+      Text Node
+      text = "1s"
+
+
+    Node name = draw
+         line = 979
+
+      Text Node
+      text = "4p"
+
+
+    Node name = discard1
+         line = 980
+
+      Text Node
+      text = "1p"
+
+
+    Node name = draw
+         line = 981
+
+      Text Node
+      text = "5m"
+
+
+    Node name = discard1
+         line = 982
+
+      Text Node
+      text = "6z"
+
+
+    Node name = draw
+         line = 983
+
+      Text Node
+      text = "4m"
+
+
+    Node name = discard1
+         line = 984
+
+      Text Node
+      text = "2s"
+
+
+    Node name = draw
+         line = 985
+
+      Text Node
+      text = "4s"
+
+
+    Node name = discard1
+         line = 986
+
+      Text Node
+      text = "7s"
+
+
+    Node name = draw
+         line = 987
+
+      Text Node
+      text = "3s"
+
+
+    Node name = discard2
+         line = 988
+
+      Text Node
+      text = "3s"
+
+
+    Node name = draw
+         line = 989
+
+      Text Node
+      text = "1z"
+
+
+    Node name = discard2
+         line = 990
+
+      Text Node
+      text = "1z"
+
+
+    Node name = peng
+         line = 991
+      Attribute id = 1
+
+      Text Node
+      text = "1z1z"
+
+
+    Node name = discard1
+         line = 992
+
+      Text Node
+      text = "6z"
+
+
+    Node name = draw
+         line = 993
+
+      Text Node
+      text = "6m"
+
+
+    Node name = hu
+         line = 994
+      Attribute from = 2
+      Attribute id = 2
+
+
+    Node name = end
+         line = 995
+
+
+    Node name = hu
+         line = 996
+      Attribute from = 2
+      Attribute id = 2
+      Attribute score = 2000
+
+
+      Node name = change
+           line = 997
+
+        Text Node
+        text = "-13 -8 39 -8"
+
+
+
+
+  Node name = game
+       line = 1000
+    Attribute kyoku = 5
+    Attribute honba = 0
+    Attribute kyotaku = 0
+    Attribute oya = 1
+
+
+    Node name = score
+         line = 1001
+
+      Text Node
+      text = "555 152 199 94"
+
+
+    Node name = init
+         line = 1002
+      Attribute id = 0
+
+      Text Node
+      text = "2p6p6p8p3m3m4m5M8m1s3s3s7z"
+
+
+    Node name = init
+         line = 1003
+      Attribute id = 1
+
+      Text Node
+      text = "1p3p5P4m6m8m5s7s7s1z1z5z6z"
+
+
+    Node name = init
+         line = 1004
+      Attribute id = 2
+
+      Text Node
+      text = "2p5p8p9p2m5m8m2s3s6s6s6s4z"
+
+
+    Node name = init
+         line = 1005
+      Attribute id = 3
+
+      Text Node
+      text = "1p7p1m2m3m6m7m8m3s4s3z4z7z"
+
+
+    Node name = indicator
+         line = 1006
+
+      Text Node
+      text = "3m"
+
+
+    Node name = draw
+         line = 1007
+
+      Text Node
+      text = "9s"
+
+
+    Node name = discard1
+         line = 1008
+
+      Text Node
+      text = "6z"
+
+
+    Node name = draw
+         line = 1009
+
+      Text Node
+      text = "5s"
+
+
+    Node name = discard1
+         line = 1010
+
+      Text Node
+      text = "4z"
+
+
+    Node name = draw
+         line = 1011
+
+      Text Node
+      text = "5p"
+
+
+    Node name = discard1
+         line = 1012
+
+      Text Node
+      text = "4z"
+
+
+    Node name = draw
+         line = 1013
+
+      Text Node
+      text = "2s"
+
+
+    Node name = discard1
+         line = 1014
+
+      Text Node
+      text = "7z"
+
+
+    Node name = draw
+         line = 1015
+
+      Text Node
+      text = "1m"
+
+
+    Node name = discard2
+         line = 1016
+
+      Text Node
+      text = "1m"
+
+
+    Node name = draw
+         line = 1017
+
+      Text Node
+      text = "4p"
+
+
+    Node name = discard1
+         line = 1018
+
+      Text Node
+      text = "8m"
+
+
+    Node name = draw
+         line = 1019
+
+      Text Node
+      text = "7p"
+
+
+    Node name = discard1
+         line = 1020
+
+      Text Node
+      text = "1p"
+
+
+    Node name = draw
+         line = 1021
+
+      Text Node
+      text = "8p"
+
+
+    Node name = discard1
+         line = 1022
+
+      Text Node
+      text = "8m"
+
+
+    Node name = draw
+         line = 1023
+
+      Text Node
+      text = "2z"
+
+
+    Node name = discard2
+         line = 1024
+
+      Text Node
+      text = "2z"
+
+
+    Node name = draw
+         line = 1025
+
+      Text Node
+      text = "6m"
+
+
+    Node name = discard1
+         line = 1026
+
+      Text Node
+      text = "2m"
+
+
+    Node name = draw
+         line = 1027
+
+      Text Node
+      text = "2m"
+
+
+    Node name = discard1
+         line = 1028
+
+      Text Node
+      text = "7z"
+
+
+    Node name = draw
+         line = 1029
+
+      Text Node
+      text = "2s"
+
+
+    Node name = discard1
+         line = 1030
+
+      Text Node
+      text = "2p"
+
+
+    Node name = chi
+         line = 1031
+
+      Text Node
+      text = "1p3p"
+
+
+    Node name = discard1
+         line = 1032
+
+      Text Node
+      text = "9s"
+
+
+    Node name = draw
+         line = 1033
+
+      Text Node
+      text = "9s"
+
+
+    Node name = discard1
+         line = 1034
+
+      Text Node
+      text = "2p"
+
+
+    Node name = draw
+         line = 1035
+
+      Text Node
+      text = "6p"
+
+
+    Node name = discard1
+         line = 1036
+
+      Text Node
+      text = "3z"
+
+
+    Node name = draw
+         line = 1037
+
+      Text Node
+      text = "2z"
+
+
+    Node name = discard2
+         line = 1038
+
+      Text Node
+      text = "2z"
+
+
+    Node name = draw
+         line = 1039
+
+      Text Node
+      text = "9p"
+
+
+    Node name = discard2
+         line = 1040
+
+      Text Node
+      text = "9p"
+
+
+    Node name = draw
+         line = 1041
+
+      Text Node
+      text = "7z"
+
+
+    Node name = discard1
+         line = 1042
+
+      Text Node
+      text = "9s"
+
+
+    Node name = draw
+         line = 1043
+
+      Text Node
+      text = "7p"
+
+
+    Node name = riichi1
+         line = 1044
+
+
+    Node name = discard1
+         line = 1045
+
+      Text Node
+      text = "2m"
+
+
+    Node name = riichi2
+         line = 1046
+
+
+    Node name = change
+         line = 1047
+
+      Text Node
+      text = "0 0 0 -10"
+
+
+    Node name = draw
+         line = 1048
+
+      Text Node
+      text = "6s"
+
+
+    Node name = discard2
+         line = 1049
+
+      Text Node
+      text = "6s"
+
+
+    Node name = chi
+         line = 1050
+
+      Text Node
+      text = "5s7s"
+
+
+    Node name = discard1
+         line = 1051
+
+      Text Node
+      text = "5z"
+
+
+    Node name = draw
+         line = 1052
+
+      Text Node
+      text = "7s"
+
+
+    Node name = discard1
+         line = 1053
+
+      Text Node
+      text = "7z"
+
+
+    Node name = draw
+         line = 1054
+
+      Text Node
+      text = "3z"
+
+
+    Node name = discard2
+         line = 1055
+
+      Text Node
+      text = "3z"
+
+
+    Node name = draw
+         line = 1056
+
+      Text Node
+      text = "4s"
+
+
+    Node name = discard1
+         line = 1057
+
+      Text Node
+      text = "8p"
+
+
+    Node name = draw
+         line = 1058
+
+      Text Node
+      text = "7z"
+
+
+    Node name = discard2
+         line = 1059
+
+      Text Node
+      text = "7z"
+
+
+    Node name = draw
+         line = 1060
+
+      Text Node
+      text = "5z"
+
+
+    Node name = discard1
+         line = 1061
+
+      Text Node
+      text = "8p"
+
+
+    Node name = draw
+         line = 1062
+
+      Text Node
+      text = "8p"
+
+
+    Node name = discard2
+         line = 1063
+
+      Text Node
+      text = "8p"
+
+
+    Node name = draw
+         line = 1064
+
+      Text Node
+      text = "3p"
+
+
+    Node name = discard1
+         line = 1065
+
+      Text Node
+      text = "8p"
+
+
+    Node name = draw
+         line = 1066
+
+      Text Node
+      text = "3p"
+
+
+    Node name = discard1
+         line = 1067
+
+      Text Node
+      text = "1z"
+
+
+    Node name = draw
+         line = 1068
+
+      Text Node
+      text = "9p"
+
+
+    Node name = discard1
+         line = 1069
+
+      Text Node
+      text = "5z"
+
+
+    Node name = draw
+         line = 1070
+
+      Text Node
+      text = "4m"
+
+
+    Node name = discard2
+         line = 1071
+
+      Text Node
+      text = "4m"
+
+
+    Node name = draw
+         line = 1072
+
+      Text Node
+      text = "9m"
+
+
+    Node name = discard2
+         line = 1073
+
+      Text Node
+      text = "9m"
+
+
+    Node name = draw
+         line = 1074
+
+      Text Node
+      text = "2p"
+
+
+    Node name = discard1
+         line = 1075
+
+      Text Node
+      text = "4m"
+
+
+    Node name = draw
+         line = 1076
+
+      Text Node
+      text = "7p"
+
+
+    Node name = discard1
+         line = 1077
+
+      Text Node
+      text = "9p"
+
+
+    Node name = draw
+         line = 1078
+
+      Text Node
+      text = "3z"
+
+
+    Node name = discard2
+         line = 1079
+
+      Text Node
+      text = "3z"
+
+
+    Node name = draw
+         line = 1080
+
+      Text Node
+      text = "5m"
+
+
+    Node name = discard1
+         line = 1081
+
+      Text Node
+      text = "3p"
+
+
+    Node name = draw
+         line = 1082
+
+      Text Node
+      text = "2m"
+
+
+    Node name = discard2
+         line = 1083
+
+      Text Node
+      text = "2m"
+
+
+    Node name = draw
+         line = 1084
+
+      Text Node
+      text = "8s"
+
+
+    Node name = discard1
+         line = 1085
+
+      Text Node
+      text = "9p"
+
+
+    Node name = draw
+         line = 1086
+
+      Text Node
+      text = "2z"
+
+
+    Node name = discard2
+         line = 1087
+
+      Text Node
+      text = "2z"
+
+
+    Node name = draw
+         line = 1088
+
+      Text Node
+      text = "9m"
+
+
+    Node name = discard2
+         line = 1089
+
+      Text Node
+      text = "9m"
+
+
+    Node name = draw
+         line = 1090
+
+      Text Node
+      text = "4p"
+
+
+    Node name = discard1
+         line = 1091
+
+      Text Node
+      text = "1z"
+
+
+    Node name = draw
+         line = 1092
+
+      Text Node
+      text = "3z"
+
+
+    Node name = discard2
+         line = 1093
+
+      Text Node
+      text = "3z"
+
+
+    Node name = draw
+         line = 1094
+
+      Text Node
+      text = "8s"
+
+
+    Node name = discard2
+         line = 1095
+
+      Text Node
+      text = "8s"
+
+
+    Node name = draw
+         line = 1096
+
+      Text Node
+      text = "1p"
+
+
+    Node name = discard2
+         line = 1097
+
+      Text Node
+      text = "1p"
+
+
+    Node name = draw
+         line = 1098
+
+      Text Node
+      text = "2z"
+
+
+    Node name = discard2
+         line = 1099
+
+      Text Node
+      text = "2z"
+
+
+    Node name = draw
+         line = 1100
+
+      Text Node
+      text = "4p"
+
+
+    Node name = discard1
+         line = 1101
+
+      Text Node
+      text = "8s"
+
+
+    Node name = draw
+         line = 1102
+
+      Text Node
+      text = "5s"
+
+
+    Node name = hu
+         line = 1103
+      Attribute from = 3
+      Attribute id = 3
+
+
+    Node name = end
+         line = 1104
+
+
+    Node name = hu
+         line = 1105
+      Attribute from = 3
+      Attribute id = 3
+      Attribute score = 2700
+
+
+      Node name = change
+           line = 1106
+
+        Text Node
+        text = "-7 -13 -7 37"
+
+
+
+
+  Node name = game
+       line = 1109
+    Attribute kyoku = 6
+    Attribute honba = 0
+    Attribute kyotaku = 0
+    Attribute oya = 2
+
+
+    Node name = score
+         line = 1110
+
+      Text Node
+      text = "548 139 192 121"
+
+
+    Node name = init
+         line = 1111
+      Attribute id = 0
+
+      Text Node
+      text = "1p3p6p8p9p1m5M7m1s1s6s7s8s"
+
+
+    Node name = init
+         line = 1112
+      Attribute id = 1
+
+      Text Node
+      text = "3p6p9p9p1m3m5m6m7s8s9s7z7z"
+
+
+    Node name = init
+         line = 1113
+      Attribute id = 2
+
+      Text Node
+      text = "2p4p3m4m2s4s5s8s9s2z3z5z5z"
+
+
+    Node name = init
+         line = 1114
+      Attribute id = 3
+
+      Text Node
+      text = "2p7p1m2m2m2m5m7m3s6s6z6z7z"
+
+
+    Node name = indicator
+         line = 1115
+
+      Text Node
+      text = "6z"
+
+
+    Node name = draw
+         line = 1116
+
+      Text Node
+      text = "2z"
+
+
+    Node name = discard1
+         line = 1117
+
+      Text Node
+      text = "3z"
+
+
+    Node name = draw
+         line = 1118
+
+      Text Node
+      text = "4s"
+
+
+    Node name = discard1
+         line = 1119
+
+      Text Node
+      text = "1m"
+
+
+    Node name = draw
+         line = 1120
+
+      Text Node
+      text = "3z"
+
+
+    Node name = discard1
+         line = 1121
+
+      Text Node
+      text = "1m"
+
+
+    Node name = draw
+         line = 1122
+
+      Text Node
+      text = "3s"
+
+
+    Node name = discard1
+         line = 1123
+
+      Text Node
+      text = "6p"
+
+
+    Node name = draw
+         line = 1124
+
+      Text Node
+      text = "6m"
+
+
+    Node name = discard2
+         line = 1125
+
+      Text Node
+      text = "6m"
+
+
+    Node name = chi
+         line = 1126
+
+      Text Node
+      text = "5m7m"
+
+
+    Node name = discard1
+         line = 1127
+
+      Text Node
+      text = "2p"
+
+
+    Node name = draw
+         line = 1128
+
+      Text Node
+      text = "1z"
+
+
+    Node name = discard2
+         line = 1129
+
+      Text Node
+      text = "1z"
+
+
+    Node name = draw
+         line = 1130
+
+      Text Node
+      text = "3m"
+
+
+    Node name = discard1
+         line = 1131
+
+      Text Node
+      text = "3s"
+
+
+    Node name = draw
+         line = 1132
+
+      Text Node
+      text = "5p"
+
+
+    Node name = discard1
+         line = 1133
+
+      Text Node
+      text = "2p"
+
+
+    Node name = draw
+         line = 1134
+
+      Text Node
+      text = "7s"
+
+
+    Node name = discard1
+         line = 1135
+
+      Text Node
+      text = "7p"
+
+
+    Node name = draw
+         line = 1136
+
+      Text Node
+      text = "9m"
+
+
+    Node name = discard1
+         line = 1137
+
+      Text Node
+      text = "3z"
+
+
+    Node name = draw
+         line = 1138
+
+      Text Node
+      text = "5m"
+
+
+    Node name = discard1
+         line = 1139
+
+      Text Node
+      text = "3p"
+
+
+    Node name = draw
+         line = 1140
+
+      Text Node
+      text = "5P"
+
+
+    Node name = discard1
+         line = 1141
+
+      Text Node
+      text = "2s"
+
+
+    Node name = draw
+         line = 1142
+
+      Text Node
+      text = "9m"
+
+
+    Node name = discard2
+         line = 1143
+
+      Text Node
+      text = "9m"
+
+
+    Node name = draw
+         line = 1144
+
+      Text Node
+      text = "5p"
+
+
+    Node name = discard1
+         line = 1145
+
+      Text Node
+      text = "8p"
+
+
+    Node name = draw
+         line = 1146
+
+      Text Node
+      text = "1z"
+
+
+    Node name = discard2
+         line = 1147
+
+      Text Node
+      text = "1z"
+
+
+    Node name = draw
+         line = 1148
+
+      Text Node
+      text = "3p"
+
+
+    Node name = discard1
+         line = 1149
+
+      Text Node
+      text = "5p"
+
+
+    Node name = draw
+         line = 1150
+
+      Text Node
+      text = "2z"
+
+
+    Node name = discard2
+         line = 1151
+
+      Text Node
+      text = "2z"
+
+
+    Node name = peng
+         line = 1152
+      Attribute id = 2
+
+      Text Node
+      text = "2z2z"
+
+
+    Node name = discard1
+         line = 1153
+
+      Text Node
+      text = "8s"
+
+
+    Node name = draw
+         line = 1154
+
+      Text Node
+      text = "7s"
+
+
+    Node name = discard1
+         line = 1155
+
+      Text Node
+      text = "6s"
+
+
+    Node name = draw
+         line = 1156
+
+      Text Node
+      text = "5z"
+
+
+    Node name = discard1
+         line = 1157
+
+      Text Node
+      text = "9p"
+
+
+    Node name = peng
+         line = 1158
+      Attribute id = 1
+
+      Text Node
+      text = "9p9p"
+
+
+    Node name = discard1
+         line = 1159
+
+      Text Node
+      text = "1m"
+
+
+    Node name = draw
+         line = 1160
+
+      Text Node
+      text = "6s"
+
+
+    Node name = discard1
+         line = 1161
+
+      Text Node
+      text = "9s"
+
+
+    Node name = draw
+         line = 1162
+
+      Text Node
+      text = "6m"
+
+
+    Node name = discard2
+         line = 1163
+
+      Text Node
+      text = "6m"
+
+
+    Node name = draw
+         line = 1164
+
+      Text Node
+      text = "7p"
+
+
+    Node name = discard1
+         line = 1165
+
+      Text Node
+      text = "5z"
+
+
+    Node name = draw
+         line = 1166
+
+      Text Node
+      text = "1s"
+
+
+    Node name = discard2
+         line = 1167
+
+      Text Node
+      text = "1s"
+
+
+    Node name = draw
+         line = 1168
+
+      Text Node
+      text = "3z"
+
+
+    Node name = discard2
+         line = 1169
+
+      Text Node
+      text = "3z"
+
+
+    Node name = draw
+         line = 1170
+
+      Text Node
+      text = "4z"
+
+
+    Node name = discard2
+         line = 1171
+
+      Text Node
+      text = "4z"
+
+
+    Node name = draw
+         line = 1172
+
+      Text Node
+      text = "8p"
+
+
+    Node name = discard1
+         line = 1173
+
+      Text Node
+      text = "9m"
+
+
+    Node name = draw
+         line = 1174
+
+      Text Node
+      text = "6m"
+
+
+    Node name = discard2
+         line = 1175
+
+      Text Node
+      text = "6m"
+
+
+    Node name = draw
+         line = 1176
+
+      Text Node
+      text = "2m"
+
+
+    Node name = hu
+         line = 1177
+      Attribute from = 2
+      Attribute id = 2
+
+
+    Node name = end
+         line = 1178
+
+
+    Node name = hu
+         line = 1179
+      Attribute from = 2
+      Attribute id = 2
+      Attribute score = 3000
+
+
+      Node name = change
+           line = 1180
+
+        Text Node
+        text = "-10 -10 30 -10"
+
+
+
+
+  Node name = game
+       line = 1183
+    Attribute kyoku = 6
+    Attribute honba = 1
+    Attribute kyotaku = 0
+    Attribute oya = 2
+
+
+    Node name = score
+         line = 1184
+
+      Text Node
+      text = "538 129 222 111"
+
+
+    Node name = init
+         line = 1185
+      Attribute id = 0
+
+      Text Node
+      text = "5P6p6p7p8p9p3m5m3s5s5s8s9s"
+
+
+    Node name = init
+         line = 1186
+      Attribute id = 1
+
+      Text Node
+      text = "7p9p4m1s3s4s6s7s8s1z1z2z5z"
+
+
+    Node name = init
+         line = 1187
+      Attribute id = 2
+
+      Text Node
+      text = "2p4p8p9p1m5m8m8m4z5z6z6z7z"
+
+
+    Node name = init
+         line = 1188
+      Attribute id = 3
+
+      Text Node
+      text = "3p5p8p8p2m8m9m2s3s5S7s3z3z"
+
+
+    Node name = indicator
+         line = 1189
+
+      Text Node
+      text = "7m"
+
+
+    Node name = draw
+         line = 1190
+
+      Text Node
+      text = "4s"
+
+
+    Node name = discard1
+         line = 1191
+
+      Text Node
+      text = "1m"
+
+
+    Node name = draw
+         line = 1192
+
+      Text Node
+      text = "1z"
+
+
+    Node name = discard2
+         line = 1193
+
+      Text Node
+      text = "1z"
+
+
+    Node name = draw
+         line = 1194
+
+      Text Node
+      text = "3z"
+
+
+    Node name = discard2
+         line = 1195
+
+      Text Node
+      text = "3z"
+
+
+    Node name = draw
+         line = 1196
+
+      Text Node
+      text = "9m"
+
+
+    Node name = discard2
+         line = 1197
+
+      Text Node
+      text = "9m"
+
+
+    Node name = draw
+         line = 1198
+
+      Text Node
+      text = "7s"
+
+
+    Node name = discard1
+         line = 1199
+
+      Text Node
+      text = "4z"
+
+
+    Node name = draw
+         line = 1200
+
+      Text Node
+      text = "6s"
+
+
+    Node name = discard1
+         line = 1201
+
+      Text Node
+      text = "3z"
+
+
+    Node name = draw
+         line = 1202
+
+      Text Node
+      text = "9s"
+
+
+    Node name = discard1
+         line = 1203
+
+      Text Node
+      text = "9p"
+
+
+    Node name = draw
+         line = 1204
+
+      Text Node
+      text = "2m"
+
+
+    Node name = discard1
+         line = 1205
+
+      Text Node
+      text = "2z"
+
+
+    Node name = draw
+         line = 1206
+
+      Text Node
+      text = "2s"
+
+
+    Node name = discard1
+         line = 1207
+
+      Text Node
+      text = "5z"
+
+
+    Node name = draw
+         line = 1208
+
+      Text Node
+      text = "1s"
+
+
+    Node name = discard1
+         line = 1209
+
+      Text Node
+      text = "3z"
+
+
+    Node name = draw
+         line = 1210
+
+      Text Node
+      text = "2p"
+
+
+    Node name = discard2
+         line = 1211
+
+      Text Node
+      text = "2p"
+
+
+    Node name = draw
+         line = 1212
+
+      Text Node
+      text = "6p"
+
+
+    Node name = discard1
+         line = 1213
+
+      Text Node
+      text = "9p"
+
+
+    Node name = draw
+         line = 1214
+
+      Text Node
+      text = "4s"
+
+
+    Node name = discard1
+         line = 1215
+
+      Text Node
+      text = "7s"
+
+
+    Node name = draw
+         line = 1216
+
+      Text Node
+      text = "6z"
+
+
+    Node name = discard2
+         line = 1217
+
+      Text Node
+      text = "6z"
+
+
+    Node name = peng
+         line = 1218
+      Attribute id = 2
+
+      Text Node
+      text = "6z6z"
+
+
+    Node name = discard1
+         line = 1219
+
+      Text Node
+      text = "7z"
+
+
+    Node name = draw
+         line = 1220
+
+      Text Node
+      text = "6s"
+
+
+    Node name = discard1
+         line = 1221
+
+      Text Node
+      text = "2m"
+
+
+    Node name = draw
+         line = 1222
+
+      Text Node
+      text = "3m"
+
+
+    Node name = discard1
+         line = 1223
+
+      Text Node
+      text = "8s"
+
+
+    Node name = draw
+         line = 1224
+
+      Text Node
+      text = "2z"
+
+
+    Node name = discard2
+         line = 1225
+
+      Text Node
+      text = "2z"
+
+
+    Node name = draw
+         line = 1226
+
+      Text Node
+      text = "7z"
+
+
+    Node name = discard2
+         line = 1227
+
+      Text Node
+      text = "7z"
+
+
+    Node name = draw
+         line = 1228
+
+      Text Node
+      text = "1m"
+
+
+    Node name = discard2
+         line = 1229
+
+      Text Node
+      text = "1m"
+
+
+    Node name = draw
+         line = 1230
+
+      Text Node
+      text = "3p"
+
+
+    Node name = discard2
+         line = 1231
+
+      Text Node
+      text = "3p"
+
+
+    Node name = draw
+         line = 1232
+
+      Text Node
+      text = "1z"
+
+
+    Node name = discard1
+         line = 1233
+
+      Text Node
+      text = "1s"
+
+
+    Node name = draw
+         line = 1234
+
+      Text Node
+      text = "6m"
+
+
+    Node name = discard1
+         line = 1235
+
+      Text Node
+      text = "8p"
+
+
+    Node name = draw
+         line = 1236
+
+      Text Node
+      text = "4z"
+
+
+    Node name = discard2
+         line = 1237
+
+      Text Node
+      text = "4z"
+
+
+    Node name = draw
+         line = 1238
+
+      Text Node
+      text = "2p"
+
+
+    Node name = discard2
+         line = 1239
+
+      Text Node
+      text = "2p"
+
+
+    Node name = draw
+         line = 1240
+
+      Text Node
+      text = "3p"
+
+
+    Node name = discard2
+         line = 1241
+
+      Text Node
+      text = "3p"
+
+
+    Node name = chi
+         line = 1242
+
+      Text Node
+      text = "2p4p"
+
+
+    Node name = discard1
+         line = 1243
+
+      Text Node
+      text = "9p"
+
+
+    Node name = draw
+         line = 1244
+
+      Text Node
+      text = "4m"
+
+
+    Node name = discard2
+         line = 1245
+
+      Text Node
+      text = "4m"
+
+
+    Node name = draw
+         line = 1246
+
+      Text Node
+      text = "7z"
+
+
+    Node name = discard2
+         line = 1247
+
+      Text Node
+      text = "7z"
+
+
+    Node name = draw
+         line = 1248
+
+      Text Node
+      text = "3m"
+
+
+    Node name = discard1
+         line = 1249
+
+      Text Node
+      text = "5z"
+
+
+    Node name = draw
+         line = 1250
+
+      Text Node
+      text = "8s"
+
+
+    Node name = discard2
+         line = 1251
+
+      Text Node
+      text = "8s"
+
+
+    Node name = draw
+         line = 1252
+
+      Text Node
+      text = "4p"
+
+
+    Node name = riichi1
+         line = 1253
+
+
+    Node name = discard1
+         line = 1254
+
+      Text Node
+      text = "6s"
+
+
+    Node name = riichi2
+         line = 1255
+
+
+    Node name = change
+         line = 1256
+
+      Text Node
+      text = "0 0 0 -10"
+
+
+    Node name = draw
+         line = 1257
+
+      Text Node
+      text = "4p"
+
+
+    Node name = discard1
+         line = 1258
+
+      Text Node
+      text = "9s"
+
+
+    Node name = draw
+         line = 1259
+
+      Text Node
+      text = "7p"
+
+
+    Node name = riichi1
+         line = 1260
+
+
+    Node name = discard1
+         line = 1261
+
+      Text Node
+      text = "6p"
+
+
+    Node name = riichi2
+         line = 1262
+
+
+    Node name = change
+         line = 1263
+
+      Text Node
+      text = "0 -10 0 0"
+
+
+    Node name = draw
+         line = 1264
+
+      Text Node
+      text = "6m"
+
+
+    Node name = discard1
+         line = 1265
+
+      Text Node
+      text = "2s"
+
+
+    Node name = hu
+         line = 1266
+      Attribute from = 2
+      Attribute id = 1
+
+
+    Node name = end
+         line = 1267
+
+
+    Node name = hu
+         line = 1268
+      Attribute from = 2
+      Attribute id = 1
+      Attribute score = 2600
+
+
+      Node name = change
+           line = 1269
+
+        Text Node
+        text = "0 49 -29 0"
+
+
+
+
+  Node name = game
+       line = 1272
+    Attribute kyoku = 7
+    Attribute honba = 0
+    Attribute kyotaku = 0
+    Attribute oya = 3
+
+
+    Node name = score
+         line = 1273
+
+      Text Node
+      text = "538 168 193 101"
+
+
+    Node name = init
+         line = 1274
+      Attribute id = 0
+
+      Text Node
+      text = "3p5p9p5m6m1s1s5S8s1z2z5z7z"
+
+
+    Node name = init
+         line = 1275
+      Attribute id = 1
+
+      Text Node
+      text = "1m4m6m9m2s5s6s6s7s7s9s3z4z"
+
+
+    Node name = init
+         line = 1276
+      Attribute id = 2
+
+      Text Node
+      text = "2p5P6p7p9p1m9m1s2s2s4s9s7z"
+
+
+    Node name = init
+         line = 1277
+      Attribute id = 3
+
+      Text Node
+      text = "1p3p3p1m2m3m4m5m8m9m4s4s5s"
+
+
+    Node name = indicator
+         line = 1278
+
+      Text Node
+      text = "8p"
+
+
+    Node name = draw
+         line = 1279
+
+      Text Node
+      text = "7m"
+
+
+    Node name = discard1
+         line = 1280
+
+      Text Node
+      text = "1p"
+
+
+    Node name = draw
+         line = 1281
+
+      Text Node
+      text = "1p"
+
+
+    Node name = discard1
+         line = 1282
+
+      Text Node
+      text = "1z"
+
+
+    Node name = draw
+         line = 1283
+
+      Text Node
+      text = "4p"
+
+
+    Node name = discard1
+         line = 1284
+
+      Text Node
+      text = "9m"
+
+
+    Node name = draw
+         line = 1285
+
+      Text Node
+      text = "4p"
+
+
+    Node name = discard1
+         line = 1286
+
+      Text Node
+      text = "9s"
+
+
+    Node name = draw
+         line = 1287
+
+      Text Node
+      text = "7s"
+
+
+    Node name = discard2
+         line = 1288
+
+      Text Node
+      text = "7s"
+
+
+    Node name = draw
+         line = 1289
+
+      Text Node
+      text = "1z"
+
+
+    Node name = discard1
+         line = 1290
+
+      Text Node
+      text = "9p"
+
+
+    Node name = draw
+         line = 1291
+
+      Text Node
+      text = "8s"
+
+
+    Node name = discard1
+         line = 1292
+
+      Text Node
+      text = "1m"
+
+
+    Node name = draw
+         line = 1293
+
+      Text Node
+      text = "2p"
+
+
+    Node name = discard1
+         line = 1294
+
+      Text Node
+      text = "9m"
+
+
+    Node name = draw
+         line = 1295
+
+      Text Node
+      text = "4z"
+
+
+    Node name = discard2
+         line = 1296
+
+      Text Node
+      text = "4z"
+
+
+    Node name = draw
+         line = 1297
+
+      Text Node
+      text = "3p"
+
+
+    Node name = discard1
+         line = 1298
+
+      Text Node
+      text = "8s"
+
+
+    Node name = draw
+         line = 1299
+
+      Text Node
+      text = "8s"
+
+
+    Node name = discard1
+         line = 1300
+
+      Text Node
+      text = "4z"
+
+
+    Node name = draw
+         line = 1301
+
+      Text Node
+      text = "2z"
+
+
+    Node name = discard1
+         line = 1302
+
+      Text Node
+      text = "1m"
+
+
+    Node name = draw
+         line = 1303
+
+      Text Node
+      text = "5M"
+
+
+    Node name = discard1
+         line = 1304
+
+      Text Node
+      text = "5m"
+
+
+    Node name = draw
+         line = 1305
+
+      Text Node
+      text = "8m"
+
+
+    Node name = discard2
+         line = 1306
+
+      Text Node
+      text = "8m"
+
+
+    Node name = draw
+         line = 1307
+
+      Text Node
+      text = "1p"
+
+
+    Node name = discard2
+         line = 1308
+
+      Text Node
+      text = "1p"
+
+
+    Node name = draw
+         line = 1309
+
+      Text Node
+      text = "1z"
+
+
+    Node name = discard1
+         line = 1310
+
+      Text Node
+      text = "1s"
+
+
+    Node name = draw
+         line = 1311
+
+      Text Node
+      text = "9m"
+
+
+    Node name = discard2
+         line = 1312
+
+      Text Node
+      text = "9m"
+
+
+    Node name = draw
+         line = 1313
+
+      Text Node
+      text = "4p"
+
+
+    Node name = discard1
+         line = 1314
+
+      Text Node
+      text = "5S"
+
+
+    Node name = draw
+         line = 1315
+
+      Text Node
+      text = "5p"
+
+
+    Node name = discard1
+         line = 1316
+
+      Text Node
+      text = "2s"
+
+
+    Node name = draw
+         line = 1317
+
+      Text Node
+      text = "1z"
+
+
+    Node name = discard1
+         line = 1318
+
+      Text Node
+      text = "2s"
+
+
+    Node name = draw
+         line = 1319
+
+      Text Node
+      text = "2z"
+
+
+    Node name = discard2
+         line = 1320
+
+      Text Node
+      text = "2z"
+
+
+    Node name = draw
+         line = 1321
+
+      Text Node
+      text = "3z"
+
+
+    Node name = discard2
+         line = 1322
+
+      Text Node
+      text = "3z"
+
+
+    Node name = draw
+         line = 1323
+
+      Text Node
+      text = "4z"
+
+
+    Node name = discard2
+         line = 1324
+
+      Text Node
+      text = "4z"
+
+
+    Node name = draw
+         line = 1325
+
+      Text Node
+      text = "6z"
+
+
+    Node name = discard1
+         line = 1326
+
+      Text Node
+      text = "2z"
+
+
+    Node name = draw
+         line = 1327
+
+      Text Node
+      text = "8p"
+
+
+    Node name = discard2
+         line = 1328
+
+      Text Node
+      text = "8p"
+
+
+    Node name = draw
+         line = 1329
+
+      Text Node
+      text = "2p"
+
+
+    Node name = discard1
+         line = 1330
+
+      Text Node
+      text = "1z"
+
+
+    Node name = draw
+         line = 1331
+
+      Text Node
+      text = "2p"
+
+
+    Node name = discard2
+         line = 1332
+
+      Text Node
+      text = "2p"
+
+
+    Node name = draw
+         line = 1333
+
+      Text Node
+      text = "6z"
+
+
+    Node name = discard1
+         line = 1334
+
+      Text Node
+      text = "1z"
+
+
+    Node name = draw
+         line = 1335
+
+      Text Node
+      text = "3m"
+
+
+    Node name = riichi1
+         line = 1336
+
+
+    Node name = discard1
+         line = 1337
+
+      Text Node
+      text = "4s"
+
+
+    Node name = riichi2
+         line = 1338
+
+
+    Node name = change
+         line = 1339
+
+      Text Node
+      text = "0 0 0 -10"
+
+
+    Node name = draw
+         line = 1340
+
+      Text Node
+      text = "7m"
+
+
+    Node name = discard1
+         line = 1341
+
+      Text Node
+      text = "2z"
+
+
+    Node name = draw
+         line = 1342
+
+      Text Node
+      text = "3s"
+
+
+    Node name = discard1
+         line = 1343
+
+      Text Node
+      text = "3z"
+
+
+    Node name = draw
+         line = 1344
+
+      Text Node
+      text = "7m"
+
+
+    Node name = discard1
+         line = 1345
+
+      Text Node
+      text = "1z"
+
+
+    Node name = draw
+         line = 1346
+
+      Text Node
+      text = "7m"
+
+
+    Node name = discard2
+         line = 1347
+
+      Text Node
+      text = "7m"
+
+
+    Node name = draw
+         line = 1348
+
+      Text Node
+      text = "8s"
+
+
+    Node name = discard1
+         line = 1349
+
+      Text Node
+      text = "7z"
+
+
+    Node name = draw
+         line = 1350
+
+      Text Node
+      text = "2m"
+
+
+    Node name = discard1
+         line = 1351
+
+      Text Node
+      text = "9s"
+
+
+    Node name = draw
+         line = 1352
+
+      Text Node
+      text = "1p"
+
+
+    Node name = discard1
+         line = 1353
+
+      Text Node
+      text = "7m"
+
+
+    Node name = draw
+         line = 1354
+
+      Text Node
+      text = "7z"
+
+
+    Node name = discard2
+         line = 1355
+
+      Text Node
+      text = "7z"
+
+
+    Node name = draw
+         line = 1356
+
+      Text Node
+      text = "6s"
+
+
+    Node name = discard1
+         line = 1357
+
+      Text Node
+      text = "5z"
+
+
+    Node name = draw
+         line = 1358
+
+      Text Node
+      text = "9p"
+
+
+    Node name = discard1
+         line = 1359
+
+      Text Node
+      text = "7s"
+
+
+    Node name = draw
+         line = 1360
+
+      Text Node
+      text = "7p"
+
+
+    Node name = discard1
+         line = 1361
+
+      Text Node
+      text = "7z"
+
+
+    Node name = draw
+         line = 1362
+
+      Text Node
+      text = "8p"
+
+
+    Node name = discard2
+         line = 1363
+
+      Text Node
+      text = "8p"
+
+
+    Node name = draw
+         line = 1364
+
+      Text Node
+      text = "3s"
+
+
+    Node name = discard1
+         line = 1365
+
+      Text Node
+      text = "1s"
+
+
+    Node name = draw
+         line = 1366
+
+      Text Node
+      text = "6p"
+
+
+    Node name = discard1
+         line = 1367
+
+      Text Node
+      text = "7s"
+
+
+    Node name = draw
+         line = 1368
+
+      Text Node
+      text = "8p"
+
+
+    Node name = discard1
+         line = 1369
+
+      Text Node
+      text = "1p"
+
+
+    Node name = draw
+         line = 1370
+
+      Text Node
+      text = "5z"
+
+
+    Node name = discard2
+         line = 1371
+
+      Text Node
+      text = "5z"
+
+
+    Node name = draw
+         line = 1372
+
+      Text Node
+      text = "6m"
+
+
+    Node name = discard1
+         line = 1373
+
+      Text Node
+      text = "1s"
+
+
+    Node name = draw
+         line = 1374
+
+      Text Node
+      text = "4m"
+
+
+    Node name = discard1
+         line = 1375
+
+      Text Node
+      text = "8s"
+
+
+    Node name = draw
+         line = 1376
+
+      Text Node
+      text = "5m"
+
+
+    Node name = discard2
+         line = 1377
+
+      Text Node
+      text = "5m"
+
+
+    Node name = draw
+         line = 1378
+
+      Text Node
+      text = "6z"
+
+
+    Node name = discard2
+         line = 1379
+
+      Text Node
+      text = "6z"
+
+
+    Node name = draw
+         line = 1380
+
+      Text Node
+      text = "7z"
+
+
+    Node name = discard2
+         line = 1381
+
+      Text Node
+      text = "7z"
+
+
+    Node name = draw
+         line = 1382
+
+      Text Node
+      text = "6p"
+
+
+    Node name = discard1
+         line = 1383
+
+      Text Node
+      text = "8s"
+
+
+    Node name = draw
+         line = 1384
+
+      Text Node
+      text = "3s"
+
+
+    Node name = discard1
+         line = 1385
+
+      Text Node
+      text = "6z"
+
+
+    Node name = draw
+         line = 1386
+
+      Text Node
+      text = "3z"
+
+
+    Node name = discard2
+         line = 1387
+
+      Text Node
+      text = "3z"
+
+
+    Node name = draw
+         line = 1388
+
+      Text Node
+      text = "5z"
+
+
+    Node name = discard2
+         line = 1389
+
+      Text Node
+      text = "5z"
+
+
+    Node name = draw
+         line = 1390
+
+      Text Node
+      text = "2s"
+
+
+    Node name = discard1
+         line = 1391
+
+      Text Node
+      text = "2m"
+
+
+    Node name = draw
+         line = 1392
+
+      Text Node
+      text = "7s"
+
+
+    Node name = discard2
+         line = 1393
+
+      Text Node
+      text = "7s"
+
+
+    Node name = draw
+         line = 1394
+
+      Text Node
+      text = "8m"
+
+
+    Node name = discard2
+         line = 1395
+
+      Text Node
+      text = "8m"
+
+
+    Node name = draw
+         line = 1396
+
+      Text Node
+      text = "1m"
+
+
+    Node name = discard1
+         line = 1397
+
+      Text Node
+      text = "8s"
+
+
+    Node name = draw
+         line = 1398
+
+      Text Node
+      text = "9p"
+
+
+    Node name = discard1
+         line = 1399
+
+      Text Node
+      text = "6m"
+
+
+    Node name = draw
+         line = 1400
+
+      Text Node
+      text = "6s"
+
+
+    Node name = discard1
+         line = 1401
+
+      Text Node
+      text = "6z"
+
+
+    Node name = draw
+         line = 1402
+
+      Text Node
+      text = "5s"
+
+
+    Node name = discard2
+         line = 1403
+
+      Text Node
+      text = "5s"
+
+
+    Node name = draw
+         line = 1404
+
+      Text Node
+      text = "1s"
+
+
+    Node name = discard1
+         line = 1405
+
+      Text Node
+      text = "6m"
+
+
+    Node name = draw
+         line = 1406
+
+      Text Node
+      text = "4s"
+
+
+    Node name = discard1
+         line = 1407
+
+      Text Node
+      text = "5s"
+
+
+    Node name = draw
+         line = 1408
+
+      Text Node
+      text = "4p"
+
+
+    Node name = discard1
+         line = 1409
+
+      Text Node
+      text = "4s"
+
+
+    Node name = draw
+         line = 1410
+
+      Text Node
+      text = "2m"
+
+
+    Node name = discard2
+         line = 1411
+
+      Text Node
+      text = "2m"
+
+
+    Node name = draw
+         line = 1412
+
+      Text Node
+      text = "9s"
+
+
+    Node name = discard2
+         line = 1413
+
+      Text Node
+      text = "9s"
+
+
+    Node name = draw
+         line = 1414
+
+      Text Node
+      text = "7p"
+
+
+    Node name = discard1
+         line = 1415
+
+      Text Node
+      text = "4s"
+
+
+    Node name = draw
+         line = 1416
+
+      Text Node
+      text = "5p"
+
+
+    Node name = discard1
+         line = 1417
+
+      Text Node
+      text = "8p"
+
+
+    Node name = draw
+         line = 1418
+
+      Text Node
+      text = "3z"
+
+
+    Node name = discard2
+         line = 1419
+
+      Text Node
+      text = "3z"
+
+
+    Node name = draw
+         line = 1420
+
+      Text Node
+      text = "9s"
+
+
+    Node name = discard2
+         line = 1421
+
+      Text Node
+      text = "9s"
+
+
+    Node name = end
+         line = 1422
+
+
+    Node name = ryuukyoku
+         line = 1423
+
+
+      Node name = change
+           line = 1424
+
+        Text Node
+        text = "-10 -10 -10 30"
+
+
+
+
+  Node name = game
+       line = 1427
+    Attribute kyoku = 7
+    Attribute honba = 1
+    Attribute kyotaku = 1
+    Attribute oya = 3
+
+
+    Node name = score
+         line = 1428
+
+      Text Node
+      text = "528 158 183 121"
+
+
+    Node name = init
+         line = 1429
+      Attribute id = 0
+
+      Text Node
+      text = "1p1p2p6p2m6m8m9m9m1s6s2z5z"
+
+
+    Node name = init
+         line = 1430
+      Attribute id = 1
+
+      Text Node
+      text = "3p4p5p5p3m7m8m9m1s3s5s7s1z"
+
+
+    Node name = init
+         line = 1431
+      Attribute id = 2
+
+      Text Node
+      text = "1p4p5P6p7m3s3s6s8s2z3z4z4z"
+
+
+    Node name = init
+         line = 1432
+      Attribute id = 3
+
+      Text Node
+      text = "4p5p1m2m5m5m7m1s2s6s1z4z7z"
+
+
+    Node name = indicator
+         line = 1433
+
+      Text Node
+      text = "7p"
+
+
+    Node name = draw
+         line = 1434
+
+      Text Node
+      text = "3s"
+
+
+    Node name = discard1
+         line = 1435
+
+      Text Node
+      text = "4z"
+
+
+    Node name = peng
+         line = 1436
+      Attribute id = 2
+
+      Text Node
+      text = "4z4z"
+
+
+    Node name = discard1
+         line = 1437
+
+      Text Node
+      text = "1p"
+
+
+    Node name = draw
+         line = 1438
+
+      Text Node
+      text = "6z"
+
+
+    Node name = discard1
+         line = 1439
+
+      Text Node
+      text = "1m"
+
+
+    Node name = draw
+         line = 1440
+
+      Text Node
+      text = "2s"
+
+
+    Node name = discard1
+         line = 1441
+
+      Text Node
+      text = "1s"
+
+
+    Node name = draw
+         line = 1442
+
+      Text Node
+      text = "6m"
+
+
+    Node name = discard1
+         line = 1443
+
+      Text Node
+      text = "1z"
+
+
+    Node name = draw
+         line = 1444
+
+      Text Node
+      text = "3p"
+
+
+    Node name = discard1
+         line = 1445
+
+      Text Node
+      text = "2z"
+
+
+    Node name = draw
+         line = 1446
+
+      Text Node
+      text = "8s"
+
+
+    Node name = discard1
+         line = 1447
+
+      Text Node
+      text = "2m"
+
+
+    Node name = draw
+         line = 1448
+
+      Text Node
+      text = "7p"
+
+
+    Node name = discard1
+         line = 1449
+
+      Text Node
+      text = "2s"
+
+
+    Node name = draw
+         line = 1450
+
+      Text Node
+      text = "9s"
+
+
+    Node name = discard1
+         line = 1451
+
+      Text Node
+      text = "5p"
+
+
+    Node name = draw
+         line = 1452
+
+      Text Node
+      text = "9p"
+
+
+    Node name = discard2
+         line = 1453
+
+      Text Node
+      text = "9p"
+
+
+    Node name = draw
+         line = 1454
+
+      Text Node
+      text = "3m"
+
+
+    Node name = discard1
+         line = 1455
+
+      Text Node
+      text = "1z"
+
+
+    Node name = draw
+         line = 1456
+
+      Text Node
+      text = "3p"
+
+
+    Node name = discard1
+         line = 1457
+
+      Text Node
+      text = "2z"
+
+
+    Node name = draw
+         line = 1458
+
+      Text Node
+      text = "4s"
+
+
+    Node name = discard1
+         line = 1459
+
+      Text Node
+      text = "3m"
+
+
+    Node name = draw
+         line = 1460
+
+      Text Node
+      text = "7z"
+
+
+    Node name = discard2
+         line = 1461
+
+      Text Node
+      text = "7z"
+
+
+    Node name = draw
+         line = 1462
+
+      Text Node
+      text = "2p"
+
+
+    Node name = discard1
+         line = 1463
+
+      Text Node
+      text = "7z"
+
+
+    Node name = draw
+         line = 1464
+
+      Text Node
+      text = "4s"
+
+
+    Node name = discard1
+         line = 1465
+
+      Text Node
+      text = "1p"
+
+
+    Node name = draw
+         line = 1466
+
+      Text Node
+      text = "8m"
+
+
+    Node name = discard1
+         line = 1467
+
+      Text Node
+      text = "1s"
+
+
+    Node name = draw
+         line = 1468
+
+      Text Node
+      text = "3p"
+
+
+    Node name = discard1
+         line = 1469
+
+      Text Node
+      text = "7m"
+
+
+    Node name = draw
+         line = 1470
+
+      Text Node
+      text = "5m"
+
+
+    Node name = discard1
+         line = 1471
+
+      Text Node
+      text = "2p"
+
+
+    Node name = draw
+         line = 1472
+
+      Text Node
+      text = "9s"
+
+
+    Node name = discard2
+         line = 1473
+
+      Text Node
+      text = "9s"
+
+
+    Node name = draw
+         line = 1474
+
+      Text Node
+      text = "4p"
+
+
+    Node name = discard2
+         line = 1475
+
+      Text Node
+      text = "4p"
+
+
+    Node name = draw
+         line = 1476
+
+      Text Node
+      text = "6p"
+
+
+    Node name = discard1
+         line = 1477
+
+      Text Node
+      text = "3z"
+
+
+    Node name = draw
+         line = 1478
+
+      Text Node
+      text = "6z"
+
+
+    Node name = discard1
+         line = 1479
+
+      Text Node
+      text = "3m"
+
+
+    Node name = draw
+         line = 1480
+
+      Text Node
+      text = "8s"
+
+
+    Node name = discard1
+         line = 1481
+
+      Text Node
+      text = "5z"
+
+
+    Node name = draw
+         line = 1482
+
+      Text Node
+      text = "7z"
+
+
+    Node name = discard2
+         line = 1483
+
+      Text Node
+      text = "7z"
+
+
+    Node name = draw
+         line = 1484
+
+      Text Node
+      text = "3z"
+
+
+    Node name = discard2
+         line = 1485
+
+      Text Node
+      text = "3z"
+
+
+    Node name = draw
+         line = 1486
+
+      Text Node
+      text = "4s"
+
+
+    Node name = discard1
+         line = 1487
+
+      Text Node
+      text = "7m"
+
+
+    Node name = draw
+         line = 1488
+
+      Text Node
+      text = "6z"
+
+
+    Node name = discard2
+         line = 1489
+
+      Text Node
+      text = "6z"
+
+
+    Node name = peng
+         line = 1490
+      Attribute id = 3
+
+      Text Node
+      text = "6z6z"
+
+
+    Node name = discard1
+         line = 1491
+
+      Text Node
+      text = "8s"
+
+
+    Node name = draw
+         line = 1492
+
+      Text Node
+      text = "2p"
+
+
+    Node name = discard2
+         line = 1493
+
+      Text Node
+      text = "2p"
+
+
+    Node name = draw
+         line = 1494
+
+      Text Node
+      text = "7s"
+
+
+    Node name = discard1
+         line = 1495
+
+      Text Node
+      text = "9s"
+
+
+    Node name = draw
+         line = 1496
+
+      Text Node
+      text = "7m"
+
+
+    Node name = discard2
+         line = 1497
+
+      Text Node
+      text = "7m"
+
+
+    Node name = draw
+         line = 1498
+
+      Text Node
+      text = "8p"
+
+
+    Node name = discard2
+         line = 1499
+
+      Text Node
+      text = "8p"
+
+
+    Node name = draw
+         line = 1500
+
+      Text Node
+      text = "1m"
+
+
+    Node name = discard2
+         line = 1501
+
+      Text Node
+      text = "1m"
+
+
+    Node name = draw
+         line = 1502
+
+      Text Node
+      text = "4m"
+
+
+    Node name = discard1
+         line = 1503
+
+      Text Node
+      text = "8m"
+
+
+    Node name = draw
+         line = 1504
+
+      Text Node
+      text = "8m"
+
+
+    Node name = discard2
+         line = 1505
+
+      Text Node
+      text = "8m"
+
+
+    Node name = draw
+         line = 1506
+
+      Text Node
+      text = "6z"
+
+
+    Node name = jiagang
+         line = 1507
+
+      Text Node
+      text = "1p"
+
+
+    Node name = draw
+         line = 1508
+
+      Text Node
+      text = "9p"
+
+
+    Node name = indicator
+         line = 1509
+
+      Text Node
+      text = "2s"
+
+
+    Node name = discard2
+         line = 1510
+
+      Text Node
+      text = "9p"
+
+
+    Node name = draw
+         line = 1511
+
+      Text Node
+      text = "6m"
+
+
+    Node name = discard1
+         line = 1512
+
+      Text Node
+      text = "2m"
+
+
+    Node name = draw
+         line = 1513
+
+      Text Node
+      text = "9m"
+
+
+    Node name = riichi1
+         line = 1514
+
+
+    Node name = discard1
+         line = 1515
+
+      Text Node
+      text = "4m"
+
+
+    Node name = riichi2
+         line = 1516
+
+
+    Node name = change
+         line = 1517
+
+      Text Node
+      text = "0 -10 0 0"
+
+
+    Node name = draw
+         line = 1518
+
+      Text Node
+      text = "4s"
+
+
+    Node name = discard1
+         line = 1519
+
+      Text Node
+      text = "3p"
+
+
+    Node name = chi
+         line = 1520
+
+      Text Node
+      text = "4p5p"
+
+
+    Node name = discard1
+         line = 1521
+
+      Text Node
+      text = "6s"
+
+
+    Node name = draw
+         line = 1522
+
+      Text Node
+      text = "5z"
+
+
+    Node name = discard1
+         line = 1523
+
+      Text Node
+      text = "6s"
+
+
+    Node name = draw
+         line = 1524
+
+      Text Node
+      text = "8p"
+
+
+    Node name = discard2
+         line = 1525
+
+      Text Node
+      text = "8p"
+
+
+    Node name = draw
+         line = 1526
+
+      Text Node
+      text = "9p"
+
+
+    Node name = discard1
+         line = 1527
+
+      Text Node
+      text = "6s"
+
+
+    Node name = draw
+         line = 1528
+
+      Text Node
+      text = "1s"
+
+
+    Node name = hu
+         line = 1529
+      Attribute from = 3
+      Attribute id = 3
+
+
+    Node name = end
+         line = 1530
+
+
+    Node name = hu
+         line = 1531
+      Attribute from = 3
+      Attribute id = 3
+      Attribute score = 4800
+
+
+      Node name = change
+           line = 1532
+
+        Text Node
+        text = "-17 -17 -17 71"
+
+
+
+
+  Node name = game
+       line = 1535
+    Attribute kyoku = 7
+    Attribute honba = 2
+    Attribute kyotaku = 0
+    Attribute oya = 3
+
+
+    Node name = score
+         line = 1536
+
+      Text Node
+      text = "511 131 166 192"
+
+
+    Node name = init
+         line = 1537
+      Attribute id = 0
+
+      Text Node
+      text = "1p4p6p6p6p9p7m8m9m3s5s9s6z"
+
+
+    Node name = init
+         line = 1538
+      Attribute id = 1
+
+      Text Node
+      text = "1p2p3p1m3m6m7m8m1s4s7s9s2z"
+
+
+    Node name = init
+         line = 1539
+      Attribute id = 2
+
+      Text Node
+      text = "1p3p9p2m4m4m7m2s3s4s3z5z6z"
+
+
+    Node name = init
+         line = 1540
+      Attribute id = 3
+
+      Text Node
+      text = "3p4p4p5p7p8p2m6m3s5s6s1z3z"
+
+
+    Node name = indicator
+         line = 1541
+
+      Text Node
+      text = "4p"
+
+
+    Node name = draw
+         line = 1542
+
+      Text Node
+      text = "2z"
+
+
+    Node name = discard1
+         line = 1543
+
+      Text Node
+      text = "3z"
+
+
+    Node name = draw
+         line = 1544
+
+      Text Node
+      text = "5z"
+
+
+    Node name = discard1
+         line = 1545
+
+      Text Node
+      text = "9p"
+
+
+    Node name = draw
+         line = 1546
+
+      Text Node
+      text = "7z"
+
+
+    Node name = discard1
+         line = 1547
+
+      Text Node
+      text = "2z"
+
+
+    Node name = draw
+         line = 1548
+
+      Text Node
+      text = "5P"
+
+
+    Node name = discard1
+         line = 1549
+
+      Text Node
+      text = "3z"
+
+
+    Node name = draw
+         line = 1550
+
+      Text Node
+      text = "1s"
+
+
+    Node name = discard1
+         line = 1551
+
+      Text Node
+      text = "2z"
+
+
+    Node name = draw
+         line = 1552
+
+      Text Node
+      text = "2p"
+
+
+    Node name = discard1
+         line = 1553
+
+      Text Node
+      text = "9s"
+
+
+    Node name = draw
+         line = 1554
+
+      Text Node
+      text = "6z"
+
+
+    Node name = discard2
+         line = 1555
+
+      Text Node
+      text = "6z"
+
+
+    Node name = draw
+         line = 1556
+
+      Text Node
+      text = "8m"
+
+
+    Node name = discard1
+         line = 1557
+
+      Text Node
+      text = "6z"
+
+
+    Node name = draw
+         line = 1558
+
+      Text Node
+      text = "1m"
+
+
+    Node name = discard1
+         line = 1559
+
+      Text Node
+      text = "1z"
+
+
+    Node name = draw
+         line = 1560
+
+      Text Node
+      text = "4m"
+
+
+    Node name = discard1
+         line = 1561
+
+      Text Node
+      text = "6z"
+
+
+    Node name = draw
+         line = 1562
+
+      Text Node
+      text = "4z"
+
+
+    Node name = discard2
+         line = 1563
+
+      Text Node
+      text = "4z"
+
+
+    Node name = draw
+         line = 1564
+
+      Text Node
+      text = "7p"
+
+
+    Node name = discard1
+         line = 1565
+
+      Text Node
+      text = "5z"
+
+
+    Node name = draw
+         line = 1566
+
+      Text Node
+      text = "2p"
+
+
+    Node name = discard1
+         line = 1567
+
+      Text Node
+      text = "1m"
+
+
+    Node name = draw
+         line = 1568
+
+      Text Node
+      text = "5m"
+
+
+    Node name = discard1
+         line = 1569
+
+      Text Node
+      text = "5z"
+
+
+    Node name = draw
+         line = 1570
+
+      Text Node
+      text = "9p"
+
+
+    Node name = discard1
+         line = 1571
+
+      Text Node
+      text = "7z"
+
+
+    Node name = draw
+         line = 1572
+
+      Text Node
+      text = "5p"
+
+
+    Node name = discard1
+         line = 1573
+
+      Text Node
+      text = "2m"
+
+
+    Node name = draw
+         line = 1574
+
+      Text Node
+      text = "1m"
+
+
+    Node name = discard2
+         line = 1575
+
+      Text Node
+      text = "1m"
+
+
+    Node name = draw
+         line = 1576
+
+      Text Node
+      text = "7s"
+
+
+    Node name = discard1
+         line = 1577
+
+      Text Node
+      text = "1p"
+
+
+    Node name = draw
+         line = 1578
+
+      Text Node
+      text = "4z"
+
+
+    Node name = discard2
+         line = 1579
+
+      Text Node
+      text = "4z"
+
+
+    Node name = draw
+         line = 1580
+
+      Text Node
+      text = "7z"
+
+
+    Node name = discard2
+         line = 1581
+
+      Text Node
+      text = "7z"
+
+
+    Node name = draw
+         line = 1582
+
+      Text Node
+      text = "2z"
+
+
+    Node name = discard2
+         line = 1583
+
+      Text Node
+      text = "2z"
+
+
+    Node name = draw
+         line = 1584
+
+      Text Node
+      text = "8s"
+
+
+    Node name = discard1
+         line = 1585
+
+      Text Node
+      text = "2p"
+
+
+    Node name = draw
+         line = 1586
+
+      Text Node
+      text = "5m"
+
+
+    Node name = discard1
+         line = 1587
+
+      Text Node
+      text = "9p"
+
+
+    Node name = draw
+         line = 1588
+
+      Text Node
+      text = "9p"
+
+
+    Node name = discard2
+         line = 1589
+
+      Text Node
+      text = "9p"
+
+
+    Node name = draw
+         line = 1590
+
+      Text Node
+      text = "8p"
+
+
+    Node name = discard1
+         line = 1591
+
+      Text Node
+      text = "2m"
+
+
+    Node name = draw
+         line = 1592
+
+      Text Node
+      text = "2m"
+
+
+    Node name = discard2
+         line = 1593
+
+      Text Node
+      text = "2m"
+
+
+    Node name = draw
+         line = 1594
+
+      Text Node
+      text = "5z"
+
+
+    Node name = discard2
+         line = 1595
+
+      Text Node
+      text = "5z"
+
+
+    Node name = draw
+         line = 1596
+
+      Text Node
+      text = "5s"
+
+
+    Node name = discard1
+         line = 1597
+
+      Text Node
+      text = "2s"
+
+
+    Node name = draw
+         line = 1598
+
+      Text Node
+      text = "3m"
+
+
+    Node name = discard2
+         line = 1599
+
+      Text Node
+      text = "3m"
+
+
+    Node name = draw
+         line = 1600
+
+      Text Node
+      text = "6m"
+
+
+    Node name = discard1
+         line = 1601
+
+      Text Node
+      text = "8s"
+
+
+    Node name = draw
+         line = 1602
+
+      Text Node
+      text = "5S"
+
+
+    Node name = discard1
+         line = 1603
+
+      Text Node
+      text = "1s"
+
+
+    Node name = draw
+         line = 1604
+
+      Text Node
+      text = "2s"
+
+
+    Node name = discard2
+         line = 1605
+
+      Text Node
+      text = "2s"
+
+
+    Node name = draw
+         line = 1606
+
+      Text Node
+      text = "3z"
+
+
+    Node name = discard2
+         line = 1607
+
+      Text Node
+      text = "3z"
+
+
+    Node name = draw
+         line = 1608
+
+      Text Node
+      text = "3s"
+
+
+    Node name = discard1
+         line = 1609
+
+      Text Node
+      text = "4p"
+
+
+    Node name = draw
+         line = 1610
+
+      Text Node
+      text = "6m"
+
+
+    Node name = discard1
+         line = 1611
+
+      Text Node
+      text = "1m"
+
+
+    Node name = draw
+         line = 1612
+
+      Text Node
+      text = "1s"
+
+
+    Node name = discard2
+         line = 1613
+
+      Text Node
+      text = "1s"
+
+
+    Node name = draw
+         line = 1614
+
+      Text Node
+      text = "4z"
+
+
+    Node name = discard2
+         line = 1615
+
+      Text Node
+      text = "4z"
+
+
+    Node name = draw
+         line = 1616
+
+      Text Node
+      text = "4z"
+
+
+    Node name = discard2
+         line = 1617
+
+      Text Node
+      text = "4z"
+
+
+    Node name = draw
+         line = 1618
+
+      Text Node
+      text = "1z"
+
+
+    Node name = discard2
+         line = 1619
+
+      Text Node
+      text = "1z"
+
+
+    Node name = draw
+         line = 1620
+
+      Text Node
+      text = "9m"
+
+
+    Node name = discard1
+         line = 1621
+
+      Text Node
+      text = "1p"
+
+
+    Node name = draw
+         line = 1622
+
+      Text Node
+      text = "6s"
+
+
+    Node name = discard1
+         line = 1623
+
+      Text Node
+      text = "1s"
+
+
+    Node name = draw
+         line = 1624
+
+      Text Node
+      text = "1m"
+
+
+    Node name = discard2
+         line = 1625
+
+      Text Node
+      text = "1m"
+
+
+    Node name = draw
+         line = 1626
+
+      Text Node
+      text = "8s"
+
+
+    Node name = discard1
+         line = 1627
+
+      Text Node
+      text = "3m"
+
+
+    Node name = draw
+         line = 1628
+
+      Text Node
+      text = "6p"
+
+
+    Node name = discard1
+         line = 1629
+
+      Text Node
+      text = "9p"
+
+
+    Node name = draw
+         line = 1630
+
+      Text Node
+      text = "9s"
+
+
+    Node name = discard2
+         line = 1631
+
+      Text Node
+      text = "9s"
+
+
+    Node name = draw
+         line = 1632
+
+      Text Node
+      text = "3p"
+
+
+    Node name = discard2
+         line = 1633
+
+      Text Node
+      text = "3p"
+
+
+    Node name = draw
+         line = 1634
+
+      Text Node
+      text = "7z"
+
+
+    Node name = discard2
+         line = 1635
+
+      Text Node
+      text = "7z"
+
+
+    Node name = draw
+         line = 1636
+
+      Text Node
+      text = "3m"
+
+
+    Node name = discard2
+         line = 1637
+
+      Text Node
+      text = "3m"
+
+
+    Node name = draw
+         line = 1638
+
+      Text Node
+      text = "9m"
+
+
+    Node name = discard2
+         line = 1639
+
+      Text Node
+      text = "9m"
+
+
+    Node name = draw
+         line = 1640
+
+      Text Node
+      text = "8m"
+
+
+    Node name = discard2
+         line = 1641
+
+      Text Node
+      text = "8m"
+
+
+    Node name = draw
+         line = 1642
+
+      Text Node
+      text = "5M"
+
+
+    Node name = discard1
+         line = 1643
+
+      Text Node
+      text = "6m"
+
+
+    Node name = draw
+         line = 1644
+
+      Text Node
+      text = "1z"
+
+
+    Node name = discard2
+         line = 1645
+
+      Text Node
+      text = "1z"
+
+
+    Node name = draw
+         line = 1646
+
+      Text Node
+      text = "7s"
+
+
+    Node name = discard1
+         line = 1647
+
+      Text Node
+      text = "6m"
+
+
+    Node name = chi
+         line = 1648
+
+      Text Node
+      text = "4m5m"
+
+
+    Node name = discard1
+         line = 1649
+
+      Text Node
+      text = "9m"
+
+
+    Node name = draw
+         line = 1650
+
+      Text Node
+      text = "7m"
+
+
+    Node name = discard2
+         line = 1651
+
+      Text Node
+      text = "7m"
+
+
+    Node name = draw
+         line = 1652
+
+      Text Node
+      text = "9s"
+
+
+    Node name = discard2
+         line = 1653
+
+      Text Node
+      text = "9s"
+
+
+    Node name = draw
+         line = 1654
+
+      Text Node
+      text = "2p"
+
+
+    Node name = discard1
+         line = 1655
+
+      Text Node
+      text = "3s"
+
+
+    Node name = hu
+         line = 1656
+      Attribute from = 3
+      Attribute id = 1
+
+
+    Node name = end
+         line = 1657
+
+
+    Node name = hu
+         line = 1658
+      Attribute from = 3
+      Attribute id = 1
+      Attribute score = 3900
+
+
+      Node name = change
+           line = 1659
+
+        Text Node
+        text = "0 45 0 -45"
+
+
+
